@@ -186,7 +186,7 @@
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/29/Barcelona2018_7_29_14_44.jpg"
         },
         "score_a": "0",
-        "score_b": "0",
+        "score_b": "1",
         "match_url": "https://www.yallakora.com/la-liga/3034/match/111679/%d8%a5%d9%84%d8%aa%d8%b4%d9%8a-%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d8%a9--%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a5%d8%b3%d8%a8%d8%a7%d9%86%d9%8a#MC_MatcheDetails"
       }
     ]
@@ -269,7 +269,7 @@
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2021/7/15/Genclerbirligi2021_7_15_16_19.jpg"
         },
         "score_a": "0",
-        "score_b": "0",
+        "score_b": "1",
         "match_url": "https://www.yallakora.com/turkish-super-lig/3039/match/111868/%d8%ac%d9%88%d8%b2%d8%aa%d9%8a%d8%a8%d9%8a-%d8%ac%d9%86%d8%aa%d8%b4%d9%84%d8%b1%d8%a8%d9%8a%d8%b1%d9%84%d9%8a%d8%ac%d9%8a-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%aa%d8%b1%d9%83%d9%8a#MC_MatcheDetails"
       }
     ]
@@ -321,7 +321,7 @@
         "match_id": "112338",
         "round": "الأسبوع الأول",
         "status": "LIVE",
-        "status_label": "استراحة",
+        "status_label": "الشوط الثاني",
         "time": "21:45",
         "channel": "بى ان سبورت 1HD",
         "team_a": {
@@ -385,7 +385,7 @@
         "match_id": "111895",
         "round": "الأسبوع الأول",
         "status": "LIVE",
-        "status_label": "استراحة",
+        "status_label": "الشوط الثاني",
         "time": "21:45",
         "channel": "Starz Play App",
         "team_a": {
@@ -404,7 +404,7 @@
         "match_id": "111896",
         "round": "الأسبوع الأول",
         "status": "LIVE",
-        "status_label": "الشوط الأول",
+        "status_label": "الشوط الثاني",
         "time": "21:45",
         "channel": "Starz Play App",
         "team_a": {
@@ -416,7 +416,7 @@
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/29/Sassuolo2018_7_29_15_11.jpg"
         },
         "score_a": "1",
-        "score_b": "0",
+        "score_b": "1",
         "match_url": "https://www.yallakora.com/serie-a/3035/match/111896/%d8%a3%d8%aa%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%a7-%d8%b3%d8%a7%d8%b3%d9%88%d9%84%d9%88-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a5%d9%8a%d8%b7%d8%a7%d9%84%d9%8a#MC_MatcheDetails"
       }
     ]
