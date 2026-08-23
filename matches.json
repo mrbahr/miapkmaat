@@ -154,8 +154,8 @@
       {
         "match_id": "111678",
         "round": "الأسبوع الثاني",
-        "status": "LIVE",
-        "status_label": "الشوط الثاني",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "20:30",
         "channel": "بى ان سبورت 3 HD",
         "team_a": {
@@ -173,8 +173,8 @@
       {
         "match_id": "111679",
         "round": "الأسبوع الثاني",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الأول",
         "time": "22:30",
         "channel": "بى ان سبورت 2 HD",
         "team_a": {
@@ -185,8 +185,8 @@
           "name": "برشلونة",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/29/Barcelona2018_7_29_14_44.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/la-liga/3034/match/111679/%d8%a5%d9%84%d8%aa%d8%b4%d9%8a-%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d8%a9--%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a5%d8%b3%d8%a8%d8%a7%d9%86%d9%8a#MC_MatcheDetails"
       }
     ]
@@ -238,7 +238,7 @@
         "match_id": "111867",
         "round": "الأسبوع الثاني",
         "status": "LIVE",
-        "status_label": "الشوط الأول",
+        "status_label": "الشوط الثاني",
         "time": "21:30",
         "channel": "بى ان سبورت 4 HD",
         "team_a": {
@@ -257,7 +257,7 @@
         "match_id": "111868",
         "round": "الأسبوع الثاني",
         "status": "LIVE",
-        "status_label": "الشوط الأول",
+        "status_label": "الشوط الثاني",
         "time": "21:30",
         "channel": null,
         "team_a": {
@@ -321,7 +321,7 @@
         "match_id": "112338",
         "round": "الأسبوع الأول",
         "status": "LIVE",
-        "status_label": "الشوط الأول",
+        "status_label": "استراحة",
         "time": "21:45",
         "channel": "بى ان سبورت 1HD",
         "team_a": {
@@ -385,7 +385,7 @@
         "match_id": "111895",
         "round": "الأسبوع الأول",
         "status": "LIVE",
-        "status_label": "الشوط الأول",
+        "status_label": "استراحة",
         "time": "21:45",
         "channel": "Starz Play App",
         "team_a": {
@@ -512,8 +512,8 @@
       {
         "match_id": "111781",
         "round": "الأسبوع الثالث",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الأول",
         "time": "22:30",
         "channel": null,
         "team_a": {
@@ -524,8 +524,8 @@
           "name": "أروكا",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2015/3/23/Arouca2015_3_23_18_40.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/primeira-liga/3038/match/111781/%d8%a8%d9%88%d8%b1%d8%aa%d9%88-%d8%a3%d8%b1%d9%88%d9%83%d8%a7-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a8%d8%b1%d8%aa%d8%ba%d8%a7%d9%84%d9%8a#MC_MatcheDetails"
       }
     ]
