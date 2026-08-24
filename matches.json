@@ -8,7 +8,7 @@
         "match_id": "111558",
         "round": "الأسبوع الأول",
         "status": "LIVE",
-        "status_label": "الشوط الأول",
+        "status_label": "الشوط الثاني",
         "time": "22:00",
         "channel": "بى ان سبورت 1HD",
         "team_a": {
@@ -19,8 +19,8 @@
           "name": "تشيلسي",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/29/Chelsea2018_7_29_15_28.jpg"
         },
-        "score_a": "1",
-        "score_b": "2",
+        "score_a": "2",
+        "score_b": "3",
         "match_url": "https://www.yallakora.com/epl/3033/match/111558/%d9%81%d9%88%d9%84%d9%87%d8%a7%d9%85-%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a--%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a5%d9%86%d8%ac%d9%84%d9%8a%d8%b2%d9%8a#MC_MatcheDetails"
       }
     ]
@@ -64,7 +64,7 @@
           "name": "ديبورتيفو لاكورونيا",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/29/DeportivoLaCoruna2018_7_29_14_52.jpg"
         },
-        "score_a": "0",
+        "score_a": "1",
         "score_b": "1",
         "match_url": "https://www.yallakora.com/la-liga/3034/match/111681/%d9%85%d8%a7%d9%84%d8%a7%d8%ac%d8%a7-%d8%af%d9%8a%d8%a8%d9%88%d8%b1%d8%aa%d9%8a%d9%81%d9%88-%d9%84%d8%a7%d9%83%d9%88%d8%b1%d9%88%d9%86%d9%8a%d8%a7-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a5%d8%b3%d8%a8%d8%a7%d9%86%d9%8a#MC_MatcheDetails"
       }
@@ -124,7 +124,7 @@
         "match_id": "111898",
         "round": "الأسبوع الأول",
         "status": "LIVE",
-        "status_label": "استراحة",
+        "status_label": "الشوط الثاني",
         "time": "21:45",
         "channel": "Starz Play App",
         "team_a": {
@@ -135,7 +135,7 @@
           "name": "فيورنتينا",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2026/8/5/Screenshot 2026-08-05 1746362026_8_5_17_45.webp"
         },
-        "score_a": "1",
+        "score_a": "3",
         "score_b": "0",
         "match_url": "https://www.yallakora.com/serie-a/3035/match/111898/%d8%b1%d9%88%d9%85%d8%a7-%d9%81%d9%8a%d9%88%d8%b1%d9%86%d8%aa%d9%8a%d9%86%d8%a7-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a5%d9%8a%d8%b7%d8%a7%d9%84%d9%8a#MC_MatcheDetails"
       }
@@ -168,8 +168,8 @@
       {
         "match_id": "111820",
         "round": "الأسبوع الثالث",
-        "status": "LIVE",
-        "status_label": "الشوط الثاني",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "21:00",
         "channel": "ثمانية 1",
         "team_a": {
@@ -195,7 +195,7 @@
         "match_id": "111783",
         "round": "الأسبوع الثالث",
         "status": "LIVE",
-        "status_label": "الشوط الأول",
+        "status_label": "استراحة",
         "time": "22:15",
         "channel": null,
         "team_a": {
@@ -206,7 +206,7 @@
           "name": "كازا بيا",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2022/8/11/Casa12022_8_11_22_40.jpg"
         },
-        "score_a": "1",
+        "score_a": "2",
         "score_b": "0",
         "match_url": "https://www.yallakora.com/primeira-liga/3038/match/111783/%d8%ac%d9%84-%d9%81%d9%8a%d8%b3%d9%86%d8%aa%d9%8a-%d9%83%d8%a7%d8%b2%d8%a7-%d8%a8%d9%8a%d8%a7-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a8%d8%b1%d8%aa%d8%ba%d8%a7%d9%84%d9%8a#MC_MatcheDetails"
       }
