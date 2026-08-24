@@ -104,8 +104,8 @@
       {
         "match_id": "111897",
         "round": "الأسبوع الأول",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الأول",
         "time": "19:30",
         "channel": "Starz Play App",
         "team_a": {
@@ -116,8 +116,8 @@
           "name": "لاتسيو",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/29/Lazio2018_7_29_15_9.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/serie-a/3035/match/111897/%d8%a8%d9%88%d9%84%d9%88%d9%86%d9%8a%d8%a7-%d9%84%d8%a7%d8%aa%d8%b3%d9%8a%d9%88-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a5%d9%8a%d8%b7%d8%a7%d9%84%d9%8a#MC_MatcheDetails"
       },
       {
