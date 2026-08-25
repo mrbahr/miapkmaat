@@ -8,7 +8,7 @@
         "match_id": "111669",
         "round": "الأسبوع الأول",
         "status": "LIVE",
-        "status_label": "الشوط الأول",
+        "status_label": "الشوط الثاني",
         "time": "22:00",
         "channel": "بى ان سبورت 3 HD",
         "team_a": {
@@ -53,7 +53,7 @@
         "match_id": "112159",
         "round": "عودة المرحلة الفاصلة",
         "status": "LIVE",
-        "status_label": "الشوط الأول",
+        "status_label": "الشوط الثاني",
         "time": "22:00",
         "channel": "بى ان سبورت 1HD",
         "team_a": {
@@ -64,7 +64,7 @@
           "name": "سلتيك",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/8/12/Celtic2018_8_12_13_0.jpg"
         },
-        "score_a": "1",
+        "score_a": "2",
         "score_b": "1",
         "match_url": "https://www.yallakora.com/uefa/3049/match/112159/%d9%84%d8%a7%d8%b3%d9%83-%d9%84%d9%8a%d9%86%d8%b2-%d8%b3%d9%84%d8%aa%d9%8a%d9%83-%d8%af%d9%88%d8%b1%d9%8a-%d8%a3%d8%a8%d8%b7%d8%a7%d9%84-%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d8%a7#MC_MatcheDetails"
       },
@@ -135,8 +135,8 @@
       {
         "match_id": "111823",
         "round": "الأسبوع الثالث",
-        "status": "LIVE",
-        "status_label": "الشوط الثاني",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "21:00",
         "channel": "ثمانية 3",
         "team_a": {
@@ -154,8 +154,8 @@
       {
         "match_id": "111824",
         "round": "الأسبوع الثالث",
-        "status": "LIVE",
-        "status_label": "الشوط الثاني",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "21:00",
         "channel": "ثمانية 1",
         "team_a": {
@@ -167,7 +167,7 @@
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2025/5/19/xdDArNPC_400x4002025_5_19_22_38.webp"
         },
         "score_a": "2",
-        "score_b": "2",
+        "score_b": "3",
         "match_url": "https://www.yallakora.com/ksa-league/3040/match/111824/%d8%a7%d9%84%d8%a7%d8%aa%d9%81%d9%80%d9%80%d9%80%d9%80%d9%80%d8%a7%d9%82-%d8%a7%d9%84%d9%86%d8%b5%d8%b1-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a#MC_MatcheDetails"
       }
     ]
