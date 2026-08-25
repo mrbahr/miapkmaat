@@ -100,7 +100,7 @@
         "status": "SCHEDULED",
         "status_label": "لم تبدأ",
         "time": "19:05",
-        "channel": null,
+        "channel": "تطبيق ثمانية",
         "team_a": {
           "name": "أبها",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2026/8/2/429662615_419286860612195_8035419170743120015_n2026_8_2_18_22.webp"
@@ -138,7 +138,7 @@
         "status": "SCHEDULED",
         "status_label": "لم تبدأ",
         "time": "21:00",
-        "channel": null,
+        "channel": "ثمانية 3",
         "team_a": {
           "name": "الشباب",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2023/7/29/331774651_1362804437889036_4103221782658863338_n2023_7_29_22_41.jpg"
@@ -157,7 +157,7 @@
         "status": "SCHEDULED",
         "status_label": "لم تبدأ",
         "time": "21:00",
-        "channel": null,
+        "channel": "ثمانية 1",
         "team_a": {
           "name": "الاتفـــــاق",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/25/Ettifaq2018_7_25_17_9.jpg"
