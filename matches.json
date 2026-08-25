@@ -33,8 +33,8 @@
       {
         "match_id": "112350",
         "round": "عودة المرحلة الفاصلة",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "مباشر",
         "time": "19:45",
         "channel": null,
         "team_a": {
@@ -45,8 +45,8 @@
           "name": "هابويل بئر سبع",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2022/9/15/YK-Generic-team-logo2022_9_15_22_0.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "1",
+        "score_b": "1",
         "match_url": "https://www.yallakora.com/uefa/3049/match/112350/%d8%b5%d8%a8%d8%a7%d8%ad-%d8%a5%d9%81-%d9%83%d9%8a%d9%87-%d9%87%d8%a7%d8%a8%d9%88%d9%8a%d9%84-%d8%a8%d8%a6%d8%b1-%d8%b3%d8%a8%d8%b9-%d8%af%d9%88%d8%b1%d9%8a-%d8%a3%d8%a8%d8%b7%d8%a7%d9%84-%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d8%a7#MC_MatcheDetails"
       },
       {
