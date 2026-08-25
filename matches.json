@@ -97,8 +97,8 @@
       {
         "match_id": "111821",
         "round": "الأسبوع الثالث",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الأول",
         "time": "19:05",
         "channel": "تطبيق ثمانية",
         "team_a": {
@@ -109,15 +109,15 @@
           "name": "الخليج",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2023/8/12/khaleej12023_8_12_15_55.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "1",
+        "score_b": "1",
         "match_url": "https://www.yallakora.com/ksa-league/3040/match/111821/%d8%a3%d8%a8%d9%87%d8%a7-%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d8%ac-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a#MC_MatcheDetails"
       },
       {
         "match_id": "111822",
         "round": "الأسبوع الثالث",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الأول",
         "time": "19:10",
         "channel": "ثمانية 2",
         "team_a": {
@@ -128,8 +128,8 @@
           "name": "الفيحاء",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2021/9/7/AlFayha2021_9_7_17_37.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/ksa-league/3040/match/111822/%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d9%88%d9%86-%d8%a7%d9%84%d9%81%d9%8a%d8%ad%d8%a7%d8%a1-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a#MC_MatcheDetails"
       },
       {
