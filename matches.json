@@ -8,7 +8,7 @@
         "match_id": "111941",
         "round": "الأسبوع الثاني",
         "status": "LIVE",
-        "status_label": "الشوط الأول",
+        "status_label": "الشوط الثاني",
         "time": "17:00",
         "channel": "ON Sport PLUS",
         "team_a": {
@@ -95,23 +95,23 @@
     "logo": "https://mediayk.gemini.media/img/yallakora/tourlogo/FIFA_Intercontinental_Cup logo5-12-2025-5-22-1.webp",
     "matches": [
       {
-        "match_id": "112339",
+        "match_id": "112355",
         "round": "الملحق المؤهل إلى دور الـ 16",
         "status": "SCHEDULED",
         "status_label": "لم تبدأ",
         "time": "21:00",
-        "channel": "‎MBC Action",
+        "channel": null,
         "team_a": {
           "name": "أهلي جدة",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2025/8/20/al-ahli-logo-png22025_8_20_16_10.webp"
         },
         "team_b": {
-          "name": "أوكلاند سيتي",
-          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2021/12/8/Untitled-12021_12_8_18_51.jpg"
+          "name": "نادي أوكلاند",
+          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2026/8/26/Auckland_FC_Crest2026_8_26_18_9.webp"
         },
         "score_a": null,
         "score_b": null,
-        "match_url": "https://www.yallakora.com/fifa-intercontinental-cup/3059/match/112339/%d8%a3%d9%87%d9%84%d9%8a-%d8%ac%d8%af%d8%a9-%d8%a3%d9%88%d9%83%d9%84%d8%a7%d9%86%d8%af-%d8%b3%d9%8a%d8%aa%d9%8a-%d9%83%d8%a3%d8%b3-%d8%a5%d9%86%d8%aa%d8%b1%d9%83%d9%88%d9%86%d8%aa%d9%8a%d9%86%d9%86%d8%aa%d8%a7%d9%84#MC_MatcheDetails"
+        "match_url": "https://www.yallakora.com/fifa-intercontinental-cup/3059/match/112355/%d8%a3%d9%87%d9%84%d9%8a-%d8%ac%d8%af%d8%a9-%d9%86%d8%a7%d8%af%d9%8a-%d8%a3%d9%88%d9%83%d9%84%d8%a7%d9%86%d8%af-%d9%83%d8%a3%d8%b3-%d8%a5%d9%86%d8%aa%d8%b1%d9%83%d9%88%d9%86%d8%aa%d9%8a%d9%86%d9%86%d8%aa%d8%a7%d9%84#MC_MatcheDetails"
       }
     ]
   },
