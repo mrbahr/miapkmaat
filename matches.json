@@ -209,7 +209,7 @@
         "status": "SCHEDULED",
         "status_label": "لم تبدأ",
         "time": "19:00",
-        "channel": null,
+        "channel": "ثمانية 2",
         "team_a": {
           "name": "الفيصلي",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2022/4/14/AL-FAISALY-FC12022_4_14_11_16.jpg"
@@ -228,7 +228,7 @@
         "status": "SCHEDULED",
         "status_label": "لم تبدأ",
         "time": "21:00",
-        "channel": null,
+        "channel": "ثمانية 1",
         "team_a": {
           "name": "الدرعية",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2026/8/2/ak6LtnRz_400x4002026_8_2_18_32.webp"
