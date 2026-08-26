@@ -26,8 +26,8 @@
       {
         "match_id": "111942",
         "round": "الأسبوع الثاني",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الثاني",
         "time": "20:00",
         "channel": "ON Sport MAX",
         "team_a": {
@@ -38,15 +38,15 @@
           "name": "طلائع الجيش",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2020/12/17/TalaeaElgaish2020_12_17_17_56.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "3",
         "match_url": "https://www.yallakora.com/egyptian-league/3031/match/111942/%d9%85-%d8%a7%d9%84%d8%b3%d9%88%d9%8a%d8%b3-%d8%a8%d8%aa%d8%b1%d9%88%d8%ac%d8%aa-%d8%b7%d9%84%d8%a7%d8%a6%d8%b9-%d8%a7%d9%84%d8%ac%d9%8a%d8%b4-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a#MC_MatcheDetails"
       },
       {
         "match_id": "111943",
         "round": "الأسبوع الثاني",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الثاني",
         "time": "20:00",
         "channel": "ON Sport",
         "team_a": {
@@ -57,8 +57,8 @@
           "name": "الزمالك",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/24/Zamalek2018_7_24_13_31.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "1",
         "match_url": "https://www.yallakora.com/egyptian-league/3031/match/111943/%d8%a7%d9%84%d8%a8%d9%86%d9%83-%d8%a7%d9%84%d8%a3%d9%87%d9%84%d9%8a-%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%84%d9%83-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a#MC_MatcheDetails"
       }
     ]
@@ -97,8 +97,8 @@
       {
         "match_id": "112355",
         "round": "الملحق المؤهل إلى دور الـ 16",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الأول",
         "time": "21:00",
         "channel": null,
         "team_a": {
@@ -109,8 +109,8 @@
           "name": "نادي أوكلاند",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2026/8/26/Auckland_FC_logo12026_8_26_19_8.webp"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/fifa-intercontinental-cup/3059/match/112355/%d8%a3%d9%87%d9%84%d9%8a-%d8%ac%d8%af%d8%a9-%d9%86%d8%a7%d8%af%d9%8a-%d8%a3%d9%88%d9%83%d9%84%d8%a7%d9%86%d8%af-%d9%83%d8%a3%d8%b3-%d8%a5%d9%86%d8%aa%d8%b1%d9%83%d9%88%d9%86%d8%aa%d9%8a%d9%86%d9%86%d8%aa%d8%a7%d9%84#MC_MatcheDetails"
       }
     ]
@@ -206,8 +206,8 @@
       {
         "match_id": "111825",
         "round": "الأسبوع الثالث",
-        "status": "LIVE",
-        "status_label": "الشوط الأول",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "19:00",
         "channel": "ثمانية 2",
         "team_a": {
@@ -218,15 +218,15 @@
           "name": "الفتح",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2023/2/3/fath12023_2_3_16_33.jpg"
         },
-        "score_a": "0",
+        "score_a": "1",
         "score_b": "1",
         "match_url": "https://www.yallakora.com/ksa-league/3040/match/111825/%d8%a7%d9%84%d9%81%d9%8a%d8%b5%d9%84%d9%8a-%d8%a7%d9%84%d9%81%d8%aa%d8%ad-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a#MC_MatcheDetails"
       },
       {
         "match_id": "111826",
         "round": "الأسبوع الثالث",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الأول",
         "time": "21:00",
         "channel": "ثمانية 1",
         "team_a": {
@@ -237,8 +237,8 @@
           "name": "الخلود",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2025/9/25/Al_Kholood_Club12025_9_25_0_22.webp"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/ksa-league/3040/match/111826/%d8%a7%d9%84%d8%af%d8%b1%d8%b9%d9%8a%d8%a9-%d8%a7%d9%84%d8%ae%d9%84%d9%88%d8%af-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a#MC_MatcheDetails"
       }
     ]
