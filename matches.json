@@ -7,8 +7,8 @@
       {
         "match_id": "111941",
         "round": "الأسبوع الثاني",
-        "status": "LIVE",
-        "status_label": "الشوط الثاني",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "17:00",
         "channel": "ON Sport PLUS",
         "team_a": {
@@ -107,7 +107,7 @@
         },
         "team_b": {
           "name": "نادي أوكلاند",
-          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2026/8/26/Auckland_FC_Crest2026_8_26_18_9.webp"
+          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2026/8/26/Auckland_FC_logo12026_8_26_19_8.webp"
         },
         "score_a": null,
         "score_b": null,
@@ -206,8 +206,8 @@
       {
         "match_id": "111825",
         "round": "الأسبوع الثالث",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الأول",
         "time": "19:00",
         "channel": "ثمانية 2",
         "team_a": {
@@ -218,8 +218,8 @@
           "name": "الفتح",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2023/2/3/fath12023_2_3_16_33.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "1",
         "match_url": "https://www.yallakora.com/ksa-league/3040/match/111825/%d8%a7%d9%84%d9%81%d9%8a%d8%b5%d9%84%d9%8a-%d8%a7%d9%84%d9%81%d8%aa%d8%ad-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a#MC_MatcheDetails"
       },
       {
