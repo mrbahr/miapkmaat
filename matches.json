@@ -48,7 +48,7 @@
         "status": "SCHEDULED",
         "status_label": "لم تبدأ",
         "time": "20:00",
-        "channel": null,
+        "channel": "ON Sport MAX",
         "team_a": {
           "name": "سيراميكا كليوباترا",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2020/12/17/cliopatraFC2020_12_17_18_1.jpg"
