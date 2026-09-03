@@ -83,25 +83,6 @@
     "logo": "https://mediayk.gemini.media/img/yallakora/tourlogo/efa123-9-2023-20-51-6.png",
     "matches": [
       {
-        "match_id": "112269",
-        "round": "الأسبوع الثالث",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
-        "time": "04:30",
-        "channel": null,
-        "team_a": {
-          "name": "بلدية المحلة",
-          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2023/9/19/12023_9_19_23_45.jpg"
-        },
-        "team_b": {
-          "name": "نادى دلتا يونايتد",
-          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2026/8/12/delta club12026_8_12_19_21.webp"
-        },
-        "score_a": null,
-        "score_b": null,
-        "match_url": "https://www.yallakora.com/egyptian-second-division/3056/match/112269/%d8%a8%d9%84%d8%af%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d8%ad%d9%84%d8%a9-%d9%86%d8%a7%d8%af%d9%89-%d8%af%d9%84%d8%aa%d8%a7-%d9%8a%d9%88%d9%86%d8%a7%d9%8a%d8%aa%d8%af-%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d9%82%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a3#MC_MatcheDetails"
-      },
-      {
         "match_id": "112260",
         "round": "الأسبوع الثالث",
         "status": "SCHEDULED",
