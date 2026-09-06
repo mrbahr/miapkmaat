@@ -71,8 +71,8 @@
       {
         "match_id": "112241",
         "round": "الذهاب",
-        "status": "LIVE",
-        "status_label": "الشوط الأول",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "20:00",
         "channel": "ON Sport",
         "team_a": {
@@ -83,7 +83,7 @@
           "name": "جيبوتي تيليكوم",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/10/31/AsasTelecom2018_10_31_14_4.jpg"
         },
-        "score_a": "1",
+        "score_a": "4",
         "score_b": "0",
         "match_url": "https://www.yallakora.com/african-confederation-cup/3051/match/112241/%d8%b2%d8%af-%d8%ac%d9%8a%d8%a8%d9%88%d8%aa%d9%8a-%d8%aa%d9%8a%d9%84%d9%8a%d9%83%d9%88%d9%85--%d8%a7%d9%84%d9%83%d9%88%d9%86%d9%81%d9%8a%d8%af%d8%b1%d8%a7%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%a3%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a9#MC_MatcheDetails"
       }
@@ -161,8 +161,8 @@
       {
         "match_id": "111694",
         "round": "الأسبوع الرابع",
-        "status": "LIVE",
-        "status_label": "الشوط الثاني",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "19:30",
         "channel": "بى ان سبورت 3 HD",
         "team_a": {
@@ -180,8 +180,8 @@
       {
         "match_id": "111698",
         "round": "الأسبوع الرابع",
-        "status": "LIVE",
-        "status_label": "الشوط الثاني",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "19:30",
         "channel": "بى ان سبورت 2 HD",
         "team_a": {
@@ -192,15 +192,15 @@
           "name": "أوساسونا",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2019/7/14/Osasuna2019_7_14_16_48.jpg"
         },
-        "score_a": "2",
-        "score_b": "1",
+        "score_a": "5",
+        "score_b": "2",
         "match_url": "https://www.yallakora.com/la-liga/3034/match/111698/%d8%a3%d9%84%d8%a7%d9%81%d9%8a%d8%b3-%d8%a3%d9%88%d8%b3%d8%a7%d8%b3%d9%88%d9%86%d8%a7-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a5%d8%b3%d8%a8%d8%a7%d9%86%d9%8a#MC_MatcheDetails"
       },
       {
         "match_id": "111692",
         "round": "الأسبوع الرابع",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الأول",
         "time": "22:00",
         "channel": "بى ان سبورت 2 HD",
         "team_a": {
@@ -211,8 +211,8 @@
           "name": "اشبيلية",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/29/Sevilla2018_7_29_14_45.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/la-liga/3034/match/111692/%d8%a7%d8%b3%d8%a8%d8%a7%d9%86%d9%8a%d9%88%d9%84-%d8%a7%d8%b4%d8%a8%d9%8a%d9%84%d9%8a%d8%a9--%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a5%d8%b3%d8%a8%d8%a7%d9%86%d9%8a#MC_MatcheDetails"
       }
     ]
@@ -263,8 +263,8 @@
       {
         "match_id": "112120",
         "round": "الأسبوع الرابع",
-        "status": "LIVE",
-        "status_label": "الشوط الأول",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "20:00",
         "channel": null,
         "team_a": {
@@ -282,8 +282,8 @@
       {
         "match_id": "112124",
         "round": "الأسبوع الرابع",
-        "status": "LIVE",
-        "status_label": "الشوط الأول",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "20:00",
         "channel": "بى ان سبورت 5 HD",
         "team_a": {
@@ -294,7 +294,7 @@
           "name": "جنتشلربيرليجي",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2021/7/15/Genclerbirligi2021_7_15_16_19.jpg"
         },
-        "score_a": "3",
+        "score_a": "5",
         "score_b": "0",
         "match_url": "https://www.yallakora.com/turkish-super-lig/3039/match/112124/%d8%b7%d8%b1%d8%a7%d8%a8%d8%b2%d9%88%d9%86-%d8%b3%d8%a8%d9%88%d8%b1-%d8%ac%d9%86%d8%aa%d8%b4%d9%84%d8%b1%d8%a8%d9%8a%d8%b1%d9%84%d9%8a%d8%ac%d9%8a-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%aa%d8%b1%d9%83%d9%8a#MC_MatcheDetails"
       }
@@ -346,8 +346,8 @@
       {
         "match_id": "111624",
         "round": "الأسبوع الثالث",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الأول",
         "time": "21:45",
         "channel": "بى ان سبورت 4 HD",
         "team_a": {
@@ -358,8 +358,8 @@
           "name": "باريس إف سي",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2023/1/28/Paris_FC_logo.svg2023_1_28_18_18.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "1",
+        "score_b": "2",
         "match_url": "https://www.yallakora.com/ligue1/3037/match/111624/%d9%85%d8%a7%d8%b1%d8%b3%d9%8a%d9%84%d9%8a%d8%a7-%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3-%d8%a5%d9%81-%d8%b3%d9%8a-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d9%81%d8%b1%d9%86%d8%b3%d9%8a#MC_MatcheDetails"
       }
     ]
@@ -410,8 +410,8 @@
       {
         "match_id": "112531",
         "round": "الأسبوع الثالث",
-        "status": "LIVE",
-        "status_label": "الشوط الثاني",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "19:00",
         "channel": "Starz Play App",
         "team_a": {
@@ -422,15 +422,15 @@
           "name": "ساسولو",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/29/Sassuolo2018_7_29_15_11.jpg"
         },
-        "score_a": "1",
+        "score_a": "2",
         "score_b": "2",
         "match_url": "https://www.yallakora.com/serie-a/3035/match/112531/%d8%a8%d9%88%d9%84%d9%88%d9%86%d9%8a%d8%a7-%d8%b3%d8%a7%d8%b3%d9%88%d9%84%d9%88-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a5%d9%8a%d8%b7%d8%a7%d9%84%d9%8a#MC_MatcheDetails"
       },
       {
         "match_id": "112532",
         "round": "الأسبوع الثالث",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الأول",
         "time": "21:45",
         "channel": "Starz Play App",
         "team_a": {
@@ -441,8 +441,8 @@
           "name": "ميلان",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/29/ACMilan2018_7_29_15_9.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/serie-a/3035/match/112532/%d9%8a%d9%88%d9%81%d9%86%d8%aa%d9%88%d8%b3-%d9%85%d9%8a%d9%84%d8%a7%d9%86-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a5%d9%8a%d8%b7%d8%a7%d9%84%d9%8a#MC_MatcheDetails"
       }
     ]
@@ -519,8 +519,8 @@
       {
         "match_id": "112522",
         "round": "الأسبوع الخامس",
-        "status": "LIVE",
-        "status_label": "الشوط الأول",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "20:00",
         "channel": null,
         "team_a": {
@@ -538,8 +538,8 @@
       {
         "match_id": "112523",
         "round": "الأسبوع الخامس",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الأول",
         "time": "22:30",
         "channel": null,
         "team_a": {
@@ -550,8 +550,8 @@
           "name": "أكاديميكو فيزيو",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2026/8/2/medium_Emb_Ac_Viseu_AF_200x200_300_849bd92d0b2026_8_2_19_1.webp"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/primeira-liga/3038/match/112523/%d8%ac%d9%84-%d9%81%d9%8a%d8%b3%d9%86%d8%aa%d9%8a-%d8%a3%d9%83%d8%a7%d8%af%d9%8a%d9%85%d9%8a%d9%83%d9%88-%d9%81%d9%8a%d8%b2%d9%8a%d9%88-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a8%d8%b1%d8%aa%d8%ba%d8%a7%d9%84%d9%8a#MC_MatcheDetails"
       }
     ]
@@ -583,8 +583,8 @@
       {
         "match_id": "112113",
         "round": "الأسبوع الرابع",
-        "status": "LIVE",
-        "status_label": "الشوط الثاني",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "19:15",
         "channel": "أبوظبي الرياضية - HD1",
         "team_a": {
@@ -596,7 +596,7 @@
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2019/3/12/AlWahda2019_3_12_9_56.jpg"
         },
         "score_a": "0",
-        "score_b": "0",
+        "score_b": "1",
         "match_url": "https://www.yallakora.com/uael-league/3042/match/112113/%d8%a7%d9%84%d8%b8%d9%81%d8%b1%d8%a9-%d8%a7%d9%84%d9%88%d8%ad%d9%80%d9%80%d9%80%d8%af%d8%a9--%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a5%d9%85%d8%a7%d8%b1%d8%a7%d8%aa%d9%8a#MC_MatcheDetails"
       }
     ]
