@@ -7,8 +7,8 @@
       {
         "match_id": "112154",
         "round": "الذهاب",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "استراحة",
         "time": "15:00",
         "channel": "ON Sport",
         "team_a": {
@@ -19,8 +19,8 @@
           "name": "بيراميدز",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2020/12/17/PyramidsFC2020_12_17_17_30.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "2",
         "match_url": "https://www.yallakora.com/african-champions-league/3050/match/112154/%d8%ac%d9%88%d8%b1-%d9%85%d8%a7%d9%87%d9%8a%d8%a7-%d8%a8%d9%8a%d8%b1%d8%a7%d9%85%d9%8a%d8%af%d8%b2-%d8%af%d9%88%d8%b1%d9%8a-%d8%a3%d8%a8%d8%b7%d8%a7%d9%84-%d8%a3%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7#MC_MatcheDetails"
       },
       {
