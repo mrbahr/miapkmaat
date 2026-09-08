@@ -7,8 +7,8 @@
       {
         "match_id": "111995",
         "round": "الأسبوع الرابع",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الأول",
         "time": "20:00",
         "channel": "ON Sport",
         "team_a": {
@@ -19,15 +19,15 @@
           "name": "أبو قير للاسمدة",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/10/9/AboKeer2018_10_9_12_13.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "1",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/egyptian-league/3031/match/111995/%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%84%d9%83-%d8%a3%d8%a8%d9%88-%d9%82%d9%8a%d8%b1-%d9%84%d9%84%d8%a7%d8%b3%d9%85%d8%af%d8%a9-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a#MC_MatcheDetails"
       },
       {
         "match_id": "111996",
         "round": "الأسبوع الرابع",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الأول",
         "time": "20:00",
         "channel": "ON Sport MAX",
         "team_a": {
@@ -38,8 +38,8 @@
           "name": "سيراميكا كليوباترا",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2020/12/17/cliopatraFC2020_12_17_18_1.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/egyptian-league/3031/match/111996/%d8%b3%d9%85%d9%88%d8%ad%d8%a9-%d8%b3%d9%8a%d8%b1%d8%a7%d9%85%d9%8a%d9%83%d8%a7-%d9%83%d9%84%d9%8a%d9%88%d8%a8%d8%a7%d8%aa%d8%b1%d8%a7-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a#MC_MatcheDetails"
       }
     ]
@@ -52,8 +52,8 @@
       {
         "match_id": "112562",
         "round": "الجولة الاولي",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الأول",
         "time": "19:45",
         "channel": "بى ان سبورت 2 HD",
         "team_a": {
@@ -64,15 +64,15 @@
           "name": "لاسك لينز",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2021/7/15/Lask2021_7_15_9_46.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "1",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/uefa/3049/match/112562/%d8%a7%d9%8a%d9%83-%d8%a7%d8%ab%d9%8a%d9%86%d8%a7-%d9%84%d8%a7%d8%b3%d9%83-%d9%84%d9%8a%d9%86%d8%b2-%d8%af%d9%88%d8%b1%d9%8a-%d8%a3%d8%a8%d8%b7%d8%a7%d9%84-%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d8%a7#MC_MatcheDetails"
       },
       {
         "match_id": "112563",
         "round": "الجولة الاولي",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الأول",
         "time": "19:45",
         "channel": "بى ان سبورت 1HD",
         "team_a": {
@@ -83,8 +83,8 @@
           "name": "أستون فيلا",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/9/10/AstonVilla2018_9_10_12_22.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "1",
+        "score_b": "1",
         "match_url": "https://www.yallakora.com/uefa/3049/match/112563/%d9%83%d9%84%d9%88%d8%a8-%d8%a8%d8%b1%d9%88%d8%ac-%d8%a3%d8%b3%d8%aa%d9%88%d9%86-%d9%81%d9%8a%d9%84%d8%a7--%d8%af%d9%88%d8%b1%d9%8a-%d8%a3%d8%a8%d8%b7%d8%a7%d9%84-%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d8%a7#MC_MatcheDetails"
       },
       {
@@ -166,6 +166,89 @@
     ]
   },
   {
+    "name": "كأس كاراباو",
+    "url": "/tour/123/%d9%83%d8%a3%d8%b3-%d9%83%d8%a7%d8%b1%d8%a7%d8%a8%d8%a7%d9%88#MC_MatcheDetails",
+    "logo": "https://mediayk.gemini.media/img/yallakora/tourlogo/EFLCup30-7-2018-15-18-26.png",
+    "matches": [
+      {
+        "match_id": "112968",
+        "round": "دور الـ 32",
+        "status": "SCHEDULED",
+        "status_label": "لم تبدأ",
+        "time": "21:45",
+        "channel": null,
+        "team_a": {
+          "name": "كريستال بالاس",
+          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2021/8/19/CrystalPalace2021_8_19_15_7.jpg"
+        },
+        "team_b": {
+          "name": "ميدلسبره",
+          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/9/24/MiddlesbroughFC2018_9_24_12_59.jpg"
+        },
+        "score_a": null,
+        "score_b": null,
+        "match_url": "https://www.yallakora.com/carabao-cup/3060/match/112968/%d9%83%d8%b1%d9%8a%d8%b3%d8%aa%d8%a7%d9%84-%d8%a8%d8%a7%d9%84%d8%a7%d8%b3--%d9%85%d9%8a%d8%af%d9%84%d8%b3%d8%a8%d8%b1%d9%87-%d9%83%d8%a3%d8%b3-%d9%83%d8%a7%d8%b1%d8%a7%d8%a8%d8%a7%d9%88#MC_MatcheDetails"
+      },
+      {
+        "match_id": "112969",
+        "round": "دور الـ 32",
+        "status": "SCHEDULED",
+        "status_label": "لم تبدأ",
+        "time": "21:45",
+        "channel": null,
+        "team_a": {
+          "name": "سندرلاند",
+          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2015/3/23/Sunderland2015_3_23_13_59.jpg"
+        },
+        "team_b": {
+          "name": "هال سيتي",
+          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2015/3/23/Hull City2015_3_23_13_59.jpg"
+        },
+        "score_a": null,
+        "score_b": null,
+        "match_url": "https://www.yallakora.com/carabao-cup/3060/match/112969/%d8%b3%d9%86%d8%af%d8%b1%d9%84%d8%a7%d9%86%d8%af-%d9%87%d8%a7%d9%84-%d8%b3%d9%8a%d8%aa%d9%8a-%d9%83%d8%a3%d8%b3-%d9%83%d8%a7%d8%b1%d8%a7%d8%a8%d8%a7%d9%88#MC_MatcheDetails"
+      },
+      {
+        "match_id": "112970",
+        "round": "دور الـ 32",
+        "status": "SCHEDULED",
+        "status_label": "لم تبدأ",
+        "time": "21:45",
+        "channel": null,
+        "team_a": {
+          "name": "بورنموث",
+          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/29/Bournemouth2018_7_29_15_32.jpg"
+        },
+        "team_b": {
+          "name": "لينكولن سيتي",
+          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2019/1/20/LincolnCity2019_1_20_14_13.jpg"
+        },
+        "score_a": null,
+        "score_b": null,
+        "match_url": "https://www.yallakora.com/carabao-cup/3060/match/112970/%d8%a8%d9%88%d8%b1%d9%86%d9%85%d9%88%d8%ab-%d9%84%d9%8a%d9%86%d9%83%d9%88%d9%84%d9%86-%d8%b3%d9%8a%d8%aa%d9%8a-%d9%83%d8%a3%d8%b3-%d9%83%d8%a7%d8%b1%d8%a7%d8%a8%d8%a7%d9%88#MC_MatcheDetails"
+      },
+      {
+        "match_id": "112971",
+        "round": "دور الـ 32",
+        "status": "SCHEDULED",
+        "status_label": "لم تبدأ",
+        "time": "22:00",
+        "channel": null,
+        "team_a": {
+          "name": "ميلوول",
+          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/9/24/MillwallFC2018_9_24_13_0.jpg"
+        },
+        "team_b": {
+          "name": "نيوكاسل",
+          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/29/NewcastleUnited2018_7_29_15_27.jpg"
+        },
+        "score_a": null,
+        "score_b": null,
+        "match_url": "https://www.yallakora.com/carabao-cup/3060/match/112971/%d9%85%d9%8a%d9%84%d9%88%d9%88%d9%84-%d9%86%d9%8a%d9%88%d9%83%d8%a7%d8%b3%d9%84-%d9%83%d8%a3%d8%b3-%d9%83%d8%a7%d8%b1%d8%a7%d8%a8%d8%a7%d9%88#MC_MatcheDetails"
+      }
+    ]
+  },
+  {
     "name": "الدوري السعودي",
     "url": "/tour/102/%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a#MC_MatcheDetails",
     "logo": "https://mediayk.gemini.media/img/yallakora/tourlogo/124-8-2022-18-57-59.jpg",
@@ -173,8 +256,8 @@
       {
         "match_id": "112386",
         "round": "الأسبوع السادس",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الثاني",
         "time": "18:30",
         "channel": "ثمانية 2",
         "team_a": {
@@ -185,15 +268,15 @@
           "name": "الفيصلي",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2022/4/14/AL-FAISALY-FC12022_4_14_11_16.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/ksa-league/3040/match/112386/%d8%a7%d9%84%d8%a7%d8%aa%d9%81%d9%80%d9%80%d9%80%d9%80%d9%80%d8%a7%d9%82-%d8%a7%d9%84%d9%81%d9%8a%d8%b5%d9%84%d9%8a-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a#MC_MatcheDetails"
       },
       {
         "match_id": "112387",
         "round": "الأسبوع السادس",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الثاني",
         "time": "18:55",
         "channel": "تطبيق ثمانية",
         "team_a": {
@@ -204,8 +287,8 @@
           "name": "التعاون",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2023/11/10/tawwoun2023_11_10_17_9.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "1",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/ksa-league/3040/match/112387/%d8%a7%d9%84%d8%ad%d8%b2%d9%85-%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d9%88%d9%86-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a#MC_MatcheDetails"
       },
       {
