@@ -292,7 +292,7 @@
         "status": "SCHEDULED",
         "status_label": "لم تبدأ",
         "time": "16:00",
-        "channel": null,
+        "channel": "Starz Play App",
         "team_a": {
           "name": "ليتشي",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2019/7/14/Lecce2019_7_14_16_55.jpg"
@@ -311,7 +311,7 @@
         "status": "SCHEDULED",
         "status_label": "لم تبدأ",
         "time": "19:00",
-        "channel": null,
+        "channel": "Starz Play App",
         "team_a": {
           "name": "نابولي",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2024/8/25/Napoli12024_8_25_20_48.jpg"
@@ -330,7 +330,7 @@
         "status": "SCHEDULED",
         "status_label": "لم تبدأ",
         "time": "21:45",
-        "channel": null,
+        "channel": "Starz Play App",
         "team_a": {
           "name": "ساسولو",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/29/Sassuolo2018_7_29_15_11.jpg"
