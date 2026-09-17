@@ -7,8 +7,8 @@
       {
         "match_id": "112002",
         "round": "الأسبوع الخامس",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الأول",
         "time": "17:00",
         "channel": "ON Sport",
         "team_a": {
@@ -19,8 +19,8 @@
           "name": "القناة",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/10/9/AlQanah2018_10_9_12_34.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/egyptian-league/3031/match/112002/%d8%b2%d8%af-%d8%a7%d9%84%d9%82%d9%86%d8%a7%d8%a9-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a#MC_MatcheDetails"
       },
       {
@@ -97,8 +97,8 @@
       {
         "match_id": "113176",
         "round": "اليوم الثالث",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "11:00",
         "channel": null,
         "team_a": {
@@ -109,15 +109,15 @@
           "name": "الجزائر",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2023/9/4/algeria_round_icon_642023_9_4_20_22.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "3",
+        "score_b": "2",
         "match_url": "https://www.yallakora.com/mens-african-volleyball-championship/3061/match/113176/%d9%86%d9%8a%d8%ac%d9%8a%d8%b1%d9%8a%d8%a7-%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1-%d8%a8%d8%b7%d9%88%d9%84%d8%a9-%d8%a3%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7-%d9%84%d9%84%d9%83%d8%b1%d8%a9-%d8%a7%d9%84%d8%b7%d8%a7%d8%a6%d8%b1%d8%a9-%d9%84%d9%84%d8%b1%d8%ac%d8%a7%d9%84#MC_MatcheDetails"
       },
       {
         "match_id": "113177",
         "round": "اليوم الثالث",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "14:00",
         "channel": null,
         "team_a": {
@@ -128,8 +128,8 @@
           "name": "غانا",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2023/9/4/ghana_round_icon_642023_9_4_20_28.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "3",
         "match_url": "https://www.yallakora.com/mens-african-volleyball-championship/3061/match/113177/%d9%83%d9%8a%d9%86%d9%8a%d8%a7-%d8%ba%d8%a7%d9%86%d8%a7-%d8%a8%d8%b7%d9%88%d9%84%d8%a9-%d8%a3%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7-%d9%84%d9%84%d9%83%d8%b1%d8%a9-%d8%a7%d9%84%d8%b7%d8%a7%d8%a6%d8%b1%d8%a9-%d9%84%d9%84%d8%b1%d8%ac%d8%a7%d9%84#MC_MatcheDetails"
       },
       {
@@ -199,8 +199,8 @@
       {
         "match_id": "112280",
         "round": "الأسبوع الخامس",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "مباشر",
         "time": "16:30",
         "channel": null,
         "team_a": {
@@ -211,15 +211,15 @@
           "name": "حرس الحدود",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2022/11/5/harras-el-hodoud12022_11_5_0_8.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/egyptian-second-division/3056/match/112280/%d8%a7%d9%84%d8%a5%d8%b3%d9%85%d8%a7%d8%b9%d9%8a%d9%84%d9%8a-%d8%ad%d8%b1%d8%b3-%d8%a7%d9%84%d8%ad%d8%af%d9%88%d8%af-%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d9%82%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a3#MC_MatcheDetails"
       },
       {
         "match_id": "112282",
         "round": "الأسبوع الخامس",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "مباشر",
         "time": "16:30",
         "channel": "ON Sport MAX",
         "team_a": {
@@ -230,15 +230,15 @@
           "name": "النصر",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/8/1/Elnasr2018_8_1_16_20.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/egyptian-second-division/3056/match/112282/%d8%b7%d9%86%d8%b7%d8%a7--%d8%a7%d9%84%d9%86%d8%b5%d8%b1--%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d9%82%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a3#MC_MatcheDetails"
       },
       {
         "match_id": "112283",
         "round": "الأسبوع الخامس",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "مباشر",
         "time": "16:30",
         "channel": null,
         "team_a": {
@@ -249,15 +249,15 @@
           "name": "تيم اف سي",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2024/12/28/team-fc2024_12_28_15_23.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "1",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/egyptian-second-division/3056/match/112283/%d8%a7%d9%84%d9%85%d9%86%d8%b5%d9%88%d8%b1%d8%a9-%d8%aa%d9%8a%d9%85-%d8%a7%d9%81-%d8%b3%d9%8a-%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d9%82%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a3#MC_MatcheDetails"
       },
       {
         "match_id": "112284",
         "round": "الأسبوع الخامس",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "مباشر",
         "time": "16:30",
         "channel": null,
         "team_a": {
@@ -268,8 +268,8 @@
           "name": "الترسانة",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/10/9/Tersana2018_10_9_12_23.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/egyptian-second-division/3056/match/112284/%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%aa%d8%b1%d8%b3%d8%a7%d9%86%d8%a9-%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d9%82%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a3#MC_MatcheDetails"
       }
     ]
