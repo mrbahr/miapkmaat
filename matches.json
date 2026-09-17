@@ -7,8 +7,8 @@
       {
         "match_id": "112002",
         "round": "الأسبوع الخامس",
-        "status": "LIVE",
-        "status_label": "الشوط الأول",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "17:00",
         "channel": "ON Sport",
         "team_a": {
@@ -19,15 +19,15 @@
           "name": "القناة",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/10/9/AlQanah2018_10_9_12_34.jpg"
         },
-        "score_a": "0",
-        "score_b": "0",
+        "score_a": "2",
+        "score_b": "1",
         "match_url": "https://www.yallakora.com/egyptian-league/3031/match/112002/%d8%b2%d8%af-%d8%a7%d9%84%d9%82%d9%86%d8%a7%d8%a9-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a#MC_MatcheDetails"
       },
       {
         "match_id": "112008",
         "round": "الأسبوع الخامس",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الثاني",
         "time": "20:00",
         "channel": "ON Sport",
         "team_a": {
@@ -38,8 +38,8 @@
           "name": "بيراميدز",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2020/12/17/PyramidsFC2020_12_17_17_30.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "1",
+        "score_b": "1",
         "match_url": "https://www.yallakora.com/egyptian-league/3031/match/112008/%d9%86%d8%a7%d8%af%d9%8a-%d8%a7%d9%84%d8%b4%d8%b1%d9%82%d9%8a%d8%a9-%d8%a5%d9%86%d8%a8%d9%8a-%d8%a8%d9%8a%d8%b1%d8%a7%d9%85%d9%8a%d8%af%d8%b2-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a#MC_MatcheDetails"
       }
     ]
@@ -52,8 +52,8 @@
       {
         "match_id": "112357",
         "round": "الأسبوع السادس",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الثاني",
         "time": "20:00",
         "channel": "بى ان سبورت 6 HD",
         "team_a": {
@@ -64,8 +64,8 @@
           "name": "خيتافي",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/29/Getafe2018_7_29_14_53.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "1",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/la-liga/3034/match/112357/%d8%b1%d9%8a%d8%a7%d9%84-%d8%a8%d9%8a%d8%aa%d9%8a%d8%b3-%d8%ae%d9%8a%d8%aa%d8%a7%d9%81%d9%8a-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a5%d8%b3%d8%a8%d8%a7%d9%86%d9%8a#MC_MatcheDetails"
       },
       {
@@ -135,8 +135,8 @@
       {
         "match_id": "113178",
         "round": "اليوم الثالث",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "17:00",
         "channel": null,
         "team_a": {
@@ -147,15 +147,15 @@
           "name": "الكونغو الديمقراطية",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2026/9/6/democratic_republic_of_the_congo_square_icon_6402026_9_6_0_3.webp"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "3",
         "match_url": "https://www.yallakora.com/mens-african-volleyball-championship/3061/match/113178/%d8%a5%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7-%d8%a7%d9%84%d9%88%d8%b3%d8%b7%d9%89-%d8%a7%d9%84%d9%83%d9%88%d9%86%d8%ba%d9%88-%d8%a7%d9%84%d8%af%d9%8a%d9%85%d9%82%d8%b1%d8%a7%d8%b7%d9%8a%d8%a9-%d8%a8%d8%b7%d9%88%d9%84%d8%a9-%d8%a3%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7-%d9%84%d9%84%d9%83%d8%b1%d8%a9-%d8%a7%d9%84%d8%b7%d8%a7%d8%a6%d8%b1%d8%a9-%d9%84%d9%84%d8%b1%d8%ac%d8%a7%d9%84#MC_MatcheDetails"
       },
       {
         "match_id": "113179",
         "round": "اليوم الثالث",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "مباشر",
         "time": "20:00",
         "channel": null,
         "team_a": {
@@ -166,8 +166,8 @@
           "name": "مصر",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2023/8/31/egypt12023_8_31_22_9.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "2",
         "match_url": "https://www.yallakora.com/mens-african-volleyball-championship/3061/match/113179/%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8-%d9%85%d8%b5%d8%b1-%d8%a8%d8%b7%d9%88%d9%84%d8%a9-%d8%a3%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7-%d9%84%d9%84%d9%83%d8%b1%d8%a9-%d8%a7%d9%84%d8%b7%d8%a7%d8%a6%d8%b1%d8%a9-%d9%84%d9%84%d8%b1%d8%ac%d8%a7%d9%84#MC_MatcheDetails"
       },
       {
@@ -199,8 +199,8 @@
       {
         "match_id": "112280",
         "round": "الأسبوع الخامس",
-        "status": "LIVE",
-        "status_label": "مباشر",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "16:30",
         "channel": null,
         "team_a": {
@@ -212,14 +212,14 @@
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2022/11/5/harras-el-hodoud12022_11_5_0_8.jpg"
         },
         "score_a": "0",
-        "score_b": "0",
+        "score_b": "2",
         "match_url": "https://www.yallakora.com/egyptian-second-division/3056/match/112280/%d8%a7%d9%84%d8%a5%d8%b3%d9%85%d8%a7%d8%b9%d9%8a%d9%84%d9%8a-%d8%ad%d8%b1%d8%b3-%d8%a7%d9%84%d8%ad%d8%af%d9%88%d8%af-%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d9%82%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a3#MC_MatcheDetails"
       },
       {
         "match_id": "112282",
         "round": "الأسبوع الخامس",
-        "status": "LIVE",
-        "status_label": "مباشر",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "16:30",
         "channel": "ON Sport MAX",
         "team_a": {
@@ -230,15 +230,15 @@
           "name": "النصر",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/8/1/Elnasr2018_8_1_16_20.jpg"
         },
-        "score_a": "0",
+        "score_a": "1",
         "score_b": "0",
         "match_url": "https://www.yallakora.com/egyptian-second-division/3056/match/112282/%d8%b7%d9%86%d8%b7%d8%a7--%d8%a7%d9%84%d9%86%d8%b5%d8%b1--%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d9%82%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a3#MC_MatcheDetails"
       },
       {
         "match_id": "112283",
         "round": "الأسبوع الخامس",
-        "status": "LIVE",
-        "status_label": "مباشر",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "16:30",
         "channel": null,
         "team_a": {
@@ -250,14 +250,14 @@
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2024/12/28/team-fc2024_12_28_15_23.jpg"
         },
         "score_a": "1",
-        "score_b": "0",
+        "score_b": "1",
         "match_url": "https://www.yallakora.com/egyptian-second-division/3056/match/112283/%d8%a7%d9%84%d9%85%d9%86%d8%b5%d9%88%d8%b1%d8%a9-%d8%aa%d9%8a%d9%85-%d8%a7%d9%81-%d8%b3%d9%8a-%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d9%82%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a3#MC_MatcheDetails"
       },
       {
         "match_id": "112284",
         "round": "الأسبوع الخامس",
-        "status": "LIVE",
-        "status_label": "مباشر",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "16:30",
         "channel": null,
         "team_a": {
@@ -268,8 +268,8 @@
           "name": "الترسانة",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/10/9/Tersana2018_10_9_12_23.jpg"
         },
-        "score_a": "0",
-        "score_b": "0",
+        "score_a": "1",
+        "score_b": "2",
         "match_url": "https://www.yallakora.com/egyptian-second-division/3056/match/112284/%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%aa%d8%b1%d8%b3%d8%a7%d9%86%d8%a9-%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d9%82%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a3#MC_MatcheDetails"
       }
     ]
@@ -282,8 +282,8 @@
       {
         "match_id": "112544",
         "round": "الجولة الاولي",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الثاني",
         "time": "19:45",
         "channel": "بى ان سبورت 3 HD",
         "team_a": {
@@ -294,15 +294,15 @@
           "name": "ريد بول سالزبورج",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/8/12/RedBullSalzburg2018_8_12_13_7.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "1",
         "match_url": "https://www.yallakora.com/europa-league/3052/match/112544/%d9%84%d9%8a%d9%81%d8%b3%d9%83%d9%8a-%d8%b5%d9%88%d9%81%d9%8a%d8%a7-%d8%b1%d9%8a%d8%af-%d8%a8%d9%88%d9%84-%d8%b3%d8%a7%d9%84%d8%b2%d8%a8%d9%88%d8%b1%d8%ac-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d9%8a#MC_MatcheDetails"
       },
       {
         "match_id": "112545",
         "round": "الجولة الاولي",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الثاني",
         "time": "19:45",
         "channel": "بى ان سبورت 7 HD",
         "team_a": {
@@ -313,8 +313,8 @@
           "name": "هوفنهايم",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/29/Hoffenheim2018_7_29_16_6.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "2",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/europa-league/3052/match/112545/%d8%a3%d9%88%d9%81%d9%8a-%d9%83%d8%b1%d9%8a%d8%aa-%d9%87%d9%88%d9%81%d9%86%d9%87%d8%a7%d9%8a%d9%85-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d9%8a#MC_MatcheDetails"
       },
       {
@@ -460,8 +460,8 @@
       {
         "match_id": "112980",
         "round": "دور الـ 32",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الأول",
         "time": "21:30",
         "channel": "بى ان سبورت 2 HD",
         "team_a": {
@@ -472,8 +472,8 @@
           "name": "نورويتش سيتي",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2021/11/23/Untitled-12021_11_23_21_29.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/carabao-cup/3060/match/112980/%d9%85%d8%a7%d9%86%d8%b4%d8%b3%d8%aa%d8%b1-%d8%b3%d9%8a%d8%aa%d9%8a-%d9%86%d9%88%d8%b1%d9%88%d9%8a%d8%aa%d8%b4-%d8%b3%d9%8a%d8%aa%d9%8a-%d9%83%d8%a3%d8%b3-%d9%83%d8%a7%d8%b1%d8%a7%d8%a8%d8%a7%d9%88#MC_MatcheDetails"
       }
     ]
@@ -486,8 +486,8 @@
       {
         "match_id": "112697",
         "round": "الأسبوع الثالث",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "18:00",
         "channel": null,
         "team_a": {
@@ -498,8 +498,8 @@
           "name": "الافريقي التونسي",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/24/Africain2018_7_24_12_32.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/tunisian-league/3044/match/112697/%d8%a7%d9%84%d9%85%d9%84%d8%b9%d8%a8-%d8%a7%d9%84%d8%aa%d9%88%d9%86%d8%b3%d9%8a-%d8%a7%d9%84%d8%a7%d9%81%d8%b1%d9%8a%d9%82%d9%8a-%d8%a7%d9%84%d8%aa%d9%88%d9%86%d8%b3%d9%8a-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%aa%d9%88%d9%86%d8%b3%d9%8a#MC_MatcheDetails"
       }
     ]
