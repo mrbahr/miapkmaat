@@ -7,8 +7,8 @@
       {
         "match_id": "111598",
         "round": "الأسبوع الخامس",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الثاني",
         "time": "22:00",
         "channel": "بى ان سبورت 1HD",
         "team_a": {
@@ -19,8 +19,8 @@
           "name": "تشيلسي",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/29/Chelsea2018_7_29_15_28.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "2",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/epl/3033/match/111598/%d8%a8%d8%b1%d9%8a%d9%86%d8%aa%d9%81%d9%88%d8%b1%d8%af-%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a--%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a5%d9%86%d8%ac%d9%84%d9%8a%d8%b2%d9%8a#MC_MatcheDetails"
       }
     ]
@@ -33,8 +33,8 @@
       {
         "match_id": "112374",
         "round": "الأسبوع السابع",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الثاني",
         "time": "22:00",
         "channel": "بى ان سبورت 3 HD",
         "team_a": {
@@ -45,8 +45,8 @@
           "name": "إلتشي",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2015/2/18/Elche CF2015_2_18_20_41.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "1",
+        "score_b": "3",
         "match_url": "https://www.yallakora.com/la-liga/3034/match/112374/%d8%a7%d8%b3%d8%a8%d8%a7%d9%86%d9%8a%d9%88%d9%84-%d8%a5%d9%84%d8%aa%d8%b4%d9%8a-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a5%d8%b3%d8%a8%d8%a7%d9%86%d9%8a#MC_MatcheDetails"
       }
     ]
@@ -59,8 +59,8 @@
       {
         "match_id": "112836",
         "round": "الأسبوع السادس",
-        "status": "LIVE",
-        "status_label": "الشوط الأول",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "20:00",
         "channel": "بى ان سبورت 2 HD",
         "team_a": {
@@ -85,8 +85,8 @@
       {
         "match_id": "111641",
         "round": "الأسبوع الخامس",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الثاني",
         "time": "21:45",
         "channel": "بى ان سبورت 4 HD",
         "team_a": {
@@ -97,8 +97,8 @@
           "name": "لانس",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/9/10/Lens2018_9_10_13_11.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "2",
+        "score_b": "1",
         "match_url": "https://www.yallakora.com/ligue1/3037/match/111641/%d9%85%d9%88%d9%86%d8%a7%d9%83%d9%88-%d9%84%d8%a7%d9%86%d8%b3-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d9%81%d8%b1%d9%86%d8%b3%d9%8a#MC_MatcheDetails"
       }
     ]
@@ -111,8 +111,8 @@
       {
         "match_id": "112721",
         "round": "الأسبوع الخامس",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "21:45",
         "channel": "Starz Play App",
         "team_a": {
@@ -123,8 +123,8 @@
           "name": "ساسولو",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/29/Sassuolo2018_7_29_15_11.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "2",
+        "score_b": "1",
         "match_url": "https://www.yallakora.com/serie-a/3035/match/112721/%d9%85%d9%88%d9%86%d8%b2%d8%a7-%d8%b3%d8%a7%d8%b3%d9%88%d9%84%d9%88-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a5%d9%8a%d8%b7%d8%a7%d9%84%d9%8a#MC_MatcheDetails"
       }
     ]
@@ -137,8 +137,8 @@
       {
         "match_id": "111747",
         "round": "الأسبوع الرابع",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "21:30",
         "channel": "‎MBC Action",
         "team_a": {
@@ -149,8 +149,8 @@
           "name": "يونيون برلين",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/9/12/UnionBerlin2018_9_12_13_37.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "7",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/bundesliga/3036/match/111747/%d8%a8%d8%a7%d9%8a%d8%b1%d9%86-%d9%85%d9%8a%d9%88%d9%86%d9%8a%d8%ae-%d9%8a%d9%88%d9%86%d9%8a%d9%88%d9%86-%d8%a8%d8%b1%d9%84%d9%8a%d9%86-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a3%d9%84%d9%85%d8%a7%d9%86%d9%8a#MC_MatcheDetails"
       }
     ]
