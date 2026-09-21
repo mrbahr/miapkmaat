@@ -7,8 +7,8 @@
       {
         "match_id": "113265",
         "round": "دور الثمانية",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "مباشر",
         "time": "14:00",
         "channel": "قناة الاتحاد الإفريقي للطائرة - يوتيوب",
         "team_a": {
@@ -19,8 +19,8 @@
           "name": "غانا",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2023/9/4/ghana_round_icon_642023_9_4_20_28.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "1",
+        "score_b": "2",
         "match_url": "https://www.yallakora.com/mens-african-volleyball-championship/3061/match/113265/%d8%a7%d9%84%d9%83%d8%a7%d9%85%d9%8a%d8%b1%d9%88%d9%86-%d8%ba%d8%a7%d9%86%d8%a7-%d8%a8%d8%b7%d9%88%d9%84%d8%a9-%d8%a3%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7-%d9%84%d9%84%d9%83%d8%b1%d8%a9-%d8%a7%d9%84%d8%b7%d8%a7%d8%a6%d8%b1%d8%a9-%d9%84%d9%84%d8%b1%d8%ac%d8%a7%d9%84#MC_MatcheDetails"
       },
       {
