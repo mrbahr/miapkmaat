@@ -7,8 +7,8 @@
       {
         "match_id": "112417",
         "round": "الجولة الاولي",
-        "status": "LIVE",
-        "status_label": "الشوط الأول",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "16:00",
         "channel": null,
         "team_a": {
@@ -19,15 +19,15 @@
           "name": "إريتريا",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2021/7/15/Eritrea2021_7_15_13_18.jpg"
         },
-        "score_a": "0",
+        "score_a": "1",
         "score_b": "1",
         "match_url": "https://www.yallakora.com/can-qualifiers/3028/match/112417/%d9%83%d9%8a%d9%86%d9%8a%d8%a7-%d8%a5%d8%b1%d9%8a%d8%aa%d8%b1%d9%8a%d8%a7-%d8%aa%d8%b5%d9%81%d9%8a%d8%a7%d8%aa-%d8%a3%d9%85%d9%85-%d8%a3%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7#MC_MatcheDetails"
       },
       {
         "match_id": "112429",
         "round": "الجولة الاولي",
-        "status": "LIVE",
-        "status_label": "الشوط الأول",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "16:00",
         "channel": "بى ان سبورت اكسترا 1",
         "team_a": {
@@ -38,8 +38,8 @@
           "name": "غينيا",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/26/Guinea2018_7_26_19_31.jpg"
         },
-        "score_a": "1",
-        "score_b": "0",
+        "score_a": "2",
+        "score_b": "1",
         "match_url": "https://www.yallakora.com/can-qualifiers/3028/match/112429/-%d8%ac%d9%86%d9%88%d8%a8-%d8%a3%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7--%d8%ba%d9%8a%d9%86%d9%8a%d8%a7-%d8%aa%d8%b5%d9%81%d9%8a%d8%a7%d8%aa-%d8%a3%d9%85%d9%85-%d8%a3%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7#MC_MatcheDetails"
       }
     ]
@@ -52,8 +52,8 @@
       {
         "match_id": "113102",
         "round": "الجولة الاولي",
-        "status": "LIVE",
-        "status_label": "الشوط الأول",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "16:00",
         "channel": "بى ان سبورت 3 HD",
         "team_a": {
@@ -71,8 +71,8 @@
       {
         "match_id": "113103",
         "round": "الجولة الاولي",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الثاني",
         "time": "19:00",
         "channel": "بى ان سبورت 2 HD",
         "team_a": {
@@ -83,15 +83,15 @@
           "name": "لوكسمبرج",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/9/10/Luxemborg2018_9_10_18_26.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "1",
+        "score_b": "2",
         "match_url": "https://www.yallakora.com/uefa-nations-league/3025/match/113103/%d8%a8%d9%84%d8%ba%d8%a7%d8%b1%d9%8a%d8%a7-%d9%84%d9%88%d9%83%d8%b3%d9%85%d8%a8%d8%b1%d8%ac-%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a3%d9%85%d9%85-%d8%a7%d9%84%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d9%8a%d8%a9#MC_MatcheDetails"
       },
       {
         "match_id": "113104",
         "round": "الجولة الاولي",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الثاني",
         "time": "19:00",
         "channel": "بى ان سبورت 4 HD",
         "team_a": {
@@ -102,15 +102,15 @@
           "name": "كازاخستان",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/9/12/Kazakhstan2018_9_12_12_38.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "1",
+        "score_b": "1",
         "match_url": "https://www.yallakora.com/uefa-nations-league/3025/match/113104/%d8%ac%d8%b2%d8%b1-%d9%81%d8%a7%d8%b1%d9%88%d9%87-%d9%83%d8%a7%d8%b2%d8%a7%d8%ae%d8%b3%d8%aa%d8%a7%d9%86-%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a3%d9%85%d9%85-%d8%a7%d9%84%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d9%8a%d8%a9#MC_MatcheDetails"
       },
       {
         "match_id": "113105",
         "round": "الجولة الاولي",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الثاني",
         "time": "19:00",
         "channel": "بى ان سبورت 1HD",
         "team_a": {
@@ -121,15 +121,15 @@
           "name": "إستونيا",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/9/10/Estonia2018_9_10_18_32.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "1",
+        "score_b": "1",
         "match_url": "https://www.yallakora.com/uefa-nations-league/3025/match/113105/%d8%a3%d9%8a%d8%b3%d9%84%d9%86%d8%af%d8%a7-%d8%a5%d8%b3%d8%aa%d9%88%d9%86%d9%8a%d8%a7-%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a3%d9%85%d9%85-%d8%a7%d9%84%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d9%8a%d8%a9#MC_MatcheDetails"
       },
       {
         "match_id": "113106",
         "round": "الجولة الاولي",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الثاني",
         "time": "19:00",
         "channel": "بى ان سبورت 3 HD",
         "team_a": {
@@ -140,8 +140,8 @@
           "name": "فنلندا",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/9/10/Finland2018_9_10_18_30.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "6",
         "match_url": "https://www.yallakora.com/uefa-nations-league/3025/match/113106/%d8%b3%d8%a7%d9%86-%d9%85%d8%a7%d8%b1%d9%8a%d9%86%d9%88-%d9%81%d9%86%d9%84%d9%86%d8%af%d8%a7-%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a3%d9%85%d9%85-%d8%a7%d9%84%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d9%8a%d8%a9#MC_MatcheDetails"
       },
       {
@@ -249,8 +249,8 @@
       {
         "match_id": "113048",
         "round": "الجولة الثانية",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الثاني",
         "time": "18:55",
         "channel": "الكأس 1",
         "team_a": {
@@ -261,8 +261,8 @@
           "name": "العراق",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/26/Iraq2018_7_26_19_14.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "1",
+        "score_b": "2",
         "match_url": "https://www.yallakora.com/arabian-gulf-cup/3062/match/113048/%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa-%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82-%d8%ae%d9%84%d9%8a%d8%ac%d9%8a-27#MC_MatcheDetails"
       },
       {
@@ -294,8 +294,8 @@
       {
         "match_id": "112555",
         "round": "الأسبوع الأول",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الثاني",
         "time": "19:00",
         "channel": null,
         "team_a": {
@@ -306,8 +306,8 @@
           "name": "الفتح الرباطي",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/24/ElfathAlrabaty2018_7_24_17_51.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "2",
+        "score_b": "1",
         "match_url": "https://www.yallakora.com/morrocan-league/3043/match/112555/%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af-%d8%a7%d9%84%d8%aa%d9%88%d8%b1%d9%83%d9%8a-%d8%a7%d9%84%d9%81%d8%aa%d8%ad-%d8%a7%d9%84%d8%b1%d8%a8%d8%a7%d8%b7%d9%8a-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8%d9%8a#MC_MatcheDetails"
       },
       {
