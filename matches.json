@@ -10,7 +10,7 @@
         "status": "SCHEDULED",
         "status_label": "لم تبدأ",
         "time": "17:00",
-        "channel": null,
+        "channel": "بى ان سبورت 2 HD",
         "team_a": {
           "name": "كازاخستان",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/9/12/Kazakhstan2018_9_12_12_38.jpg"
@@ -29,7 +29,7 @@
         "status": "SCHEDULED",
         "status_label": "لم تبدأ",
         "time": "19:00",
-        "channel": null,
+        "channel": "بى ان سبورت 3 HD",
         "team_a": {
           "name": "لاتفيا",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/9/12/Latvia2018_9_12_12_40.jpg"
@@ -48,7 +48,7 @@
         "status": "SCHEDULED",
         "status_label": "لم تبدأ",
         "time": "19:00",
-        "channel": null,
+        "channel": "بى ان سبورت 4 HD",
         "team_a": {
           "name": "قبرص",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/9/12/Cyprus2018_9_12_12_41.jpg"
@@ -67,7 +67,7 @@
         "status": "SCHEDULED",
         "status_label": "لم تبدأ",
         "time": "21:45",
-        "channel": null,
+        "channel": "بى ان سبورت 6 HD",
         "team_a": {
           "name": "جزر فاروه",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/9/12/FaroeIsland2018_9_12_12_39.jpg"
@@ -86,7 +86,7 @@
         "status": "SCHEDULED",
         "status_label": "لم تبدأ",
         "time": "21:45",
-        "channel": null,
+        "channel": "بى ان سبورت 1HD",
         "team_a": {
           "name": "فرنسا",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/24/France2018_7_24_14_43.jpg"
@@ -105,7 +105,7 @@
         "status": "SCHEDULED",
         "status_label": "لم تبدأ",
         "time": "21:45",
-        "channel": null,
+        "channel": "بى ان سبورت 3 HD",
         "team_a": {
           "name": "البوسنة والهرسك",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/9/10/BosniaAndHerzegovina2018_9_10_18_27.jpg"
@@ -124,7 +124,7 @@
         "status": "SCHEDULED",
         "status_label": "لم تبدأ",
         "time": "21:45",
-        "channel": null,
+        "channel": "بى ان سبورت 5 HD",
         "team_a": {
           "name": "المجر",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/9/10/Hungary2018_9_10_18_26.jpg"
@@ -143,7 +143,7 @@
         "status": "SCHEDULED",
         "status_label": "لم تبدأ",
         "time": "21:45",
-        "channel": null,
+        "channel": "بى ان سبورت 4 HD",
         "team_a": {
           "name": "بولندا",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/24/Poland2018_7_24_14_37.jpg"
@@ -162,7 +162,7 @@
         "status": "SCHEDULED",
         "status_label": "لم تبدأ",
         "time": "21:45",
-        "channel": null,
+        "channel": "بى ان سبورت 7 HD",
         "team_a": {
           "name": "أوكرانيا",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/9/10/Ukraine2018_9_10_18_28.jpg"
@@ -181,7 +181,7 @@
         "status": "SCHEDULED",
         "status_label": "لم تبدأ",
         "time": "21:45",
-        "channel": null,
+        "channel": "بى ان سبورت 2 HD",
         "team_a": {
           "name": "بلجيكا",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/24/Belgium2018_7_24_14_44.jpg"
@@ -391,7 +391,7 @@
         "round": "مبارة ودية",
         "status": "SCHEDULED",
         "status_label": "لم تبدأ",
-        "time": "18:00",
+        "time": "17:00",
         "channel": null,
         "team_a": {
           "name": "الأهلي",
