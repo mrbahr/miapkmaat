@@ -207,7 +207,7 @@
         "status": "SCHEDULED",
         "status_label": "لم تبدأ",
         "time": "15:30",
-        "channel": "ON Sport MAX",
+        "channel": "ON Sport",
         "team_a": {
           "name": "ديروط",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2016/3/30/22016_3_30_19_49.jpg"
@@ -283,7 +283,7 @@
         "status": "SCHEDULED",
         "status_label": "لم تبدأ",
         "time": "15:30",
-        "channel": "ON Sport MAX",
+        "channel": null,
         "team_a": {
           "name": "بلدية المحلة",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2023/9/19/12023_9_19_23_45.jpg"
