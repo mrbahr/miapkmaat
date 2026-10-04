@@ -5,239 +5,239 @@
     "logo": "https://mediayk.gemini.media/img/yallakora/tourlogo/220px-UEFA_Nations_League.svg22-8-2018-19-39-33.png",
     "matches": [
       {
-        "match_id": "113297",
+        "match_id": "113305",
         "round": "الجولة الرابعة",
-        "status": "FINISHED",
-        "status_label": "انتهت",
-        "time": "16:00",
-        "channel": "بى ان سبورت 3 HD",
-        "team_a": {
-          "name": "إذربيجان",
-          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/9/12/Azerbaijan2018_9_12_12_38.jpg"
-        },
-        "team_b": {
-          "name": "ليتوانيا",
-          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/9/10/Lithuania2018_9_10_18_27.jpg"
-        },
-        "score_a": "1",
-        "score_b": "0",
-        "match_url": "https://www.yallakora.com/uefa-nations-league/3025/match/113297/%d8%a5%d8%b0%d8%b1%d8%a8%d9%8a%d8%ac%d8%a7%d9%86-%d9%84%d9%8a%d8%aa%d9%88%d8%a7%d9%86%d9%8a%d8%a7-%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a3%d9%85%d9%85-%d8%a7%d9%84%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d9%8a%d8%a9#MC_MatcheDetails"
-      },
-      {
-        "match_id": "113298",
-        "round": "الجولة الرابعة",
-        "status": "FINISHED",
-        "status_label": "انتهت",
+        "status": "SCHEDULED",
+        "status_label": "لم تبدأ",
         "time": "19:00",
         "channel": "بى ان سبورت 2 HD",
         "team_a": {
-          "name": "مالطة",
-          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/9/12/Malta2018_9_12_12_40.jpg"
+          "name": "قبرص",
+          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/9/12/Cyprus2018_9_12_12_41.jpg"
         },
         "team_b": {
-          "name": "اندورا",
-          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/9/12/Andorra2018_9_12_12_39.jpg"
+          "name": "لاتفيا",
+          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/9/12/Latvia2018_9_12_12_40.jpg"
         },
-        "score_a": "1",
-        "score_b": "0",
-        "match_url": "https://www.yallakora.com/uefa-nations-league/3025/match/113298/%d9%85%d8%a7%d9%84%d8%b7%d8%a9-%d8%a7%d9%86%d8%af%d9%88%d8%b1%d8%a7-%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a3%d9%85%d9%85-%d8%a7%d9%84%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d9%8a%d8%a9#MC_MatcheDetails"
+        "score_a": null,
+        "score_b": null,
+        "match_url": "https://www.yallakora.com/uefa-nations-league/3025/match/113305/%d9%82%d8%a8%d8%b1%d8%b5-%d9%84%d8%a7%d8%aa%d9%81%d9%8a%d8%a7-%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a3%d9%85%d9%85-%d8%a7%d9%84%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d9%8a%d8%a9#MC_MatcheDetails"
       },
       {
-        "match_id": "113299",
+        "match_id": "113306",
         "round": "الجولة الرابعة",
-        "status": "FINISHED",
-        "status_label": "انتهت",
-        "time": "19:00",
+        "status": "SCHEDULED",
+        "status_label": "لم تبدأ",
+        "time": "21:45",
+        "channel": "بى ان سبورت 5 HD",
+        "team_a": {
+          "name": "الجبل الأسود",
+          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/9/12/Montenegro2018_9_12_12_41.jpg"
+        },
+        "team_b": {
+          "name": "أرمينيا",
+          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/9/12/Armenia2018_9_12_12_38.jpg"
+        },
+        "score_a": null,
+        "score_b": null,
+        "match_url": "https://www.yallakora.com/uefa-nations-league/3025/match/113306/%d8%a7%d9%84%d8%ac%d8%a8%d9%84-%d8%a7%d9%84%d8%a3%d8%b3%d9%88%d8%af-%d8%a3%d8%b1%d9%85%d9%8a%d9%86%d9%8a%d8%a7-%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a3%d9%85%d9%85-%d8%a7%d9%84%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d9%8a%d8%a9#MC_MatcheDetails"
+      },
+      {
+        "match_id": "113307",
+        "round": "الجولة الرابعة",
+        "status": "SCHEDULED",
+        "status_label": "لم تبدأ",
+        "time": "21:45",
         "channel": "بى ان سبورت 1HD",
         "team_a": {
-          "name": "كوسوفو",
-          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/9/12/Kosovo2018_9_12_12_42.jpg"
+          "name": "فرنسا",
+          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/24/France2018_7_24_14_43.jpg"
         },
         "team_b": {
-          "name": "النمسا",
-          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/9/10/Austria2018_9_10_18_26.jpg"
+          "name": "بلجيكا",
+          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/24/Belgium2018_7_24_14_44.jpg"
         },
-        "score_a": "1",
-        "score_b": "1",
-        "match_url": "https://www.yallakora.com/uefa-nations-league/3025/match/113299/%d9%83%d9%88%d8%b3%d9%88%d9%81%d9%88-%d8%a7%d9%84%d9%86%d9%85%d8%b3%d8%a7-%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a3%d9%85%d9%85-%d8%a7%d9%84%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d9%8a%d8%a9#MC_MatcheDetails"
+        "score_a": null,
+        "score_b": null,
+        "match_url": "https://www.yallakora.com/uefa-nations-league/3025/match/113307/%d9%81%d8%b1%d9%86%d8%b3%d8%a7-%d8%a8%d9%84%d8%ac%d9%8a%d9%83%d8%a7-%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a3%d9%85%d9%85-%d8%a7%d9%84%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d9%8a%d8%a9#MC_MatcheDetails"
       },
       {
-        "match_id": "113300",
+        "match_id": "113308",
         "round": "الجولة الرابعة",
         "status": "SCHEDULED",
         "status_label": "لم تبدأ",
         "time": "21:45",
-        "channel": null,
+        "channel": "بى ان سبورت 2 HD",
         "team_a": {
-          "name": "أيرلندا",
-          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/9/10/Ireland2018_9_10_18_31.jpg"
+          "name": "ايطاليا",
+          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/9/10/Italy2018_9_10_18_23.jpg"
         },
         "team_b": {
-          "name": "الكيان الصهيوني",
-          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2022/9/15/YK-Generic-team-logo2022_9_15_21_43.jpg"
+          "name": "تركيا",
+          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/9/10/Turkey2018_9_10_18_33.jpg"
         },
         "score_a": null,
         "score_b": null,
-        "match_url": "https://www.yallakora.com/uefa-nations-league/3025/match/113300/%d8%a3%d9%8a%d8%b1%d9%84%d9%86%d8%af%d8%a7-%d8%a7%d9%84%d9%83%d9%8a%d8%a7%d9%86-%d8%a7%d9%84%d8%b5%d9%87%d9%8a%d9%88%d9%86%d9%8a-%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a3%d9%85%d9%85-%d8%a7%d9%84%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d9%8a%d8%a9#MC_MatcheDetails"
+        "match_url": "https://www.yallakora.com/uefa-nations-league/3025/match/113308/%d8%a7%d9%8a%d8%b7%d8%a7%d9%84%d9%8a%d8%a7-%d8%aa%d8%b1%d9%83%d9%8a%d8%a7-%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a3%d9%85%d9%85-%d8%a7%d9%84%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d9%8a%d8%a9#MC_MatcheDetails"
       },
       {
-        "match_id": "113301",
-        "round": "الجولة الرابعة",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
-        "time": "21:45",
-        "channel": "بى ان سبورت 3 HD",
-        "team_a": {
-          "name": "اليونان",
-          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/9/10/Greece2018_9_10_18_35.jpg"
-        },
-        "team_b": {
-          "name": "ألمانيا",
-          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/24/Germany2018_7_24_14_43.jpg"
-        },
-        "score_a": null,
-        "score_b": null,
-        "match_url": "https://www.yallakora.com/uefa-nations-league/3025/match/113301/%d8%a7%d9%84%d9%8a%d9%88%d9%86%d8%a7%d9%86-%d8%a3%d9%84%d9%85%d8%a7%d9%86%d9%8a%d8%a7-%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a3%d9%85%d9%85-%d8%a7%d9%84%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d9%8a%d8%a9#MC_MatcheDetails"
-      },
-      {
-        "match_id": "113302",
+        "match_id": "113309",
         "round": "الجولة الرابعة",
         "status": "SCHEDULED",
         "status_label": "لم تبدأ",
         "time": "21:45",
         "channel": "بى ان سبورت 4 HD",
         "team_a": {
-          "name": "هولندا",
-          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2026/9/30/pngwing.com (3)2026_9_30_18_47.webp"
+          "name": "البوسنة والهرسك",
+          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/9/10/BosniaAndHerzegovina2018_9_10_18_27.jpg"
         },
         "team_b": {
-          "name": "صربيا",
-          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/24/Serbia2018_7_24_14_44.jpg"
+          "name": "بولندا",
+          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/24/Poland2018_7_24_14_37.jpg"
         },
         "score_a": null,
         "score_b": null,
-        "match_url": "https://www.yallakora.com/uefa-nations-league/3025/match/113302/%d9%87%d9%88%d9%84%d9%86%d8%af%d8%a7-%d8%b5%d8%b1%d8%a8%d9%8a%d8%a7-%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a3%d9%85%d9%85-%d8%a7%d9%84%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d9%8a%d8%a9#MC_MatcheDetails"
+        "match_url": "https://www.yallakora.com/uefa-nations-league/3025/match/113309/%d8%a7%d9%84%d8%a8%d9%88%d8%b3%d9%86%d8%a9-%d9%88%d8%a7%d9%84%d9%87%d8%b1%d8%b3%d9%83-%d8%a8%d9%88%d9%84%d9%86%d8%af%d8%a7-%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a3%d9%85%d9%85-%d8%a7%d9%84%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d9%8a%d8%a9#MC_MatcheDetails"
       },
       {
-        "match_id": "113303",
+        "match_id": "113310",
         "round": "الجولة الرابعة",
         "status": "SCHEDULED",
         "status_label": "لم تبدأ",
         "time": "21:45",
-        "channel": "بى ان سبورت 1HD",
+        "channel": "بى ان سبورت 7 HD",
         "team_a": {
-          "name": "البرتغال",
-          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/24/Portugal2018_7_24_14_41.jpg"
+          "name": "إيرلندا الشمالية",
+          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/9/10/NorthernIreland2018_9_10_18_30.jpg"
         },
         "team_b": {
-          "name": "النرويج",
-          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/9/10/Norway2018_9_10_18_32.jpg"
+          "name": "جورجيا",
+          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/9/12/Georgia2018_9_12_12_39.jpg"
         },
         "score_a": null,
         "score_b": null,
-        "match_url": "https://www.yallakora.com/uefa-nations-league/3025/match/113303/%d8%a7%d9%84%d8%a8%d8%b1%d8%aa%d8%ba%d8%a7%d9%84-%d8%a7%d9%84%d9%86%d8%b1%d9%88%d9%8a%d8%ac-%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a3%d9%85%d9%85-%d8%a7%d9%84%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d9%8a%d8%a9#MC_MatcheDetails"
+        "match_url": "https://www.yallakora.com/uefa-nations-league/3025/match/113310/%d8%a5%d9%8a%d8%b1%d9%84%d9%86%d8%af%d8%a7-%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84%d9%8a%d8%a9-%d8%ac%d9%88%d8%b1%d8%ac%d9%8a%d8%a7-%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a3%d9%85%d9%85-%d8%a7%d9%84%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d9%8a%d8%a9#MC_MatcheDetails"
       },
       {
-        "match_id": "113304",
+        "match_id": "113311",
         "round": "الجولة الرابعة",
         "status": "SCHEDULED",
         "status_label": "لم تبدأ",
         "time": "21:45",
-        "channel": "بى ان سبورت 2 HD",
+        "channel": "بى ان سبورت 3 HD",
         "team_a": {
-          "name": "ويلز",
-          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2024/3/21/1JjnDm6Es30LryHzbudyEw_96x962024_3_21_0_45.jpg"
+          "name": "رومانيا",
+          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/9/10/Romania2018_9_10_18_33.jpg"
         },
         "team_b": {
-          "name": "الدنمارك",
-          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/24/Denmark2018_7_24_14_41.jpg"
+          "name": "السويد",
+          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/24/Sweden2018_7_24_14_43.jpg"
         },
         "score_a": null,
         "score_b": null,
-        "match_url": "https://www.yallakora.com/uefa-nations-league/3025/match/113304/%d9%88%d9%8a%d9%84%d8%b2-%d8%a7%d9%84%d8%af%d9%86%d9%85%d8%a7%d8%b1%d9%83-%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a3%d9%85%d9%85-%d8%a7%d9%84%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d9%8a%d8%a9#MC_MatcheDetails"
+        "match_url": "https://www.yallakora.com/uefa-nations-league/3025/match/113311/%d8%b1%d9%88%d9%85%d8%a7%d9%86%d9%8a%d8%a7-%d8%a7%d9%84%d8%b3%d9%88%d9%8a%d8%af-%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a3%d9%85%d9%85-%d8%a7%d9%84%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d9%8a%d8%a9#MC_MatcheDetails"
+      },
+      {
+        "match_id": "113312",
+        "round": "الجولة الرابعة",
+        "status": "SCHEDULED",
+        "status_label": "لم تبدأ",
+        "time": "21:45",
+        "channel": "بى ان سبورت 6 HD",
+        "team_a": {
+          "name": "أوكرانيا",
+          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/9/10/Ukraine2018_9_10_18_28.jpg"
+        },
+        "team_b": {
+          "name": "المجر",
+          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/9/10/Hungary2018_9_10_18_26.jpg"
+        },
+        "score_a": null,
+        "score_b": null,
+        "match_url": "https://www.yallakora.com/uefa-nations-league/3025/match/113312/%d8%a3%d9%88%d9%83%d8%b1%d8%a7%d9%86%d9%8a%d8%a7-%d8%a7%d9%84%d9%85%d8%ac%d8%b1-%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a3%d9%85%d9%85-%d8%a7%d9%84%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d9%8a%d8%a9#MC_MatcheDetails"
       }
     ]
   },
   {
-    "name": "مباريات ودية - منتخبات",
-    "url": "/tour/201/%d9%85%d8%a8%d8%a7%d8%b1%d9%8a%d8%a7%d8%aa-%d9%88%d8%af%d9%8a%d8%a9-%d9%85%d9%86%d8%aa%d8%ae%d8%a8%d8%a7%d8%aa#MC_MatcheDetails",
-    "logo": "https://mediayk.gemini.media/img/yallakora/tourlogo/FriendlyMatches110-10-2018-9-11-43.png",
+    "name": "بطولة أفريقيا للأندية لكرة اليد",
+    "url": "/tour/253/%d8%a8%d8%b7%d9%88%d9%84%d8%a9-%d8%a3%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7-%d9%84%d9%84%d8%a3%d9%86%d8%af%d9%8a%d8%a9-%d9%84%d9%83%d8%b1%d8%a9-%d8%a7%d9%84%d9%8a%d8%af#MC_MatcheDetails",
+    "logo": "https://mediayk.gemini.media/img/yallakora/tourlogo/angola logo114-10-2026-23-56-8.webp",
     "matches": [
       {
-        "match_id": "113438",
-        "round": "مباراة ودية",
-        "status": "FINISHED",
-        "status_label": "انتهت",
-        "time": "03:00",
+        "match_id": "113534",
+        "round": "اليوم الأول",
+        "status": "SCHEDULED",
+        "status_label": "لم تبدأ",
+        "time": "14:00",
         "channel": null,
         "team_a": {
-          "name": "الأرجنتين",
-          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/24/Argentina2018_7_24_14_45.jpg"
+          "name": "فاب الكاميروني",
+          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2023/10/1/o_t_22_717_fap-12023_10_1_19_39.jpg"
         },
         "team_b": {
-          "name": "بوركينا فاسو",
-          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/26/BurkinaFaso2018_7_26_19_22.jpg"
+          "name": "بترو أتليتيكو",
+          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2026/10/3/Petro Atletico handball12026_10_3_20_2.webp"
         },
-        "score_a": "7",
-        "score_b": "0",
-        "match_url": "https://www.yallakora.com/friendly-matches-nations/2438/match/113438/%d8%a7%d9%84%d8%a3%d8%b1%d8%ac%d9%86%d8%aa%d9%8a%d9%86-%d8%a8%d9%88%d8%b1%d9%83%d9%8a%d9%86%d8%a7-%d9%81%d8%a7%d8%b3%d9%88--%d9%85%d8%a8%d8%a7%d8%b1%d9%8a%d8%a7%d8%aa-%d9%88%d8%af%d9%8a%d8%a9-%d9%85%d9%86%d8%aa%d8%ae%d8%a8%d8%a7%d8%aa#MC_MatcheDetails"
+        "score_a": null,
+        "score_b": null,
+        "match_url": "https://www.yallakora.com/african-handball-champions-league/3065/match/113534/%d9%81%d8%a7%d8%a8-%d8%a7%d9%84%d9%83%d8%a7%d9%85%d9%8a%d8%b1%d9%88%d9%86%d9%8a-%d8%a8%d8%aa%d8%b1%d9%88-%d8%a3%d8%aa%d9%84%d9%8a%d8%aa%d9%8a%d9%83%d9%88-%d8%a8%d8%b7%d9%88%d9%84%d8%a9-%d8%a3%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7-%d9%84%d9%84%d8%a3%d9%86%d8%af%d9%8a%d8%a9-%d9%84%d9%83%d8%b1%d8%a9-%d8%a7%d9%84%d9%8a%d8%af#MC_MatcheDetails"
       },
       {
-        "match_id": "113488",
-        "round": "مباراة ودية",
-        "status": "FINISHED",
-        "status_label": "انتهت",
+        "match_id": "113535",
+        "round": "اليوم الأول",
+        "status": "SCHEDULED",
+        "status_label": "لم تبدأ",
+        "time": "14:00",
+        "channel": null,
+        "team_a": {
+          "name": "الزمالك",
+          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2025/4/18/zamalek-logo2025_4_18_0_26.webp"
+        },
+        "team_b": {
+          "name": "نادي الجيش الرواندي",
+          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2024/3/21/APR-Handball12024_3_21_1_55.jpg"
+        },
+        "score_a": null,
+        "score_b": null,
+        "match_url": "https://www.yallakora.com/african-handball-champions-league/3065/match/113535/%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%84%d9%83-%d9%86%d8%a7%d8%af%d9%8a-%d8%a7%d9%84%d8%ac%d9%8a%d8%b4-%d8%a7%d9%84%d8%b1%d9%88%d8%a7%d9%86%d8%af%d9%8a-%d8%a8%d8%b7%d9%88%d9%84%d8%a9-%d8%a3%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7-%d9%84%d9%84%d8%a3%d9%86%d8%af%d9%8a%d8%a9-%d9%84%d9%83%d8%b1%d8%a9-%d8%a7%d9%84%d9%8a%d8%af#MC_MatcheDetails"
+      },
+      {
+        "match_id": "113504",
+        "round": "اليوم الأول",
+        "status": "SCHEDULED",
+        "status_label": "لم تبدأ",
         "time": "16:00",
         "channel": null,
         "team_a": {
-          "name": "جزر القمر",
-          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/26/Comoros2018_7_26_19_33.jpg"
+          "name": "الأهلي",
+          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2024/5/24/ahly-handball2024_5_24_17_24.jpg"
         },
         "team_b": {
-          "name": "السنغال",
-          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/24/Senegal2018_7_24_14_48.jpg"
+          "name": "إنتر كلوب",
+          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2026/10/3/Interclub2026_10_3_23_51.webp"
         },
-        "score_a": "0",
-        "score_b": "1",
-        "match_url": "https://www.yallakora.com/friendly-matches-nations/2438/match/113488/%d8%ac%d8%b2%d8%b1-%d8%a7%d9%84%d9%82%d9%85%d8%b1--%d8%a7%d9%84%d8%b3%d9%86%d8%ba%d8%a7%d9%84--%d9%85%d8%a8%d8%a7%d8%b1%d9%8a%d8%a7%d8%aa-%d9%88%d8%af%d9%8a%d8%a9-%d9%85%d9%86%d8%aa%d8%ae%d8%a8%d8%a7%d8%aa#MC_MatcheDetails"
+        "score_a": null,
+        "score_b": null,
+        "match_url": "https://www.yallakora.com/african-handball-champions-league/3065/match/113504/%d8%a7%d9%84%d8%a3%d9%87%d9%84%d9%8a-%d8%a5%d9%86%d8%aa%d8%b1-%d9%83%d9%84%d9%88%d8%a8-%d8%a8%d8%b7%d9%88%d9%84%d8%a9-%d8%a3%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7-%d9%84%d9%84%d8%a3%d9%86%d8%af%d9%8a%d8%a9-%d9%84%d9%83%d8%b1%d8%a9-%d8%a7%d9%84%d9%8a%d8%af#MC_MatcheDetails"
       },
       {
-        "match_id": "113193",
-        "round": "مباراة ودية",
-        "status": "LIVE",
-        "status_label": "الشوط الأول",
-        "time": "21:00",
-        "channel": "ON Sport",
+        "match_id": "113536",
+        "round": "اليوم الأول",
+        "status": "SCHEDULED",
+        "status_label": "لم تبدأ",
+        "time": "16:00",
+        "channel": null,
         "team_a": {
-          "name": "مصر",
-          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/24/Egypt2018_7_24_14_37.jpg"
+          "name": "كينشاسا",
+          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2023/4/26/Jsk--Kinshasa2023_4_26_17_21.jpg"
         },
         "team_b": {
-          "name": "جنوب أفريقيا",
-          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2026/9/30/pngwing.com2026_9_30_19_19.webp"
+          "name": "بريميرو",
+          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2026/10/4/CD_Primeiro_de_Agosto12026_10_4_0_10.webp"
         },
-        "score_a": "0",
-        "score_b": "0",
-        "match_url": "https://www.yallakora.com/friendly-matches-nations/2438/match/113193/%d9%85%d8%b5%d8%b1--%d8%ac%d9%86%d9%88%d8%a8-%d8%a3%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7--%d9%85%d8%a8%d8%a7%d8%b1%d9%8a%d8%a7%d8%aa-%d9%88%d8%af%d9%8a%d8%a9-%d9%85%d9%86%d8%aa%d8%ae%d8%a8%d8%a7%d8%aa#MC_MatcheDetails"
-      },
-      {
-        "match_id": "113489",
-        "round": "مباراة ودية",
-        "status": "LIVE",
-        "status_label": "مباشر",
-        "time": "21:00",
-        "channel": "الرياضية المغربية",
-        "team_a": {
-          "name": "المغرب",
-          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/24/Morocco2018_7_24_14_48.jpg"
-        },
-        "team_b": {
-          "name": "مالي",
-          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/26/Mali2018_7_26_19_21.jpg"
-        },
-        "score_a": "1",
-        "score_b": "0",
-        "match_url": "https://www.yallakora.com/friendly-matches-nations/2438/match/113489/%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8---%d9%85%d8%a7%d9%84%d9%8a--%d9%85%d8%a8%d8%a7%d8%b1%d9%8a%d8%a7%d8%aa-%d9%88%d8%af%d9%8a%d8%a9-%d9%85%d9%86%d8%aa%d8%ae%d8%a8%d8%a7%d8%aa#MC_MatcheDetails"
+        "score_a": null,
+        "score_b": null,
+        "match_url": "https://www.yallakora.com/african-handball-champions-league/3065/match/113536/%d9%83%d9%8a%d9%86%d8%b4%d8%a7%d8%b3%d8%a7-%d8%a8%d8%b1%d9%8a%d9%85%d9%8a%d8%b1%d9%88-%d8%a8%d8%b7%d9%88%d9%84%d8%a9-%d8%a3%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7-%d9%84%d9%84%d8%a3%d9%86%d8%af%d9%8a%d8%a9-%d9%84%d9%83%d8%b1%d8%a9-%d8%a7%d9%84%d9%8a%d8%af#MC_MatcheDetails"
       }
     ]
   },
@@ -247,23 +247,23 @@
     "logo": "https://mediayk.gemini.media/img/yallakora/tourlogo/fifa 122-7-2026-17-43-56.webp",
     "matches": [
       {
-        "match_id": "113423",
-        "round": "مبارة ودية",
-        "status": "FINISHED",
-        "status_label": "انتهت",
-        "time": "17:00",
+        "match_id": "113490",
+        "round": "الأسبوع الرابع",
+        "status": "SCHEDULED",
+        "status_label": "لم تبدأ",
+        "time": "19:00",
         "channel": null,
         "team_a": {
-          "name": "الزمالك",
-          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/24/Zamalek2018_7_24_13_31.jpg"
+          "name": "بيراميدز",
+          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2020/12/17/PyramidsFC2020_12_17_17_30.jpg"
         },
         "team_b": {
-          "name": "نادي الشرقية إنبي",
-          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2026/8/5/enppi - sharkia12026_8_5_15_41.webp"
+          "name": "ليفيلز",
+          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2026/10/3/1 (2)2026_10_3_18_10.webp"
         },
-        "score_a": "1",
-        "score_b": "2",
-        "match_url": "https://www.yallakora.com/friendly-matches-club/2541/match/113423/%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%84%d9%83-%d9%86%d8%a7%d8%af%d9%8a-%d8%a7%d9%84%d8%b4%d8%b1%d9%82%d9%8a%d8%a9-%d8%a5%d9%86%d8%a8%d9%8a-%d9%85%d8%a8%d8%a7%d8%b1%d9%8a%d8%a7%d8%aa-%d9%88%d8%af%d9%8a%d8%a9-%d8%a3%d9%86%d8%af%d9%8a%d8%a9#MC_MatcheDetails"
+        "score_a": null,
+        "score_b": null,
+        "match_url": "https://www.yallakora.com/friendly-matches-club/2541/match/113490/%d8%a8%d9%8a%d8%b1%d8%a7%d9%85%d9%8a%d8%af%d8%b2-%d9%84%d9%8a%d9%81%d9%8a%d9%84%d8%b2-%d9%85%d8%a8%d8%a7%d8%b1%d9%8a%d8%a7%d8%aa-%d9%88%d8%af%d9%8a%d8%a9-%d8%a3%d9%86%d8%af%d9%8a%d8%a9#MC_MatcheDetails"
       }
     ]
   }
