@@ -7,8 +7,8 @@
       {
         "match_id": "113297",
         "round": "الجولة الرابعة",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "16:00",
         "channel": "بى ان سبورت 3 HD",
         "team_a": {
@@ -19,8 +19,8 @@
           "name": "ليتوانيا",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/9/10/Lithuania2018_9_10_18_27.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "1",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/uefa-nations-league/3025/match/113297/%d8%a5%d8%b0%d8%b1%d8%a8%d9%8a%d8%ac%d8%a7%d9%86-%d9%84%d9%8a%d8%aa%d9%88%d8%a7%d9%86%d9%8a%d8%a7-%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a3%d9%85%d9%85-%d8%a7%d9%84%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d9%8a%d8%a9#MC_MatcheDetails"
       },
       {
@@ -185,8 +185,8 @@
       {
         "match_id": "113488",
         "round": "مباراة ودية",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "16:00",
         "channel": null,
         "team_a": {
@@ -197,8 +197,8 @@
           "name": "السنغال",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/24/Senegal2018_7_24_14_48.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "1",
         "match_url": "https://www.yallakora.com/friendly-matches-nations/2438/match/113488/%d8%ac%d8%b2%d8%b1-%d8%a7%d9%84%d9%82%d9%85%d8%b1--%d8%a7%d9%84%d8%b3%d9%86%d8%ba%d8%a7%d9%84--%d9%85%d8%a8%d8%a7%d8%b1%d9%8a%d8%a7%d8%aa-%d9%88%d8%af%d9%8a%d8%a9-%d9%85%d9%86%d8%aa%d8%ae%d8%a8%d8%a7%d8%aa#MC_MatcheDetails"
       },
       {
@@ -249,9 +249,9 @@
       {
         "match_id": "113423",
         "round": "مبارة ودية",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
-        "time": "16:30",
+        "status": "LIVE",
+        "status_label": "مباشر",
+        "time": "17:00",
         "channel": null,
         "team_a": {
           "name": "الزمالك",
@@ -261,8 +261,8 @@
           "name": "نادي الشرقية إنبي",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2026/8/5/enppi - sharkia12026_8_5_15_41.webp"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "1",
+        "score_b": "2",
         "match_url": "https://www.yallakora.com/friendly-matches-club/2541/match/113423/%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%84%d9%83-%d9%86%d8%a7%d8%af%d9%8a-%d8%a7%d9%84%d8%b4%d8%b1%d9%82%d9%8a%d8%a9-%d8%a5%d9%86%d8%a8%d9%8a-%d9%85%d8%a8%d8%a7%d8%b1%d9%8a%d8%a7%d8%aa-%d9%88%d8%af%d9%8a%d8%a9-%d8%a3%d9%86%d8%af%d9%8a%d8%a9#MC_MatcheDetails"
       }
     ]
