@@ -33,8 +33,8 @@
       {
         "match_id": "113313",
         "round": "الجولة الرابعة",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الأول",
         "time": "17:00",
         "channel": "بى ان سبورت 2 HD",
         "team_a": {
@@ -45,8 +45,8 @@
           "name": "جزر فاروه",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/9/12/FaroeIsland2018_9_12_12_39.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "1",
         "match_url": "https://www.yallakora.com/uefa-nations-league/3025/match/113313/%d9%83%d8%a7%d8%b2%d8%a7%d8%ae%d8%b3%d8%aa%d8%a7%d9%86-%d8%ac%d8%b2%d8%b1-%d9%81%d8%a7%d8%b1%d9%88%d9%87-%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a3%d9%85%d9%85-%d8%a7%d9%84%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d9%8a%d8%a9#MC_MatcheDetails"
       },
       {
@@ -230,8 +230,8 @@
       {
         "match_id": "113545",
         "round": "الجولة الأولى",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "14:00",
         "channel": null,
         "team_a": {
@@ -242,15 +242,15 @@
           "name": "ميشال سبور",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2024/10/7/Mechal-Sport--handball2024_10_7_0_7.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "33",
+        "score_b": "20",
         "match_url": "https://www.yallakora.com/african-handball-champions-league/3065/match/113545/%d9%83%d9%8a%d9%86%d8%b4%d8%a7%d8%b3%d8%a7-%d9%85%d9%8a%d8%b4%d8%a7%d9%84-%d8%b3%d8%a8%d9%88%d8%b1-%d8%a8%d8%b7%d9%88%d9%84%d8%a9-%d8%a3%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7-%d9%84%d9%84%d8%a3%d9%86%d8%af%d9%8a%d8%a9-%d9%84%d9%83%d8%b1%d8%a9-%d8%a7%d9%84%d9%8a%d8%af#MC_MatcheDetails"
       },
       {
         "match_id": "113546",
         "round": "الجولة الأولى",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "16:00",
         "channel": null,
         "team_a": {
@@ -261,15 +261,15 @@
           "name": "إنتر كلوب",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2026/10/3/Interclub2026_10_3_23_51.webp"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "38",
+        "score_b": "24",
         "match_url": "https://www.yallakora.com/african-handball-champions-league/3065/match/113546/%d8%a7%d9%84%d8%a3%d9%87%d9%84%d9%8a-%d8%a5%d9%86%d8%aa%d8%b1-%d9%83%d9%84%d9%88%d8%a8-%d8%a8%d8%b7%d9%88%d9%84%d8%a9-%d8%a3%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7-%d9%84%d9%84%d8%a3%d9%86%d8%af%d9%8a%d8%a9-%d9%84%d9%83%d8%b1%d8%a9-%d8%a7%d9%84%d9%8a%d8%af#MC_MatcheDetails"
       },
       {
         "match_id": "113547",
         "round": "الجولة الأولى",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "16:00",
         "channel": null,
         "team_a": {
@@ -280,8 +280,8 @@
           "name": "الجيش الرواندي",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2024/3/21/APR-Handball12024_3_21_1_55.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "38",
+        "score_b": "25",
         "match_url": "https://www.yallakora.com/african-handball-champions-league/3065/match/113547/%d8%a8%d8%aa%d8%b1%d9%88-%d8%a3%d8%aa%d9%84%d9%8a%d8%aa%d9%8a%d9%83%d9%88-%d8%a7%d9%84%d8%ac%d9%8a%d8%b4-%d8%a7%d9%84%d8%b1%d9%88%d8%a7%d9%86%d8%af%d9%8a-%d8%a8%d8%b7%d9%88%d9%84%d8%a9-%d8%a3%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7-%d9%84%d9%84%d8%a3%d9%86%d8%af%d9%8a%d8%a9-%d9%84%d9%83%d8%b1%d8%a9-%d8%a7%d9%84%d9%8a%d8%af#MC_MatcheDetails"
       },
       {
