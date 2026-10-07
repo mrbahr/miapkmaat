@@ -7,8 +7,8 @@
       {
         "match_id": "113194",
         "round": "الجولة الاولي",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "17:00",
         "channel": "ON Sport PLUS",
         "team_a": {
@@ -19,15 +19,15 @@
           "name": "القناة",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/10/9/AlQanah2018_10_9_12_34.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "3",
+        "score_b": "2",
         "match_url": "https://www.yallakora.com/egyptian-league-cup/3055/match/113194/%d8%a8%d9%8a%d8%b1%d8%a7%d9%85%d9%8a%d8%af%d8%b2-%d8%a7%d9%84%d9%82%d9%86%d8%a7%d8%a9-%d9%83%d8%a3%d8%b3-%d8%b1%d8%a7%d8%a8%d8%b7%d8%a9-%d8%a7%d9%84%d8%a3%d9%86%d8%af%d9%8a%d8%a9-#MC_MatcheDetails"
       },
       {
         "match_id": "113195",
         "round": "الجولة الاولي",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الثاني",
         "time": "17:00",
         "channel": "ON Sport MAX",
         "team_a": {
@@ -38,8 +38,8 @@
           "name": "الأهلي",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2023/10/19/ahly12023_10_19_17_58.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "5",
         "match_url": "https://www.yallakora.com/egyptian-league-cup/3055/match/113195/%d8%a8%d8%aa%d8%b1%d9%88%d9%84-%d8%a3%d8%b3%d9%8a%d9%88%d8%b7-%d8%a7%d9%84%d8%a3%d9%87%d9%84%d9%8a-%d9%83%d8%a3%d8%b3-%d8%b1%d8%a7%d8%a8%d8%b7%d8%a9-%d8%a7%d9%84%d8%a3%d9%86%d8%af%d9%8a%d8%a9-#MC_MatcheDetails"
       },
       {
@@ -90,8 +90,8 @@
       {
         "match_id": "113550",
         "round": "الجولة الثانية",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "14:00",
         "channel": null,
         "team_a": {
@@ -102,15 +102,15 @@
           "name": "ميكيلّي 70",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2024/10/6/Mekelle2024_10_6_23_19.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "45",
+        "score_b": "23",
         "match_url": "https://www.yallakora.com/african-handball-champions-league/3065/match/113550/%d9%83%d9%8a%d9%86%d8%b4%d8%a7%d8%b3%d8%a7-%d9%85%d9%8a%d9%83%d9%8a%d9%84-%d9%8a-70-%d8%a8%d8%b7%d9%88%d9%84%d8%a9-%d8%a3%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7-%d9%84%d9%84%d8%a3%d9%86%d8%af%d9%8a%d8%a9-%d9%84%d9%83%d8%b1%d8%a9-%d8%a7%d9%84%d9%8a%d8%af#MC_MatcheDetails"
       },
       {
         "match_id": "113551",
         "round": "الجولة الثانية",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "16:00",
         "channel": null,
         "team_a": {
@@ -121,17 +121,17 @@
           "name": "الجيش الرواندي",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2024/3/21/APR-Handball12024_3_21_1_55.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "26",
+        "score_b": "34",
         "match_url": "https://www.yallakora.com/african-handball-champions-league/3065/match/113551/%d8%b1%d9%8a%d9%86%d9%8a%d8%b3%d8%a7%d9%86%d8%b3--%d8%a7%d9%84%d8%ac%d9%8a%d8%b4-%d8%a7%d9%84%d8%b1%d9%88%d8%a7%d9%86%d8%af%d9%8a-%d8%a8%d8%b7%d9%88%d9%84%d8%a9-%d8%a3%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7-%d9%84%d9%84%d8%a3%d9%86%d8%af%d9%8a%d8%a9-%d9%84%d9%83%d8%b1%d8%a9-%d8%a7%d9%84%d9%8a%d8%af#MC_MatcheDetails"
       },
       {
         "match_id": "113552",
         "round": "الجولة الثانية",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "مباشر",
         "time": "18:00",
-        "channel": null,
+        "channel": "قناة الاتحاد الإفريقي لليد - يوتيوب",
         "team_a": {
           "name": "الأهلي",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2024/5/24/ahly-handball2024_5_24_17_24.jpg"
@@ -140,8 +140,8 @@
           "name": "فلاورز",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2024/10/19/flowers2024_10_19_0_44.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "18",
+        "score_b": "10",
         "match_url": "https://www.yallakora.com/african-handball-champions-league/3065/match/113552/%d8%a7%d9%84%d8%a3%d9%87%d9%84%d9%8a-%d9%81%d9%84%d8%a7%d9%88%d8%b1%d8%b2-%d8%a8%d8%b7%d9%88%d9%84%d8%a9-%d8%a3%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7-%d9%84%d9%84%d8%a3%d9%86%d8%af%d9%8a%d8%a9-%d9%84%d9%83%d8%b1%d8%a9-%d8%a7%d9%84%d9%8a%d8%af#MC_MatcheDetails"
       },
       {
