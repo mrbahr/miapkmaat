@@ -192,8 +192,8 @@
       {
         "match_id": "113439",
         "round": "مباراة ودية",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "02:00",
         "channel": "شاشا",
         "team_a": {
@@ -204,8 +204,8 @@
           "name": "بنين",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/26/Benin2018_7_26_19_21.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "3",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/friendly-matches-nations/2438/match/113439/%d8%a7%d9%84%d8%a3%d8%b1%d8%ac%d9%86%d8%aa%d9%8a%d9%86-%d8%a8%d9%86%d9%8a%d9%86-%d9%85%d8%a8%d8%a7%d8%b1%d9%8a%d8%a7%d8%aa-%d9%88%d8%af%d9%8a%d8%a9-%d9%85%d9%86%d8%aa%d8%ae%d8%a8%d8%a7%d8%aa#MC_MatcheDetails"
       }
     ]
