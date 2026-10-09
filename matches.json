@@ -10,7 +10,7 @@
         "status": "SCHEDULED",
         "status_label": "لم تبدأ",
         "time": "22:00",
-        "channel": null,
+        "channel": "بى ان سبورت 2 HD",
         "team_a": {
           "name": "مالاجا",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/29/Malaga2018_7_29_14_55.jpg"
@@ -36,7 +36,7 @@
         "status": "SCHEDULED",
         "status_label": "لم تبدأ",
         "time": "20:00",
-        "channel": null,
+        "channel": "بى ان سبورت 1HD",
         "team_a": {
           "name": "جالاتا سراي",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/9/10/Galatasaray2018_9_10_13_8.jpg"
@@ -62,7 +62,7 @@
         "status": "SCHEDULED",
         "status_label": "لم تبدأ",
         "time": "21:45",
-        "channel": null,
+        "channel": "بى ان سبورت 4 HD",
         "team_a": {
           "name": "لانس",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/9/10/Lens2018_9_10_13_11.jpg"
@@ -261,7 +261,7 @@
         "status": "SCHEDULED",
         "status_label": "لم تبدأ",
         "time": "16:50",
-        "channel": null,
+        "channel": "ثمانية 2",
         "team_a": {
           "name": "الخلود",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2025/9/25/Al_Kholood_Club12025_9_25_0_22.webp"
@@ -280,7 +280,7 @@
         "status": "SCHEDULED",
         "status_label": "لم تبدأ",
         "time": "17:55",
-        "channel": null,
+        "channel": "ثمانية 1",
         "team_a": {
           "name": "الفتح",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2023/2/3/fath12023_2_3_16_33.jpg"
@@ -299,7 +299,7 @@
         "status": "SCHEDULED",
         "status_label": "لم تبدأ",
         "time": "21:00",
-        "channel": null,
+        "channel": "ثمانية 1",
         "team_a": {
           "name": "النصر",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2025/5/19/xdDArNPC_400x4002025_5_19_22_38.webp"
