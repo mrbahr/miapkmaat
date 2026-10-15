@@ -358,7 +358,7 @@
         "status": "SCHEDULED",
         "status_label": "لم تبدأ",
         "time": "16:05",
-        "channel": null,
+        "channel": "أبوظبي الرياضية - HD1",
         "team_a": {
           "name": "الظفرة",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/26/Alzafra2018_7_26_11_51.jpg"
@@ -377,7 +377,7 @@
         "status": "SCHEDULED",
         "status_label": "لم تبدأ",
         "time": "18:45",
-        "channel": null,
+        "channel": "أبوظبي الرياضية - HD1",
         "team_a": {
           "name": "بني ياس",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/26/BaniYas2018_7_26_11_52.jpg"
@@ -403,7 +403,7 @@
         "status": "SCHEDULED",
         "status_label": "لم تبدأ",
         "time": "17:30",
-        "channel": null,
+        "channel": "الكأس 5",
         "team_a": {
           "name": "الأهلي القطري",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/26/AlAhli2018_7_26_12_14.jpg"
@@ -422,7 +422,7 @@
         "status": "SCHEDULED",
         "status_label": "لم تبدأ",
         "time": "19:45",
-        "channel": null,
+        "channel": "الكأس 6",
         "team_a": {
           "name": "الشحانية",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/26/Shahaniya2018_7_26_12_15.jpg"
