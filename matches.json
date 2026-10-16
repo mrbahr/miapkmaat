@@ -26,8 +26,8 @@
       {
         "match_id": "113323",
         "round": "ذهاب دور ال 32",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "19:00",
         "channel": "MBC مصر 2",
         "team_a": {
@@ -38,8 +38,8 @@
           "name": "الزمالك",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/24/Zamalek2018_7_24_13_31.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "1",
         "match_url": "https://www.yallakora.com/african-champions-league/3050/match/113323/%d8%a7%d9%84%d8%ac%d9%8a%d8%b4-%d8%a7%d9%84%d8%b1%d9%88%d8%a7%d9%86%d8%af%d9%8a-%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%84%d9%83-%d8%af%d9%88%d8%b1%d9%8a-%d8%a3%d8%a8%d8%b7%d8%a7%d9%84-%d8%a3%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7#MC_MatcheDetails"
       }
     ]
@@ -52,8 +52,8 @@
       {
         "match_id": "113084",
         "round": "ذهاب دور ال 32",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الثاني",
         "time": "20:00",
         "channel": "ON Sport",
         "team_a": {
@@ -64,15 +64,15 @@
           "name": "عزام يونايتد",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2021/9/7/Azam2021_9_7_11_2.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "1",
+        "score_b": "1",
         "match_url": "https://www.yallakora.com/african-confederation-cup/3051/match/113084/%d8%b2%d8%af-%d8%b9%d8%b2%d8%a7%d9%85-%d9%8a%d9%88%d9%86%d8%a7%d9%8a%d8%aa%d8%af--%d8%a7%d9%84%d9%83%d9%88%d9%86%d9%81%d9%8a%d8%af%d8%b1%d8%a7%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%a3%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a9#MC_MatcheDetails"
       },
       {
         "match_id": "113506",
         "round": "ذهاب دور ال 32",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الثاني",
         "time": "20:00",
         "channel": null,
         "team_a": {
@@ -83,8 +83,8 @@
           "name": "أهلي طرابلس",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/25/AhliTrablos2018_7_25_15_30.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "3",
         "match_url": "https://www.yallakora.com/african-confederation-cup/3051/match/113506/%d9%88%d9%8a%d9%84%d9%88%d8%a7%d9%84%d9%88-%d8%a3%d8%af%d9%8a%d8%ac%d8%b1%d8%a7%d8%aa-%d8%a3%d9%87%d9%84%d9%8a-%d8%b7%d8%b1%d8%a7%d8%a8%d9%84%d8%b3-%d8%a7%d9%84%d9%83%d9%88%d9%86%d9%81%d9%8a%d8%af%d8%b1%d8%a7%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%a3%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a9#MC_MatcheDetails"
       }
     ]
@@ -123,8 +123,8 @@
       {
         "match_id": "112854",
         "round": "الأسبوع الثامن",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "20:00",
         "channel": null,
         "team_a": {
@@ -135,8 +135,8 @@
           "name": "ريزه سبور",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2021/2/13/Rizespor12021_2_13_23_36.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "1",
+        "score_b": "2",
         "match_url": "https://www.yallakora.com/turkish-super-lig/3039/match/112854/%d9%83%d9%88%d8%b1%d9%88%d9%85--%d8%b1%d9%8a%d8%b2%d9%87-%d8%b3%d8%a8%d9%88%d8%b1-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%aa%d8%b1%d9%83%d9%8a#MC_MatcheDetails"
       }
     ]
@@ -149,8 +149,8 @@
       {
         "match_id": "112990",
         "round": "الأسبوع السابع",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الأول",
         "time": "21:45",
         "channel": "بى ان سبورت 3 HD",
         "team_a": {
@@ -161,8 +161,8 @@
           "name": "تولوز",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2026/8/2/22026_8_2_19_16.webp"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/ligue1/3037/match/112990/%d9%84%d9%88-%d9%85%d8%a7%d9%86-%d8%aa%d9%88%d9%84%d9%88%d8%b2-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d9%81%d8%b1%d9%86%d8%b3%d9%8a#MC_MatcheDetails"
       }
     ]
@@ -175,8 +175,8 @@
       {
         "match_id": "112741",
         "round": "الأسبوع السابع",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الأول",
         "time": "21:45",
         "channel": "Starz Play App",
         "team_a": {
@@ -187,8 +187,8 @@
           "name": "ساسولو",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/29/Sassuolo2018_7_29_15_11.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/serie-a/3035/match/112741/%d9%81%d8%b1%d9%88%d8%b2%d9%8a%d9%86%d9%88%d9%86%d9%8a-%d8%b3%d8%a7%d8%b3%d9%88%d9%84%d9%88-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a5%d9%8a%d8%b7%d8%a7%d9%84%d9%8a#MC_MatcheDetails"
       }
     ]
@@ -201,8 +201,8 @@
       {
         "match_id": "112918",
         "round": "الأسبوع السادس",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الأول",
         "time": "21:30",
         "channel": null,
         "team_a": {
@@ -213,8 +213,8 @@
           "name": "كولن",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/9/12/Koln2018_9_12_13_9.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/bundesliga/3036/match/112918/%d8%a2-%d9%81%d8%b1%d8%a7%d9%86%d9%83%d9%81%d9%88%d8%b1%d8%aa--%d9%83%d9%88%d9%84%d9%86-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a3%d9%84%d9%85%d8%a7%d9%86%d9%8a#MC_MatcheDetails"
       }
     ]
@@ -374,8 +374,8 @@
       {
         "match_id": "113748",
         "round": "الأسبوع السادس",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "18:45",
         "channel": "أبوظبي الرياضية - HD1",
         "team_a": {
@@ -386,8 +386,8 @@
           "name": "الوصل",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/25/Alwasl2018_7_25_15_22.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "2",
         "match_url": "https://www.yallakora.com/uael-league/3042/match/113748/%d8%a8%d9%86%d9%8a-%d9%8a%d8%a7%d8%b3-%d8%a7%d9%84%d9%88%d8%b5%d9%84-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a5%d9%85%d8%a7%d8%b1%d8%a7%d8%aa%d9%8a#MC_MatcheDetails"
       }
     ]
@@ -400,8 +400,8 @@
       {
         "match_id": "112827",
         "round": "الأسبوع السادس",
-        "status": "LIVE",
-        "status_label": "الشوط الثاني",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "17:30",
         "channel": "الكأس 5",
         "team_a": {
@@ -413,14 +413,14 @@
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2026/8/5/22026_8_5_23_0.webp"
         },
         "score_a": "0",
-        "score_b": "1",
+        "score_b": "3",
         "match_url": "https://www.yallakora.com/qatar-league/3041/match/112827/%d8%a7%d9%84%d8%a3%d9%87%d9%84%d9%8a-%d8%a7%d9%84%d9%82%d8%b7%d8%b1%d9%8a-%d8%a7%d9%84%d9%88%d9%83%d8%b1%d8%a9-%d8%af%d9%88%d8%b1%d9%8a-%d9%86%d8%ac%d9%88%d9%85-%d9%82%d8%b7%d8%b1#MC_MatcheDetails"
       },
       {
         "match_id": "112826",
         "round": "الأسبوع السادس",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "19:45",
         "channel": "الكأس 6",
         "team_a": {
@@ -431,8 +431,8 @@
           "name": "العربي",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/26/AlArabi2018_7_26_12_12.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "6",
         "match_url": "https://www.yallakora.com/qatar-league/3041/match/112826/%d8%a7%d9%84%d8%b4%d8%ad%d8%a7%d9%86%d9%8a%d8%a9-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a-%d8%af%d9%88%d8%b1%d9%8a-%d9%86%d8%ac%d9%88%d9%85-%d9%82%d8%b7%d8%b1#MC_MatcheDetails"
       }
     ]
