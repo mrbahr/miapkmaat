@@ -7,8 +7,8 @@
       {
         "match_id": "112040",
         "round": "الأسبوع السابع",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الثاني",
         "time": "17:00",
         "channel": "ON Sport PLUS HD",
         "team_a": {
@@ -19,8 +19,8 @@
           "name": "الاتحاد السكندري",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/24/Alittihad2018_7_24_13_30.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "2",
+        "score_b": "1",
         "match_url": "https://www.yallakora.com/egyptian-league/3031/match/112040/%d8%ba%d8%b2%d9%84-%d8%a7%d9%84%d9%85%d8%ad%d9%84%d8%a9-%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af-%d8%a7%d9%84%d8%b3%d9%83%d9%86%d8%af%d8%b1%d9%8a-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a#MC_MatcheDetails"
       },
       {
@@ -71,8 +71,8 @@
       {
         "match_id": "113619",
         "round": "ذهاب دور ال 32",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "15:00",
         "channel": null,
         "team_a": {
@@ -83,8 +83,8 @@
           "name": "سيمبا",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/24/Simba2018_7_24_12_50.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "1",
+        "score_b": "6",
         "match_url": "https://www.yallakora.com/african-champions-league/3050/match/113619/%d9%86%d8%a7%d8%af%d9%8a-15-%d8%a3%d9%88%d8%ac%d9%88%d8%b3%d8%aa%d9%88-%d8%b3%d9%8a%d9%85%d8%a8%d8%a7-%d8%af%d9%88%d8%b1%d9%8a-%d8%a3%d8%a8%d8%b7%d8%a7%d9%84-%d8%a3%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7#MC_MatcheDetails"
       },
       {
