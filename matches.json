@@ -7,8 +7,8 @@
       {
         "match_id": "112497",
         "round": "الأسبوع العاشر",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "15:30",
         "channel": null,
         "team_a": {
@@ -19,15 +19,15 @@
           "name": "الداخلية",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/24/Eldakhleya2018_7_24_13_32.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "2",
+        "score_b": "2",
         "match_url": "https://www.yallakora.com/egyptian-second-division/3056/match/112497/%d8%a7%d9%84%d9%86%d8%b5%d8%b1--%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d8%a9-%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d9%82%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a3#MC_MatcheDetails"
       },
       {
         "match_id": "112498",
         "round": "الأسبوع العاشر",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "15:30",
         "channel": null,
         "team_a": {
@@ -38,15 +38,15 @@
           "name": "السكة الحديد",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2025/12/5/el-sekka-el-hadid-sc-logo-png_seeklogo-6312502025_12_5_5_50.webp"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "1",
+        "score_b": "5",
         "match_url": "https://www.yallakora.com/egyptian-second-division/3056/match/112498/%d8%af%d9%8a%d8%b1%d9%88%d8%b7-%d8%a7%d9%84%d8%b3%d9%83%d8%a9-%d8%a7%d9%84%d8%ad%d8%af%d9%8a%d8%af-%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d9%82%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a3#MC_MatcheDetails"
       },
       {
         "match_id": "112499",
         "round": "الأسبوع العاشر",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "15:30",
         "channel": null,
         "team_a": {
@@ -57,15 +57,15 @@
           "name": "كهرباء الإسماعيلية",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2025/8/10/kahraba2025_8_10_16_41.webp"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/egyptian-second-division/3056/match/112499/%d9%85%d8%a7%d9%84%d9%8a%d8%a9-%d9%83%d9%81%d8%b1-%d8%a7%d9%84%d8%b2%d9%8a%d8%a7%d8%aa-%d9%83%d9%87%d8%b1%d8%a8%d8%a7%d8%a1-%d8%a7%d9%84%d8%a5%d8%b3%d9%85%d8%a7%d8%b9%d9%8a%d9%84%d9%8a%d8%a9-%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d9%82%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a3#MC_MatcheDetails"
       },
       {
         "match_id": "112500",
         "round": "الأسبوع العاشر",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "15:30",
         "channel": null,
         "team_a": {
@@ -76,15 +76,15 @@
           "name": "بلدية المحلة",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2023/9/19/12023_9_19_23_45.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/egyptian-second-division/3056/match/112500/%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a%d8%a9-%d9%84%d9%84%d8%a7%d8%aa%d8%b5%d8%a7%d9%84%d8%a7%d8%aa-%d8%a8%d9%84%d8%af%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d8%ad%d9%84%d8%a9-%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d9%82%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a3#MC_MatcheDetails"
       },
       {
         "match_id": "112501",
         "round": "الأسبوع العاشر",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "15:30",
         "channel": null,
         "team_a": {
@@ -95,8 +95,8 @@
           "name": "طنطا‏",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/31/Tanta2018_7_31_16_51.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "2",
+        "score_b": "2",
         "match_url": "https://www.yallakora.com/egyptian-second-division/3056/match/112501/%d9%86%d8%a7%d8%af%d9%89-%d8%af%d9%84%d8%aa%d8%a7-%d9%8a%d9%88%d9%86%d8%a7%d9%8a%d8%aa%d8%af-%d8%b7%d9%86%d8%b7%d8%a7--%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d9%82%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a3#MC_MatcheDetails"
       }
     ]
@@ -115,7 +115,7 @@
         "channel": "بى ان سبورت 6 HD",
         "team_a": {
           "name": "أرارات أرمينيا",
-          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2026/9/8/FC-Ararat-Armenia2026_9_8_22_33.webp"
+          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2026/10/22/Armenia2026_10_22_16_44.webp"
         },
         "team_b": {
           "name": "الكمار",
@@ -157,7 +157,7 @@
         },
         "team_b": {
           "name": "تورينسي",
-          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/YK-Generic-team-logo.png"
+          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2026/10/22/Torreense32026_10_22_16_23.webp"
         },
         "score_a": null,
         "score_b": null,
@@ -458,8 +458,8 @@
       {
         "match_id": "113657",
         "round": "الجولة الثانية",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الأول",
         "time": "17:30",
         "channel": "بى ان سبورت انجليش 1",
         "team_a": {
@@ -470,8 +470,8 @@
           "name": "باناثينايكوس",
           "logo": "https://mediayk.gemini.media/img/yallakora/teamlogo/Panathinaikos7-10-2010-17-58-0.png"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "2",
         "match_url": "https://www.yallakora.com/uefa-europa-conference-league/3053/match/113657/%d9%86%d8%a7%d8%af%d9%8a-%d9%83%d8%a7%d9%8a%d8%b1%d8%a7%d8%aa-%d8%a8%d8%a7%d9%86%d8%a7%d8%ab%d9%8a%d9%86%d8%a7%d9%8a%d9%83%d9%88%d8%b3-%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d9%85%d8%a4%d8%aa%d9%85%d8%b1-%d8%a7%d9%84%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d9%8a#MC_MatcheDetails"
       },
       {
@@ -807,8 +807,8 @@
       {
         "match_id": "112799",
         "round": "الأسبوع الحادي عشر",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الثاني",
         "time": "16:40",
         "channel": null,
         "team_a": {
@@ -819,15 +819,15 @@
           "name": "الفيحاء",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2021/9/7/AlFayha2021_9_7_17_37.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "1",
+        "score_b": "2",
         "match_url": "https://www.yallakora.com/ksa-league/3040/match/112799/%d8%a7%d9%84%d8%ad%d8%b2%d9%85-%d8%a7%d9%84%d9%81%d9%8a%d8%ad%d8%a7%d8%a1-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a#MC_MatcheDetails"
       },
       {
         "match_id": "112800",
         "round": "الأسبوع الحادي عشر",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الأول",
         "time": "17:45",
         "channel": null,
         "team_a": {
@@ -838,8 +838,8 @@
           "name": "الشباب",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2023/7/29/331774651_1362804437889036_4103221782658863338_n2023_7_29_22_41.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "2",
         "match_url": "https://www.yallakora.com/ksa-league/3040/match/112800/%d8%a7%d9%84%d9%81%d8%aa%d8%ad-%d8%a7%d9%84%d8%b4%d8%a8%d8%a7%d8%a8-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a#MC_MatcheDetails"
       },
       {
@@ -871,8 +871,8 @@
       {
         "match_id": "112830",
         "round": "الأسبوع السابع",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الأول",
         "time": "17:30",
         "channel": null,
         "team_a": {
@@ -883,8 +883,8 @@
           "name": "السد القطري",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2021/9/7/AlSadd2021_9_7_11_27.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "2",
         "match_url": "https://www.yallakora.com/qatar-league/3041/match/112830/%d8%a7%d9%84%d8%b4%d8%ad%d8%a7%d9%86%d9%8a%d8%a9-%d8%a7%d9%84%d8%b3%d8%af-%d8%a7%d9%84%d9%82%d8%b7%d8%b1%d9%8a-%d8%af%d9%88%d8%b1%d9%8a-%d9%86%d8%ac%d9%88%d9%85-%d9%82%d8%b7%d8%b1#MC_MatcheDetails"
       },
       {
