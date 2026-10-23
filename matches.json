@@ -88,25 +88,6 @@
     "logo": "https://mediayk.gemini.media/img/yallakora/tourlogo/576229894_25484069324544446_513137027842226473_n (1)3-11-2025-19-26-29.webp",
     "matches": [
       {
-        "match_id": "113525",
-        "round": "عودة دور ال 32",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
-        "time": "19:00",
-        "channel": null,
-        "team_a": {
-          "name": "بريميرو دي اوجوستو",
-          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/24/PrimeiroDeAgosto2018_7_24_12_22.jpg"
-        },
-        "team_b": {
-          "name": "فيرونغا",
-          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2026/10/1/DC Virunga12026_10_1_0_36.webp"
-        },
-        "score_a": null,
-        "score_b": null,
-        "match_url": "https://www.yallakora.com/african-confederation-cup/3051/match/113525/%d8%a8%d8%b1%d9%8a%d9%85%d9%8a%d8%b1%d9%88-%d8%af%d9%8a-%d8%a7%d9%88%d8%ac%d9%88%d8%b3%d8%aa%d9%88-%d9%81%d9%8a%d8%b1%d9%88%d9%86%d8%ba%d8%a7-%d8%a7%d9%84%d9%83%d9%88%d9%86%d9%81%d9%8a%d8%af%d8%b1%d8%a7%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%a3%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a9#MC_MatcheDetails"
-      },
-      {
         "match_id": "113528",
         "round": "عودة دور ال 32",
         "status": "SCHEDULED",
@@ -124,6 +105,25 @@
         "score_a": null,
         "score_b": null,
         "match_url": "https://www.yallakora.com/african-confederation-cup/3051/match/113528/%d9%83%d8%a7%d9%8a%d8%b2%d8%b1-%d8%aa%d8%b4%d9%8a%d9%81%d8%b2-%d8%b1%d9%8a%d8%af-%d8%a3%d8%b1%d9%88%d8%b3-%d8%a7%d9%84%d9%83%d9%88%d9%86%d9%81%d9%8a%d8%af%d8%b1%d8%a7%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%a3%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a9#MC_MatcheDetails"
+      },
+      {
+        "match_id": "113525",
+        "round": "عودة دور ال 32",
+        "status": "SCHEDULED",
+        "status_label": "لم تبدأ",
+        "time": "22:00",
+        "channel": null,
+        "team_a": {
+          "name": "بريميرو دي اوجوستو",
+          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/24/PrimeiroDeAgosto2018_7_24_12_22.jpg"
+        },
+        "team_b": {
+          "name": "فيرونغا",
+          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2026/10/1/DC Virunga12026_10_1_0_36.webp"
+        },
+        "score_a": null,
+        "score_b": null,
+        "match_url": "https://www.yallakora.com/african-confederation-cup/3051/match/113525/%d8%a8%d8%b1%d9%8a%d9%85%d9%8a%d8%b1%d9%88-%d8%af%d9%8a-%d8%a7%d9%88%d8%ac%d9%88%d8%b3%d8%aa%d9%88-%d9%81%d9%8a%d8%b1%d9%88%d9%86%d8%ba%d8%a7-%d8%a7%d9%84%d9%83%d9%88%d9%86%d9%81%d9%8a%d8%af%d8%b1%d8%a7%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%a3%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a9#MC_MatcheDetails"
       },
       {
         "match_id": "113524",
@@ -157,7 +157,7 @@
         "status": "SCHEDULED",
         "status_label": "لم تبدأ",
         "time": "22:00",
-        "channel": null,
+        "channel": "بى ان سبورت 1HD",
         "team_a": {
           "name": "إيبسويتش تاون",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2019/1/20/IpswichTown2019_1_20_14_6.jpg"
@@ -183,7 +183,7 @@
         "status": "SCHEDULED",
         "status_label": "لم تبدأ",
         "time": "22:00",
-        "channel": null,
+        "channel": "بى ان سبورت 3 HD",
         "team_a": {
           "name": "ألافيس",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2024/8/11/11082024_8_11_23_19.jpg"
@@ -235,7 +235,7 @@
         "status": "SCHEDULED",
         "status_label": "لم تبدأ",
         "time": "21:45",
-        "channel": null,
+        "channel": "بى ان سبورت 8 HD",
         "team_a": {
           "name": "بريست",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2019/7/14/StadeBrestois2019_7_14_16_43.jpg"
@@ -261,7 +261,7 @@
         "status": "SCHEDULED",
         "status_label": "لم تبدأ",
         "time": "21:45",
-        "channel": null,
+        "channel": "Starz Play App",
         "team_a": {
           "name": "تورينو",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/29/Torino2018_7_29_15_6.jpg"
@@ -287,7 +287,7 @@
         "status": "SCHEDULED",
         "status_label": "لم تبدأ",
         "time": "21:30",
-        "channel": null,
+        "channel": "Shahid",
         "team_a": {
           "name": "شتوتجارت",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/29/Stuttgart2018_7_29_16_4.jpg"
@@ -498,7 +498,7 @@
         "status": "SCHEDULED",
         "status_label": "لم تبدأ",
         "time": "21:00",
-        "channel": null,
+        "channel": "ثمانية 1",
         "team_a": {
           "name": "القادسية",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2024/8/23/Al_Qadsiah12024_8_23_16_52.jpg"
