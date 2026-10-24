@@ -501,7 +501,7 @@
         "status": "SCHEDULED",
         "status_label": "لم تبدأ",
         "time": "17:00",
-        "channel": null,
+        "channel": "بى ان سبورت 5 HD",
         "team_a": {
           "name": "موناكو",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/29/Monaco2018_7_29_17_13.jpg"
@@ -520,7 +520,7 @@
         "status": "SCHEDULED",
         "status_label": "لم تبدأ",
         "time": "19:15",
-        "channel": null,
+        "channel": "بى ان سبورت اكسترا 4",
         "team_a": {
           "name": "تولوز",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2026/8/2/22026_8_2_19_16.webp"
@@ -539,7 +539,7 @@
         "status": "SCHEDULED",
         "status_label": "لم تبدأ",
         "time": "19:15",
-        "channel": null,
+        "channel": "بى ان سبورت 2 HD",
         "team_a": {
           "name": "رين",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/29/Rennais2018_7_29_17_14.jpg"
@@ -558,7 +558,7 @@
         "status": "SCHEDULED",
         "status_label": "لم تبدأ",
         "time": "19:15",
-        "channel": null,
+        "channel": "بى ان سبورت 4 HD",
         "team_a": {
           "name": "مارسيليا",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2026/8/5/669647185_1400616615413599_4784152006441617777_n2026_8_5_17_38.webp"
@@ -577,7 +577,7 @@
         "status": "SCHEDULED",
         "status_label": "لم تبدأ",
         "time": "19:15",
-        "channel": null,
+        "channel": "بى ان سبورت 5 HD",
         "team_a": {
           "name": "أنجيه",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2021/9/5/Angers2021_9_5_15_15.jpg"
@@ -596,7 +596,7 @@
         "status": "SCHEDULED",
         "status_label": "لم تبدأ",
         "time": "19:15",
-        "channel": null,
+        "channel": "بى ان سبورت اكسترا 3",
         "team_a": {
           "name": "اوكسير",
           "logo": "https://mediayk.gemini.media/img/yallakora/teamlogo/Auxerre21-10-2010-13-40-47.png"
