@@ -83,8 +83,8 @@
       {
         "match_id": "113473",
         "round": "عودة دور ال 32",
-        "status": "LIVE",
-        "status_label": "الشوط الثاني",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "20:00",
         "channel": null,
         "team_a": {
@@ -95,15 +95,15 @@
           "name": "سان بيدرو",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/12/17/SanPedro2018_12_17_10_39.jpg"
         },
-        "score_a": "1",
+        "score_a": "2",
         "score_b": "0",
         "match_url": "https://www.yallakora.com/african-champions-league/3050/match/113473/%d8%a5%d9%81-%d8%b3%d9%8a-%d9%86%d9%88%d8%a7%d8%b0%d9%8a%d8%a8%d9%88-%d8%b3%d8%a7%d9%86-%d8%a8%d9%8a%d8%af%d8%b1%d9%88-%d8%af%d9%88%d8%b1%d9%8a-%d8%a3%d8%a8%d8%b7%d8%a7%d9%84-%d8%a3%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7#MC_MatcheDetails"
       },
       {
         "match_id": "113475",
         "round": "عودة دور ال 32",
-        "status": "LIVE",
-        "status_label": "الشوط الثاني",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "20:00",
         "channel": null,
         "team_a": {
@@ -223,8 +223,8 @@
       {
         "match_id": "113527",
         "round": "عودة دور ال 32",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "22:00",
         "channel": null,
         "team_a": {
@@ -242,8 +242,8 @@
       {
         "match_id": "113530",
         "round": "عودة دور ال 32",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الثاني",
         "time": "22:00",
         "channel": null,
         "team_a": {
@@ -254,8 +254,8 @@
           "name": "كورهوغو",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2026/9/30/CO Korhogo2026_9_30_23_15.webp"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "2",
+        "score_b": "1",
         "match_url": "https://www.yallakora.com/african-confederation-cup/3051/match/113530/%d8%a7%d9%84%d8%ac%d9%8a%d8%b4-%d8%a7%d9%84%d9%85%d9%84%d9%83%d9%8a-%d9%83%d9%88%d8%b1%d9%87%d9%88%d8%ba%d9%88-%d8%a7%d9%84%d9%83%d9%88%d9%86%d9%81%d9%8a%d8%af%d8%b1%d8%a7%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%a3%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a9#MC_MatcheDetails"
       }
     ]
@@ -344,8 +344,8 @@
       {
         "match_id": "112609",
         "round": "الأسبوع الثامن",
-        "status": "LIVE",
-        "status_label": "الشوط الثاني",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "19:30",
         "channel": "بى ان سبورت 1HD",
         "team_a": {
@@ -408,8 +408,8 @@
       {
         "match_id": "112663",
         "round": "الأسبوع العاشر",
-        "status": "LIVE",
-        "status_label": "الشوط الأول",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "20:30",
         "channel": "بى ان سبورت 3 HD",
         "team_a": {
@@ -427,8 +427,8 @@
       {
         "match_id": "112666",
         "round": "الأسبوع العاشر",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "استراحة",
         "time": "23:00",
         "channel": "بى ان سبورت 1HD",
         "team_a": {
@@ -439,8 +439,8 @@
           "name": "ريال مدريد",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/29/RealMadrid2018_7_29_14_47.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "1",
         "match_url": "https://www.yallakora.com/la-liga/3034/match/112666/%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d8%a9--%d8%b1%d9%8a%d8%a7%d9%84-%d9%85%d8%af%d8%b1%d9%8a%d8%af-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a5%d8%b3%d8%a8%d8%a7%d9%86%d9%8a#MC_MatcheDetails"
       }
     ]
@@ -536,8 +536,8 @@
       {
         "match_id": "113003",
         "round": "الأسبوع الثامن",
-        "status": "LIVE",
-        "status_label": "الشوط الثاني",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "19:15",
         "channel": "بى ان سبورت 2 HD",
         "team_a": {
@@ -555,8 +555,8 @@
       {
         "match_id": "113004",
         "round": "الأسبوع الثامن",
-        "status": "LIVE",
-        "status_label": "الشوط الثاني",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "19:15",
         "channel": "بى ان سبورت 4 HD",
         "team_a": {
@@ -676,8 +676,8 @@
       {
         "match_id": "112759",
         "round": "الأسبوع الثامن",
-        "status": "LIVE",
-        "status_label": "استراحة",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "20:00",
         "channel": "Starz Play App",
         "team_a": {
@@ -695,8 +695,8 @@
       {
         "match_id": "112760",
         "round": "الأسبوع الثامن",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الثاني",
         "time": "22:45",
         "channel": "Starz Play App",
         "team_a": {
@@ -707,8 +707,8 @@
           "name": "ميلان",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/29/ACMilan2018_7_29_15_9.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "1",
         "match_url": "https://www.yallakora.com/serie-a/3035/match/112760/%d8%a3%d9%88%d8%af%d9%8a%d9%86%d9%8a%d8%b2%d9%8a-%d9%85%d9%8a%d9%84%d8%a7%d9%86-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a5%d9%8a%d8%b7%d8%a7%d9%84%d9%8a#MC_MatcheDetails"
       }
     ]
@@ -740,8 +740,8 @@
       {
         "match_id": "112926",
         "round": "الأسبوع السابع",
-        "status": "LIVE",
-        "status_label": "الشوط الثاني",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "19:30",
         "channel": null,
         "team_a": {
@@ -753,7 +753,7 @@
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/29/BayernMunchen2018_7_29_16_3.jpg"
         },
         "score_a": "1",
-        "score_b": "2",
+        "score_b": "3",
         "match_url": "https://www.yallakora.com/bundesliga/3036/match/112926/%d9%81%d8%b1%d8%a7%d9%8a%d8%a8%d9%88%d8%b1%d8%ac-%d8%a8%d8%a7%d9%8a%d8%b1%d9%86-%d9%85%d9%8a%d9%88%d9%86%d9%8a%d8%ae-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a3%d9%84%d9%85%d8%a7%d9%86%d9%8a#MC_MatcheDetails"
       }
     ]
@@ -785,8 +785,8 @@
       {
         "match_id": "113155",
         "round": "الأسبوع التاسع",
-        "status": "LIVE",
-        "status_label": "الشوط الأول",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "21:00",
         "channel": null,
         "team_a": {
@@ -798,14 +798,14 @@
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2020/3/16/Famalicao12020_3_16_19_44.jpg"
         },
         "score_a": "0",
-        "score_b": "0",
+        "score_b": "4",
         "match_url": "https://www.yallakora.com/primeira-liga/3038/match/113155/%d8%b1%d9%8a%d9%88-%d8%a2%d9%81%d9%8a-%d9%81%d8%a7%d9%85%d8%a7%d9%84%d9%8a%d9%83%d8%a7%d9%88-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a8%d8%b1%d8%aa%d8%ba%d8%a7%d9%84%d9%8a#MC_MatcheDetails"
       },
       {
         "match_id": "113156",
         "round": "الأسبوع التاسع",
-        "status": "LIVE",
-        "status_label": "الشوط الأول",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "21:00",
         "channel": null,
         "team_a": {
@@ -816,15 +816,15 @@
           "name": "سبورتينج براجا",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/30/SportingBraga2018_7_30_10_23.jpg"
         },
-        "score_a": "0",
+        "score_a": "1",
         "score_b": "0",
         "match_url": "https://www.yallakora.com/primeira-liga/3038/match/113156/%d9%86%d8%a7%d8%b3%d9%8a%d9%88%d9%86%d8%a7%d9%84-%d9%85%d8%a7%d8%af%d9%8a%d8%b1%d8%a7-%d8%b3%d8%a8%d9%88%d8%b1%d8%aa%d9%8a%d9%86%d8%ac-%d8%a8%d8%b1%d8%a7%d8%ac%d8%a7-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a8%d8%b1%d8%aa%d8%ba%d8%a7%d9%84%d9%8a#MC_MatcheDetails"
       },
       {
         "match_id": "113157",
         "round": "الأسبوع التاسع",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الأول",
         "time": "23:30",
         "channel": null,
         "team_a": {
@@ -835,8 +835,8 @@
           "name": "أكاديميكو فيزيو",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2026/8/2/medium_Emb_Ac_Viseu_AF_200x200_300_849bd92d0b2026_8_2_19_1.webp"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/primeira-liga/3038/match/113157/%d8%b3%d8%a8%d9%88%d8%b1%d8%aa%d9%86%d8%ac-%d9%84%d8%b4%d8%a8%d9%88%d9%86%d8%a9-%d8%a3%d9%83%d8%a7%d8%af%d9%8a%d9%85%d9%8a%d9%83%d9%88-%d9%81%d9%8a%d8%b2%d9%8a%d9%88-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a8%d8%b1%d8%aa%d8%ba%d8%a7%d9%84%d9%8a#MC_MatcheDetails"
       }
     ]
@@ -868,8 +868,8 @@
       {
         "match_id": "113926",
         "round": "الأسبوع الخامس",
-        "status": "LIVE",
-        "status_label": "الشوط الأول",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "21:00",
         "channel": null,
         "team_a": {
@@ -880,8 +880,8 @@
           "name": "الدفاع الجديدي",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/8/18/ElDifaaElJadidi2018_8_18_23_13.jpg"
         },
-        "score_a": "0",
-        "score_b": "0",
+        "score_a": "1",
+        "score_b": "1",
         "match_url": "https://www.yallakora.com/morrocan-league/3043/match/113926/%d8%a7%d9%84%d9%83%d9%88%d9%83%d8%a8-%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%83%d8%b4%d9%8a-%d8%a7%d9%84%d8%af%d9%81%d8%a7%d8%b9-%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af%d9%8a-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8%d9%8a#MC_MatcheDetails"
       }
     ]
