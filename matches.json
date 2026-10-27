@@ -71,8 +71,8 @@
       {
         "match_id": "113608",
         "round": "الجولة الثالثة",
-        "status": "LIVE",
-        "status_label": "الشوط الأول",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "13:00",
         "channel": "بى ان سبورت 3 HD",
         "team_a": {
@@ -84,14 +84,14 @@
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2019/7/26/Vissel12019_7_26_23_22.jpg"
         },
         "score_a": "0",
-        "score_b": "0",
+        "score_b": "1",
         "match_url": "https://www.yallakora.com/asian-champions-league/3054/match/113608/%d8%af%d8%a7%d9%8a%d8%ac%d9%80%d9%88-%d9%81%d9%8a%d8%b3%d9%8a%d9%84-%d9%83%d9%88%d8%a8%d9%87-%d8%af%d9%88%d8%b1%d9%8a-%d8%a3%d8%a8%d8%b7%d8%a7%d9%84-%d8%a2%d8%b3%d9%8a%d8%a7-%d9%84%d9%84%d9%86%d8%ae%d8%a8%d8%a9#MC_MatcheDetails"
       },
       {
         "match_id": "113609",
         "round": "الجولة الثالثة",
-        "status": "LIVE",
-        "status_label": "استراحة",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "13:00",
         "channel": "بى ان سبورت 2 HD",
         "team_a": {
@@ -102,15 +102,15 @@
           "name": "تاي بورت",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2021/7/15/ThaiPort2021_7_15_13_2.jpg"
         },
-        "score_a": "1",
-        "score_b": "1",
+        "score_a": "3",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/asian-champions-league/3054/match/113609/%d8%ac%d9%88%d9%87%d9%88%d8%b1-%d8%af%d8%a7%d8%b1%d9%88%d9%84-%d8%aa%d8%a7%d9%83%d8%b2%d9%8a%d9%85-%d8%aa%d8%a7%d9%8a-%d8%a8%d9%88%d8%b1%d8%aa-%d8%af%d9%88%d8%b1%d9%8a-%d8%a3%d8%a8%d8%b7%d8%a7%d9%84-%d8%a2%d8%b3%d9%8a%d8%a7-%d9%84%d9%84%d9%86%d8%ae%d8%a8%d8%a9#MC_MatcheDetails"
       },
       {
         "match_id": "113610",
         "round": "الجولة الثالثة",
-        "status": "LIVE",
-        "status_label": "الشوط الأول",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "13:00",
         "channel": "بى ان سبورت 4 HD",
         "team_a": {
@@ -121,15 +121,15 @@
           "name": "نيوكاسل جيتس",
           "logo": "https://mediayk.gemini.media/img/yallakora/teamlogo/1425-3-2009-18-54-51.png"
         },
-        "score_a": "1",
+        "score_a": "5",
         "score_b": "2",
         "match_url": "https://www.yallakora.com/asian-champions-league/3054/match/113610/%d9%83%d9%8a%d9%88%d8%aa%d9%88-%d8%b3%d8%a7%d9%86%d8%ac%d8%a7-%d9%86%d9%8a%d9%88%d9%83%d8%a7%d8%b3%d9%84-%d8%ac%d9%8a%d8%aa%d8%b3-%d8%af%d9%88%d8%b1%d9%8a-%d8%a3%d8%a8%d8%b7%d8%a7%d9%84-%d8%a2%d8%b3%d9%8a%d8%a7-%d9%84%d9%84%d9%86%d8%ae%d8%a8%d8%a9#MC_MatcheDetails"
       },
       {
         "match_id": "113611",
         "round": "الجولة الثالثة",
-        "status": "LIVE",
-        "status_label": "الشوط الأول",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "13:00",
         "channel": "بى ان سبورت 1HD",
         "team_a": {
@@ -140,15 +140,15 @@
           "name": "كونغ آن هانوي",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2026/8/10/Cong An Hanoi FC2026_8_10_3_57.webp"
         },
-        "score_a": "0",
-        "score_b": "0",
+        "score_a": "2",
+        "score_b": "3",
         "match_url": "https://www.yallakora.com/asian-champions-league/3054/match/113611/%d8%b4%d9%86%d8%ba%d9%87%d8%a7%d9%8a-%d8%a8%d9%88%d8%b1%d8%aa-%d9%83%d9%88%d9%86%d8%ba-%d8%a2%d9%86-%d9%87%d8%a7%d9%86%d9%88%d9%8a-%d8%af%d9%88%d8%b1%d9%8a-%d8%a3%d8%a8%d8%b7%d8%a7%d9%84-%d8%a2%d8%b3%d9%8a%d8%a7-%d9%84%d9%84%d9%86%d8%ae%d8%a8%d8%a9#MC_MatcheDetails"
       },
       {
         "match_id": "113612",
         "round": "الجولة الثالثة",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "15:15",
         "channel": "بى ان سبورت 1HD",
         "team_a": {
@@ -159,15 +159,15 @@
           "name": "تشونبك هيونداي",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/26/JeonbukHyundai2018_7_26_13_58.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "2",
+        "score_b": "2",
         "match_url": "https://www.yallakora.com/asian-champions-league/3054/match/113612/%d8%ac%d9%88%d8%a7%d9%86-%d8%a8%d9%83%d9%8a%d9%86-%d8%aa%d8%b4%d9%88%d9%86%d8%a8%d9%83-%d9%87%d9%8a%d9%88%d9%86%d8%af%d8%a7%d9%8a-%d8%af%d9%88%d8%b1%d9%8a-%d8%a3%d8%a8%d8%b7%d8%a7%d9%84-%d8%a2%d8%b3%d9%8a%d8%a7-%d9%84%d9%84%d9%86%d8%ae%d8%a8%d8%a9#MC_MatcheDetails"
       },
       {
         "match_id": "113921",
         "round": "الجولة الثالثة",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "15:15",
         "channel": "بى ان سبورت 2 HD",
         "team_a": {
@@ -178,15 +178,15 @@
           "name": "كاشيوا ريسول",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/26/KashiwaReysol2018_7_26_14_1.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/asian-champions-league/3054/match/113921/%d8%b1%d8%a7%d8%aa%d8%b4%d8%a7%d8%a8%d9%88%d8%b1%d9%8a-%d9%83%d8%a7%d8%b4%d9%8a%d9%88%d8%a7-%d8%b1%d9%8a%d8%b3%d9%88%d9%84-%d8%af%d9%88%d8%b1%d9%8a-%d8%a3%d8%a8%d8%b7%d8%a7%d9%84-%d8%a2%d8%b3%d9%8a%d8%a7-%d9%84%d9%84%d9%86%d8%ae%d8%a8%d8%a9#MC_MatcheDetails"
       },
       {
         "match_id": "113614",
         "round": "الجولة الثالثة",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الأول",
         "time": "19:00",
         "channel": "بى ان سبورت 3 HD",
         "team_a": {
@@ -197,8 +197,8 @@
           "name": "الإستقلال",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/26/Esteghlal2018_7_26_13_56.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/asian-champions-league/3054/match/113614/%d8%b4%d8%a8%d8%a7%d8%a8-%d8%a7%d9%84%d8%a3%d9%87%d9%84%d9%8a-%d8%a7%d9%84%d8%a5%d8%b3%d8%aa%d9%82%d9%84%d8%a7%d9%84-%d8%af%d9%88%d8%b1%d9%8a-%d8%a3%d8%a8%d8%b7%d8%a7%d9%84-%d8%a2%d8%b3%d9%8a%d8%a7-%d9%84%d9%84%d9%86%d8%ae%d8%a8%d8%a9#MC_MatcheDetails"
       },
       {
@@ -434,8 +434,8 @@
       {
         "match_id": "112405",
         "round": "الأسبوع الثامن",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "15:40",
         "channel": "ثمانية 1",
         "team_a": {
@@ -446,8 +446,8 @@
           "name": "الفيصلي",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2022/4/14/AL-FAISALY-FC12022_4_14_11_16.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "1",
         "match_url": "https://www.yallakora.com/ksa-league/3040/match/112405/%d8%a3%d8%a8%d9%87%d8%a7-%d8%a7%d9%84%d9%81%d9%8a%d8%b5%d9%84%d9%8a-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a#MC_MatcheDetails"
       }
     ]
