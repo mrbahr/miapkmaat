@@ -154,8 +154,8 @@
       {
         "match_id": "113616",
         "round": "الجولة الثالثة",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الأول",
         "time": "13:00",
         "channel": "بى ان سبورت 2 HD",
         "team_a": {
@@ -166,15 +166,15 @@
           "name": "بوريرام",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/26/Buriram2018_7_26_14_2.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/asian-champions-league/3054/match/113616/%d8%ac%d8%a7%d9%85%d8%a8%d8%a7-%d8%a3%d9%88%d8%b3%d8%a7%d9%83%d8%a7-%d8%a8%d9%88%d8%b1%d9%8a%d8%b1%d8%a7%d9%85-%d8%af%d9%88%d8%b1%d9%8a-%d8%a3%d8%a8%d8%b7%d8%a7%d9%84-%d8%a2%d8%b3%d9%8a%d8%a7-%d9%84%d9%84%d9%86%d8%ae%d8%a8%d8%a9#MC_MatcheDetails"
       },
       {
         "match_id": "113617",
         "round": "الجولة الثالثة",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الأول",
         "time": "13:00",
         "channel": "بى ان سبورت 3 HD",
         "team_a": {
@@ -185,8 +185,8 @@
           "name": "بوهانغ ستيلرز",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2026/10/9/pohang-steelers12026_10_9_18_27.webp"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/asian-champions-league/3054/match/113617/%d9%83%d8%a7%d8%b4%d9%8a%d9%85%d8%a7-%d8%a7%d9%86%d8%aa%d9%84%d8%b1%d8%b2-%d8%a8%d9%88%d9%87%d8%a7%d9%86%d8%ba-%d8%b3%d8%aa%d9%8a%d9%84%d8%b1%d8%b2-%d8%af%d9%88%d8%b1%d9%8a-%d8%a3%d8%a8%d8%b7%d8%a7%d9%84-%d8%a2%d8%b3%d9%8a%d8%a7-%d9%84%d9%84%d9%86%d8%ae%d8%a8%d8%a9#MC_MatcheDetails"
       }
     ]
