@@ -119,7 +119,7 @@
         "status": "SCHEDULED",
         "status_label": "لم تبدأ",
         "time": "15:30",
-        "channel": null,
+        "channel": "ON Sport MAX HD",
         "team_a": {
           "name": "المنصورة",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/10/9/Mansoura2018_10_9_12_45.jpg"
@@ -240,32 +240,6 @@
         "score_a": null,
         "score_b": null,
         "match_url": "https://www.yallakora.com/ksa-league/3040/match/112810/%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6-%d8%a7%d9%84%d9%82%d8%a7%d8%af%d8%b3%d9%8a%d8%a9-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a#MC_MatcheDetails"
-      }
-    ]
-  },
-  {
-    "name": "الدوري الإماراتي",
-    "url": "/tour/104/%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a5%d9%85%d8%a7%d8%b1%d8%a7%d8%aa%d9%8a#MC_MatcheDetails",
-    "logo": "https://mediayk.gemini.media/img/yallakora/tourlogo/EUA17-6-2025-11-1-40.webp",
-    "matches": [
-      {
-        "match_id": "113754",
-        "round": "الأسبوع السابع",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
-        "time": "17:10",
-        "channel": "أبوظبي الرياضية - HD1",
-        "team_a": {
-          "name": "العين",
-          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2024/10/29/21502024_10_29_19_14.jpg"
-        },
-        "team_b": {
-          "name": "عجمان",
-          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2021/9/8/AjmanClub2021_9_8_10_19.jpg"
-        },
-        "score_a": null,
-        "score_b": null,
-        "match_url": "https://www.yallakora.com/uael-league/3042/match/113754/%d8%a7%d9%84%d8%b9%d9%8a%d9%86-%d8%b9%d8%ac%d9%85%d8%a7%d9%86-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a5%d9%85%d8%a7%d8%b1%d8%a7%d8%aa%d9%8a#MC_MatcheDetails"
       }
     ]
   },
