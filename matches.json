@@ -7,8 +7,8 @@
       {
         "match_id": "112049",
         "round": "الأسبوع الثامن",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الأول",
         "time": "17:00",
         "channel": "ON Sport MAX HD",
         "team_a": {
@@ -19,8 +19,8 @@
           "name": "الجونة",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/24/Elgouna2018_7_24_13_34.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/egyptian-league/3031/match/112049/%d8%a8%d8%aa%d8%b1%d9%88%d9%84-%d8%a3%d8%b3%d9%8a%d9%88%d8%b7-%d8%a7%d9%84%d8%ac%d9%88%d9%86%d8%a9-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a#MC_MatcheDetails"
       },
       {
@@ -213,8 +213,8 @@
       {
         "match_id": "113325",
         "round": "الأسبوع الحادي عشر",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "14:30",
         "channel": null,
         "team_a": {
@@ -225,15 +225,15 @@
           "name": "طنطا‏",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/31/Tanta2018_7_31_16_51.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "2",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/egyptian-second-division/3056/match/113325/%d8%a7%d9%84%d8%b3%d9%83%d8%a9-%d8%a7%d9%84%d8%ad%d8%af%d9%8a%d8%af-%d8%b7%d9%86%d8%b7%d8%a7--%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d9%82%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a3#MC_MatcheDetails"
       },
       {
         "match_id": "113327",
         "round": "الأسبوع الحادي عشر",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "14:30",
         "channel": null,
         "team_a": {
@@ -244,15 +244,15 @@
           "name": "الإسماعيلي",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/24/Ismaily2018_7_24_13_30.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "2",
         "match_url": "https://www.yallakora.com/egyptian-second-division/3056/match/113327/%d8%a8%d8%b1%d9%88%d9%83%d8%b3%d9%8a-%d8%a7%d9%84%d8%a5%d8%b3%d9%85%d8%a7%d8%b9%d9%8a%d9%84%d9%8a-%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d9%82%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a3#MC_MatcheDetails"
       },
       {
         "match_id": "113329",
         "round": "الأسبوع الحادي عشر",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "14:30",
         "channel": null,
         "team_a": {
@@ -263,15 +263,15 @@
           "name": "الانتاج الحربي",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/24/AlentagAlharby2018_7_24_13_33.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/egyptian-second-division/3056/match/113329/%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%a7%d8%ac-%d8%a7%d9%84%d8%ad%d8%b1%d8%a8%d9%8a-%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d9%82%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a3#MC_MatcheDetails"
       },
       {
         "match_id": "113330",
         "round": "الأسبوع الحادي عشر",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "14:30",
         "channel": null,
         "team_a": {
@@ -282,15 +282,15 @@
           "name": "النصر",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/8/1/Elnasr2018_8_1_16_20.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "1",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/egyptian-second-division/3056/match/113330/%d8%a8%d9%84%d8%af%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d8%ad%d9%84%d8%a9-%d8%a7%d9%84%d9%86%d8%b5%d8%b1--%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d9%82%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a3#MC_MatcheDetails"
       },
       {
         "match_id": "113331",
         "round": "الأسبوع الحادي عشر",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "14:30",
         "channel": null,
         "team_a": {
@@ -301,15 +301,15 @@
           "name": "المصرية للاتصالات",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2025/12/5/telecom-egypt club-logo12025_12_5_6_7.webp"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "4",
+        "score_b": "1",
         "match_url": "https://www.yallakora.com/egyptian-second-division/3056/match/113331/%d9%81%d8%a7%d8%b1%d9%83%d9%88-%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a%d8%a9-%d9%84%d9%84%d8%a7%d8%aa%d8%b5%d8%a7%d9%84%d8%a7%d8%aa-%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d9%82%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a3#MC_MatcheDetails"
       },
       {
         "match_id": "113332",
         "round": "الأسبوع الحادي عشر",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "14:30",
         "channel": null,
         "team_a": {
@@ -320,15 +320,15 @@
           "name": "مسار",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2025/8/6/Screenshot 2025-08-06 172011_Easy-Resize.com2025_8_6_17_21.webp"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "2",
+        "score_b": "1",
         "match_url": "https://www.yallakora.com/egyptian-second-division/3056/match/113332/%d9%83%d9%87%d8%b1%d8%a8%d8%a7%d8%a1-%d8%a7%d9%84%d8%a5%d8%b3%d9%85%d8%a7%d8%b9%d9%8a%d9%84%d9%8a%d8%a9-%d9%85%d8%b3%d8%a7%d8%b1-%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d9%82%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a3#MC_MatcheDetails"
       },
       {
         "match_id": "113333",
         "round": "الأسبوع الحادي عشر",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "14:30",
         "channel": null,
         "team_a": {
@@ -339,8 +339,8 @@
           "name": "مالية كفر الزيات",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2025/8/6/Screenshot 2025-08-06 171737_Easy-Resize.com2025_8_6_17_19.webp"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "1",
+        "score_b": "2",
         "match_url": "https://www.yallakora.com/egyptian-second-division/3056/match/113333/%d8%a7%d9%84%d8%aa%d8%b1%d8%b3%d8%a7%d9%86%d8%a9-%d9%85%d8%a7%d9%84%d9%8a%d8%a9-%d9%83%d9%81%d8%b1-%d8%a7%d9%84%d8%b2%d9%8a%d8%a7%d8%aa-%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d9%82%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a3#MC_MatcheDetails"
       }
     ]
@@ -379,10 +379,10 @@
       {
         "match_id": "112811",
         "round": "الأسبوع الثاني عشر",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "14:30",
-        "channel": null,
+        "channel": "ثمانية 2",
         "team_a": {
           "name": "أبها",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2026/8/2/429662615_419286860612195_8035419170743120015_n2026_8_2_18_22.webp"
@@ -391,17 +391,17 @@
           "name": "الاتحاد",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2021/9/7/Ittihad2021_9_7_16_53.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "1",
+        "score_b": "1",
         "match_url": "https://www.yallakora.com/ksa-league/3040/match/112811/%d8%a3%d8%a8%d9%87%d8%a7-%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a#MC_MatcheDetails"
       },
       {
         "match_id": "112812",
         "round": "الأسبوع الثاني عشر",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الأول",
         "time": "16:50",
-        "channel": null,
+        "channel": "ثمانية 3",
         "team_a": {
           "name": "الدرعية",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2026/8/2/ak6LtnRz_400x4002026_8_2_18_32.webp"
@@ -410,8 +410,8 @@
           "name": "نادي نيوم",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2024/7/21/neom2024_7_21_16_52.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "1",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/ksa-league/3040/match/112812/%d8%a7%d9%84%d8%af%d8%b1%d8%b9%d9%8a%d8%a9-%d9%86%d8%a7%d8%af%d9%8a-%d9%86%d9%8a%d9%88%d9%85-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a#MC_MatcheDetails"
       },
       {
@@ -420,7 +420,7 @@
         "status": "SCHEDULED",
         "status_label": "لم تبدأ",
         "time": "20:00",
-        "channel": null,
+        "channel": "ثمانية 1",
         "team_a": {
           "name": "الشباب",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2023/7/29/331774651_1362804437889036_4103221782658863338_n2023_7_29_22_41.jpg"
@@ -443,10 +443,10 @@
       {
         "match_id": "114065",
         "round": "الأسبوع الثامن",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الأول",
         "time": "16:15",
-        "channel": null,
+        "channel": "الكأس 5",
         "team_a": {
           "name": "الشحانية",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/26/Shahaniya2018_7_26_12_15.jpg"
@@ -455,8 +455,8 @@
           "name": "الأهلي القطري",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/26/AlAhli2018_7_26_12_14.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/qatar-league/3041/match/114065/%d8%a7%d9%84%d8%b4%d8%ad%d8%a7%d9%86%d9%8a%d8%a9-%d8%a7%d9%84%d8%a3%d9%87%d9%84%d9%8a-%d8%a7%d9%84%d9%82%d8%b7%d8%b1%d9%8a-%d8%af%d9%88%d8%b1%d9%8a-%d9%86%d8%ac%d9%88%d9%85-%d9%82%d8%b7%d8%b1#MC_MatcheDetails"
       },
       {
@@ -465,7 +465,7 @@
         "status": "SCHEDULED",
         "status_label": "لم تبدأ",
         "time": "18:30",
-        "channel": null,
+        "channel": "الكأس 7",
         "team_a": {
           "name": "الغرافة",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/25/Gharrafa2018_7_25_16_2.jpg"
@@ -484,7 +484,7 @@
         "status": "SCHEDULED",
         "status_label": "لم تبدأ",
         "time": "18:30",
-        "channel": null,
+        "channel": "الكأس 6",
         "team_a": {
           "name": "السد القطري",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2021/9/7/AlSadd2021_9_7_11_27.jpg"
