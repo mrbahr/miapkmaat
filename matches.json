@@ -33,8 +33,8 @@
       {
         "match_id": "112678",
         "round": "الأسبوع الحادي عشر",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الأول",
         "time": "15:00",
         "channel": "بى ان سبورت 3 HD",
         "team_a": {
@@ -45,8 +45,8 @@
           "name": "اشبيلية",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/29/Sevilla2018_7_29_14_45.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "1",
         "match_url": "https://www.yallakora.com/la-liga/3034/match/112678/%d8%ae%d9%8a%d8%aa%d8%a7%d9%81%d9%8a-%d8%a7%d8%b4%d8%a8%d9%8a%d9%84%d9%8a%d8%a9--%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a5%d8%b3%d8%a8%d8%a7%d9%86%d9%8a#MC_MatcheDetails"
       },
       {
@@ -116,8 +116,8 @@
       {
         "match_id": "112874",
         "round": "الأسبوع العاشر",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "12:30",
         "channel": null,
         "team_a": {
@@ -128,15 +128,15 @@
           "name": "ايوبسبور",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2024/8/15/nZORQJAr-tnyYwm3e2024_8_15_22_57.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "5",
+        "score_b": "1",
         "match_url": "https://www.yallakora.com/turkish-super-lig/3039/match/112874/%d8%a2%d9%85%d9%8a%d8%af-%d8%b3%d8%a8%d9%88%d8%b1%d8%aa%d9%8a%d9%81-%d8%a7%d9%8a%d9%88%d8%a8%d8%b3%d8%a8%d9%88%d8%b1-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%aa%d8%b1%d9%83%d9%8a#MC_MatcheDetails"
       },
       {
         "match_id": "112877",
         "round": "الأسبوع العاشر",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الأول",
         "time": "15:00",
         "channel": "بى ان سبورت 1HD",
         "team_a": {
@@ -147,15 +147,15 @@
           "name": "غازي عنتاب بي.بي.كي",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2021/7/15/Gaziantep2021_7_15_15_45.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/turkish-super-lig/3039/match/112877/%d8%b7%d8%b1%d8%a7%d8%a8%d8%b2%d9%88%d9%86-%d8%b3%d8%a8%d9%88%d8%b1-%d8%ba%d8%a7%d8%b2%d9%8a-%d8%b9%d9%86%d8%aa%d8%a7%d8%a8-%d8%a8%d9%8a-%d8%a8%d9%8a-%d9%83%d9%8a-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%aa%d8%b1%d9%83%d9%8a#MC_MatcheDetails"
       },
       {
         "match_id": "112878",
         "round": "الأسبوع العاشر",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "استراحة",
         "time": "15:00",
         "channel": null,
         "team_a": {
@@ -166,8 +166,8 @@
           "name": "سامسون سبور",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2023/8/4/Samsunspor12023_8_4_21_39.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "3",
+        "score_b": "1",
         "match_url": "https://www.yallakora.com/turkish-super-lig/3039/match/112878/%d8%a5%d8%b3%d8%b7%d9%86%d8%a8%d9%88%d9%84-%d8%a8%d8%a7%d8%b4%d8%a7%d9%83%d8%b4%d9%87%d9%8a%d8%b1-%d8%b3%d8%a7%d9%85%d8%b3%d9%88%d9%86-%d8%b3%d8%a8%d9%88%d8%b1-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%aa%d8%b1%d9%83%d9%8a#MC_MatcheDetails"
       },
       {
@@ -282,8 +282,8 @@
       {
         "match_id": "112774",
         "round": "الأسبوع العاشر",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "13:30",
         "channel": "Starz Play App",
         "team_a": {
@@ -294,8 +294,8 @@
           "name": "فينيزيا",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2026/8/5/Screenshot 2026-08-05 1753182026_8_5_17_52.webp"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "1",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/serie-a/3035/match/112774/%d9%83%d9%88%d9%85%d9%88-%d9%81%d9%8a%d9%86%d9%8a%d8%b2%d9%8a%d8%a7-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a5%d9%8a%d8%b7%d8%a7%d9%84%d9%8a#MC_MatcheDetails"
       },
       {
@@ -515,7 +515,7 @@
         "status": "SCHEDULED",
         "status_label": "لم تبدأ",
         "time": "18:00",
-        "channel": null,
+        "channel": "الرياضية المغربية 3",
         "team_a": {
           "name": "وداد تمارة",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2026/10/31/WST tamara12026_10_31_18_23.webp"
@@ -534,7 +534,7 @@
         "status": "SCHEDULED",
         "status_label": "لم تبدأ",
         "time": "20:00",
-        "channel": null,
+        "channel": "الرياضية المغربية 3",
         "team_a": {
           "name": "النادي المكناسي",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2026/10/31/codm12026_10_31_18_16.webp"
@@ -572,7 +572,7 @@
         "status": "SCHEDULED",
         "status_label": "لم تبدأ",
         "time": "22:00",
-        "channel": null,
+        "channel": "الرياضية المغربية 3",
         "team_a": {
           "name": "نهضة بركان",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2021/9/23/NahdetBourkan2021_9_23_16_20.jpg"
