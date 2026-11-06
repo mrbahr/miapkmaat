@@ -7,8 +7,8 @@
       {
         "match_id": "114022",
         "round": "دور الـ 32",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "14:30",
         "channel": "ON Sport",
         "team_a": {
@@ -17,17 +17,17 @@
         },
         "team_b": {
           "name": "المنيا",
-          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/31/Elmenia2018_7_31_16_52.jpg"
+          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2026/11/6/minya12026_11_6_15_38.webp"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "2",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/egypt-cup/3066/match/114022/%d8%b3%d9%85%d9%88%d8%ad%d8%a9-%d8%a7%d9%84%d9%85%d9%86%d9%8a%d8%a7-%d9%83%d8%a3%d8%b3-%d9%85%d8%b5%d8%b1#MC_MatcheDetails"
       },
       {
         "match_id": "114033",
         "round": "دور الـ 32",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الثاني",
         "time": "17:00",
         "channel": "ON Sport MAX",
         "team_a": {
@@ -38,8 +38,8 @@
           "name": "بروكسي",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2023/5/4/42023_5_4_17_47.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "3",
+        "score_b": "2",
         "match_url": "https://www.yallakora.com/egypt-cup/3066/match/114033/%d9%86%d8%a7%d8%af%d9%8a-%d8%a7%d9%84%d8%b4%d8%b1%d9%82%d9%8a%d8%a9-%d8%a5%d9%86%d8%a8%d9%8a-%d8%a8%d8%b1%d9%88%d9%83%d8%b3%d9%8a-%d9%83%d8%a3%d8%b3-%d9%85%d8%b5%d8%b1#MC_MatcheDetails"
       },
       {
@@ -253,8 +253,8 @@
       {
         "match_id": "114071",
         "round": "الأسبوع التاسع",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الثاني",
         "time": "16:15",
         "channel": "الكأس 5",
         "team_a": {
@@ -265,15 +265,15 @@
           "name": "الأهلي القطري",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/26/AlAhli2018_7_26_12_14.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "2",
+        "score_b": "2",
         "match_url": "https://www.yallakora.com/qatar-league/3041/match/114071/%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a-%d8%a7%d9%84%d8%a3%d9%87%d9%84%d9%8a-%d8%a7%d9%84%d9%82%d8%b7%d8%b1%d9%8a-%d8%af%d9%88%d8%b1%d9%8a-%d9%86%d8%ac%d9%88%d9%85-%d9%82%d8%b7%d8%b1#MC_MatcheDetails"
       },
       {
         "match_id": "114072",
         "round": "الأسبوع التاسع",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الأول",
         "time": "18:30",
         "channel": "الكأس 6",
         "team_a": {
@@ -284,8 +284,8 @@
           "name": "الشحانية",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/26/Shahaniya2018_7_26_12_15.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/qatar-league/3041/match/114072/%d8%a7%d9%84%d9%88%d9%83%d8%b1%d8%a9-%d8%a7%d9%84%d8%b4%d8%ad%d8%a7%d9%86%d9%8a%d8%a9-%d8%af%d9%88%d8%b1%d9%8a-%d9%86%d8%ac%d9%88%d9%85-%d9%82%d8%b7%d8%b1#MC_MatcheDetails"
       }
     ]
@@ -300,7 +300,7 @@
         "round": "الأسبوع السابع",
         "status": "SCHEDULED",
         "status_label": "لم تبدأ",
-        "time": "20:00",
+        "time": "19:00",
         "channel": "الرياضية المغربية 3",
         "team_a": {
           "name": "حسنية أكادير",
@@ -343,21 +343,21 @@
       {
         "match_id": "114345",
         "round": "ربع النهائي - جولة رابعة",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "مباشر",
         "time": "18:00",
         "channel": "ON Sport PLUS",
         "team_a": {
-          "name": "الأهلي",
-          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2024/6/7/ahly19072024_6_7_1_12.jpg"
-        },
-        "team_b": {
           "name": "الزمالك",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2023/10/14/zamalek-basket2023_10_14_15_45.jpg"
         },
-        "score_a": null,
-        "score_b": null,
-        "match_url": "https://www.yallakora.com/basketball/2825/match/114345/%d8%a7%d9%84%d8%a3%d9%87%d9%84%d9%8a-%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%84%d9%83-%d9%83%d8%b1%d8%a9-%d8%a7%d9%84%d8%b3%d9%84%d8%a9#MC_MatcheDetails"
+        "team_b": {
+          "name": "الأهلي",
+          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2024/6/7/ahly19072024_6_7_1_12.jpg"
+        },
+        "score_a": "7",
+        "score_b": "15",
+        "match_url": "https://www.yallakora.com/basketball/2825/match/114345/%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%84%d9%83-%d8%a7%d9%84%d8%a3%d9%87%d9%84%d9%8a-%d9%83%d8%b1%d8%a9-%d8%a7%d9%84%d8%b3%d9%84%d8%a9#MC_MatcheDetails"
       }
     ]
   }
