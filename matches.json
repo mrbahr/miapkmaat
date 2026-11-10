@@ -5,42 +5,23 @@
     "logo": "https://mediayk.gemini.media/img/yallakora/tourlogo/Egypt30-7-2018-15-5-16.png",
     "matches": [
       {
-        "match_id": "114034",
+        "match_id": "114032",
         "round": "دور الـ 32",
-        "status": "FINISHED",
-        "status_label": "انتهت",
-        "time": "14:30",
+        "status": "SCHEDULED",
+        "status_label": "لم تبدأ",
+        "time": "17:00",
         "channel": "ON Sport",
         "team_a": {
-          "name": "وادي دجلة",
-          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2019/2/18/WadiDegla2019_2_18_10_17.jpg"
+          "name": "المقاولون العرب",
+          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/24/Almokawloon2018_7_24_13_31.jpg"
         },
         "team_b": {
-          "name": "كهرباء الإسماعيلية",
-          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2025/8/10/kahraba2025_8_10_16_41.webp"
+          "name": "المصرية للاتصالات",
+          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2025/12/5/telecom-egypt club-logo12025_12_5_6_7.webp"
         },
-        "score_a": "0",
-        "score_b": "0",
-        "match_url": "https://www.yallakora.com/egypt-cup/3066/match/114034/%d9%88%d8%a7%d8%af%d9%8a-%d8%af%d8%ac%d9%84%d8%a9-%d9%83%d9%87%d8%b1%d8%a8%d8%a7%d8%a1-%d8%a7%d9%84%d8%a5%d8%b3%d9%85%d8%a7%d8%b9%d9%8a%d9%84%d9%8a%d8%a9-%d9%83%d8%a3%d8%b3-%d9%85%d8%b5%d8%b1#MC_MatcheDetails"
-      },
-      {
-        "match_id": "114031",
-        "round": "دور الـ 32",
-        "status": "FINISHED",
-        "status_label": "انتهت",
-        "time": "17:00",
-        "channel": "ON Sport MAX",
-        "team_a": {
-          "name": "زد",
-          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2024/8/27/470102024_8_27_17_31.jpg"
-        },
-        "team_b": {
-          "name": "سمنود الرياضي",
-          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2026/10/25/samnoud2026_10_25_18_45.webp"
-        },
-        "score_a": "5",
-        "score_b": "1",
-        "match_url": "https://www.yallakora.com/egypt-cup/3066/match/114031/%d8%b2%d8%af-%d8%b3%d9%85%d9%86%d9%88%d8%af-%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a-%d9%83%d8%a3%d8%b3-%d9%85%d8%b5%d8%b1#MC_MatcheDetails"
+        "score_a": null,
+        "score_b": null,
+        "match_url": "https://www.yallakora.com/egypt-cup/3066/match/114032/%d8%a7%d9%84%d9%85%d9%82%d8%a7%d9%88%d9%84%d9%88%d9%86-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8-%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a%d8%a9-%d9%84%d9%84%d8%a7%d8%aa%d8%b5%d8%a7%d9%84%d8%a7%d8%aa-%d9%83%d8%a3%d8%b3-%d9%85%d8%b5%d8%b1#MC_MatcheDetails"
       }
     ]
   }
