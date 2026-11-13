@@ -7,8 +7,8 @@
       {
         "match_id": "113813",
         "round": "الجولة الثالثة",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الثاني",
         "time": "15:00",
         "channel": "beIN SPORTS 2",
         "team_a": {
@@ -19,15 +19,15 @@
           "name": "بوروندي",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/26/Burundi2018_7_26_19_27.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "1",
+        "score_b": "1",
         "match_url": "https://www.yallakora.com/can-qualifiers/3028/match/113813/%d8%b2%d8%a7%d9%85%d8%a8%d9%8a%d8%a7-%d8%a8%d9%88%d8%b1%d9%88%d9%86%d8%af%d9%8a-%d8%aa%d8%b5%d9%81%d9%8a%d8%a7%d8%aa-%d8%a3%d9%85%d9%85-%d8%a3%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7#MC_MatcheDetails"
       },
       {
         "match_id": "113814",
         "round": "الجولة الثالثة",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الثاني",
         "time": "15:00",
         "channel": "beIN SPORTS 1",
         "team_a": {
@@ -38,15 +38,15 @@
           "name": "إثيوبيا",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/26/Ethiopia2018_7_26_19_32.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "1",
         "match_url": "https://www.yallakora.com/can-qualifiers/3028/match/113814/%d9%85%d9%88%d8%b2%d9%85%d8%a8%d9%8a%d9%82-%d8%a5%d8%ab%d9%8a%d9%88%d8%a8%d9%8a%d8%a7-%d8%aa%d8%b5%d9%81%d9%8a%d8%a7%d8%aa-%d8%a3%d9%85%d9%85-%d8%a3%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7#MC_MatcheDetails"
       },
       {
         "match_id": "113815",
         "round": "الجولة الثالثة",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الثاني",
         "time": "15:00",
         "channel": "beIN SPORTS 3",
         "team_a": {
@@ -57,8 +57,8 @@
           "name": "الكونغو برازافيل",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/26/Congo2018_7_26_19_21.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/can-qualifiers/3028/match/113815/%d8%ac%d8%b2%d8%b1-%d8%a7%d9%84%d9%82%d9%85%d8%b1-%d8%a7%d9%84%d9%83%d9%88%d9%86%d8%ba%d9%88-%d8%a8%d8%b1%d8%a7%d8%b2%d8%a7%d9%81%d9%8a%d9%84-%d8%aa%d8%b5%d9%81%d9%8a%d8%a7%d8%aa-%d8%a3%d9%85%d9%85-%d8%a3%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7#MC_MatcheDetails"
       },
       {
@@ -439,8 +439,8 @@
       {
         "match_id": "113340",
         "round": "الأسبوع الثاني عشر",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "UNKNOWN",
+        "status_label": "مؤجل",
         "time": "14:30",
         "channel": null,
         "team_a": {
@@ -458,10 +458,10 @@
       {
         "match_id": "113341",
         "round": "الأسبوع الثاني عشر",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "14:30",
-        "channel": null,
+        "channel": "ON Sport MAX",
         "team_a": {
           "name": "طنطا‏",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/31/Tanta2018_7_31_16_51.jpg"
@@ -470,17 +470,17 @@
           "name": "لافيينا أف سي",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2021/9/7/LaVienaFC2021_9_7_13_43.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "2",
+        "score_b": "1",
         "match_url": "https://www.yallakora.com/egyptian-second-division/3056/match/113341/%d8%b7%d9%86%d8%b7%d8%a7--%d9%84%d8%a7%d9%81%d9%8a%d9%8a%d9%86%d8%a7-%d8%a3%d9%81-%d8%b3%d9%8a-%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d9%82%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a3#MC_MatcheDetails"
       },
       {
         "match_id": "113342",
         "round": "الأسبوع الثاني عشر",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "14:30",
-        "channel": null,
+        "channel": "ON Sport PLUS",
         "team_a": {
           "name": "حرس الحدود",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2022/11/5/harras-el-hodoud12022_11_5_0_8.jpg"
@@ -489,15 +489,15 @@
           "name": "الداخلية",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/24/Eldakhleya2018_7_24_13_32.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "1",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/egyptian-second-division/3056/match/113342/%d8%ad%d8%b1%d8%b3-%d8%a7%d9%84%d8%ad%d8%af%d9%88%d8%af-%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d8%a9-%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d9%82%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a3#MC_MatcheDetails"
       },
       {
         "match_id": "113343",
         "round": "الأسبوع الثاني عشر",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "14:30",
         "channel": null,
         "team_a": {
@@ -508,28 +508,9 @@
           "name": "تيم اف سي",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2024/12/28/team-fc2024_12_28_15_23.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "1",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/egyptian-second-division/3056/match/113343/%d9%85%d8%a7%d9%84%d9%8a%d8%a9-%d9%83%d9%81%d8%b1-%d8%a7%d9%84%d8%b2%d9%8a%d8%a7%d8%aa-%d8%aa%d9%8a%d9%85-%d8%a7%d9%81-%d8%b3%d9%8a-%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d9%82%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a3#MC_MatcheDetails"
-      },
-      {
-        "match_id": "113344",
-        "round": "الأسبوع الثاني عشر",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
-        "time": "14:30",
-        "channel": null,
-        "team_a": {
-          "name": "المصرية للاتصالات",
-          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2025/12/5/telecom-egypt club-logo12025_12_5_6_7.webp"
-        },
-        "team_b": {
-          "name": "كهرباء الإسماعيلية",
-          "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2025/8/10/kahraba2025_8_10_16_41.webp"
-        },
-        "score_a": null,
-        "score_b": null,
-        "match_url": "https://www.yallakora.com/egyptian-second-division/3056/match/113344/%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a%d8%a9-%d9%84%d9%84%d8%a7%d8%aa%d8%b5%d8%a7%d9%84%d8%a7%d8%aa-%d9%83%d9%87%d8%b1%d8%a8%d8%a7%d8%a1-%d8%a7%d9%84%d8%a5%d8%b3%d9%85%d8%a7%d8%b9%d9%8a%d9%84%d9%8a%d8%a9-%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d9%82%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a3#MC_MatcheDetails"
       }
     ]
   },
@@ -541,10 +522,10 @@
       {
         "match_id": "114477",
         "round": "مباراة ودية",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الأول",
         "time": "16:10",
-        "channel": null,
+        "channel": "أبوظبي الرياضية - HD1",
         "team_a": {
           "name": "الإمارات",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2021/9/8/UnitedArabEmirates2021_9_8_16_51.jpg"
@@ -553,17 +534,17 @@
           "name": "هندوراس",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/9/10/Honduras2018_9_10_18_33.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "1",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/friendly-matches-nations/2438/match/114477/%d8%a7%d9%84%d8%a5%d9%85%d8%a7%d8%b1%d8%a7%d8%aa-%d9%87%d9%86%d8%af%d9%88%d8%b1%d8%a7%d8%b3-%d9%85%d8%a8%d8%a7%d8%b1%d9%8a%d8%a7%d8%aa-%d9%88%d8%af%d9%8a%d8%a9-%d9%85%d9%86%d8%aa%d8%ae%d8%a8%d8%a7%d8%aa#MC_MatcheDetails"
       },
       {
         "match_id": "114475",
-        "round": "مبارة ودية",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "round": "مباراة ودية",
+        "status": "LIVE",
+        "status_label": "الشوط الأول",
         "time": "16:30",
-        "channel": null,
+        "channel": "STC TV",
         "team_a": {
           "name": "السعودية",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/24/Saudi2018_7_24_14_46.jpg"
@@ -572,17 +553,17 @@
           "name": "كوريا الجنوبية",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/24/Korea2018_7_24_14_45.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/friendly-matches-nations/2438/match/114475/%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9-%d9%83%d9%88%d8%b1%d9%8a%d8%a7-%d8%a7%d9%84%d8%ac%d9%86%d9%88%d8%a8%d9%8a%d8%a9-%d9%85%d8%a8%d8%a7%d8%b1%d9%8a%d8%a7%d8%aa-%d9%88%d8%af%d9%8a%d8%a9-%d9%85%d9%86%d8%aa%d8%ae%d8%a8%d8%a7%d8%aa#MC_MatcheDetails"
       },
       {
         "match_id": "114476",
-        "round": "مبارة ودية",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "round": "مباراة ودية",
+        "status": "LIVE",
+        "status_label": "الشوط الأول",
         "time": "16:45",
-        "channel": null,
+        "channel": "الكأس 1",
         "team_a": {
           "name": "قطر",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/26/Qatar2018_7_26_19_13.jpg"
@@ -591,8 +572,8 @@
           "name": "أستراليا",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/24/Australia2018_7_24_14_46.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/friendly-matches-nations/2438/match/114476/%d9%82%d8%b7%d8%b1-%d8%a3%d8%b3%d8%aa%d8%b1%d8%a7%d9%84%d9%8a%d8%a7-%d9%85%d8%a8%d8%a7%d8%b1%d9%8a%d8%a7%d8%aa-%d9%88%d8%af%d9%8a%d8%a9-%d9%85%d9%86%d8%aa%d8%ae%d8%a8%d8%a7%d8%aa#MC_MatcheDetails"
       }
     ]
