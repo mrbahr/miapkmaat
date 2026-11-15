@@ -45,8 +45,8 @@
       {
         "match_id": "114248",
         "round": "الجولة السادسة",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "19:00",
         "channel": "beIN SPORTS 2",
         "team_a": {
@@ -57,15 +57,15 @@
           "name": "ألبانيا",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/9/10/Albania2018_9_10_18_29.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "2",
         "match_url": "https://www.yallakora.com/uefa-nations-league/3025/match/114248/%d8%a8%d9%8a%d9%84%d8%a7%d8%b1%d9%88%d8%b3%d9%8a%d8%a7-%d8%a3%d9%84%d8%a8%d8%a7%d9%86%d9%8a%d8%a7-%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a3%d9%85%d9%85-%d8%a7%d9%84%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d9%8a%d8%a9#MC_MatcheDetails"
       },
       {
         "match_id": "114249",
         "round": "الجولة السادسة",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "19:00",
         "channel": "beIN SPORTS 3",
         "team_a": {
@@ -76,15 +76,15 @@
           "name": "سان مارينو",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/9/12/SanMarino2018_9_12_12_39.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "7",
+        "score_b": "2",
         "match_url": "https://www.yallakora.com/uefa-nations-league/3025/match/114249/%d9%81%d9%86%d9%84%d9%86%d8%af%d8%a7-%d8%b3%d8%a7%d9%86-%d9%85%d8%a7%d8%b1%d9%8a%d9%86%d9%88-%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a3%d9%85%d9%85-%d8%a7%d9%84%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d9%8a%d8%a9#MC_MatcheDetails"
       },
       {
         "match_id": "114250",
         "round": "الجولة السادسة",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الثاني",
         "time": "21:45",
         "channel": "beIN SPORTS 3",
         "team_a": {
@@ -95,15 +95,15 @@
           "name": "ايطاليا",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/9/10/Italy2018_9_10_18_23.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "3",
+        "score_b": "1",
         "match_url": "https://www.yallakora.com/uefa-nations-league/3025/match/114250/%d8%a8%d9%84%d8%ac%d9%8a%d9%83%d8%a7-%d8%a7%d9%8a%d8%b7%d8%a7%d9%84%d9%8a%d8%a7-%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a3%d9%85%d9%85-%d8%a7%d9%84%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d9%8a%d8%a9#MC_MatcheDetails"
       },
       {
         "match_id": "114251",
         "round": "الجولة السادسة",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الأول",
         "time": "21:45",
         "channel": "beIN SPORTS 4",
         "team_a": {
@@ -114,15 +114,15 @@
           "name": "التشيك",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/9/10/Czech2018_9_10_18_34.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "1",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/uefa-nations-league/3025/match/114251/%d9%83%d8%b1%d9%88%d8%a7%d8%aa%d9%8a%d8%a7-%d8%a7%d9%84%d8%aa%d8%b4%d9%8a%d9%83-%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a3%d9%85%d9%85-%d8%a7%d9%84%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d9%8a%d8%a9#MC_MatcheDetails"
       },
       {
         "match_id": "114252",
         "round": "الجولة السادسة",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الثاني",
         "time": "21:45",
         "channel": "beIN SPORTS 2",
         "team_a": {
@@ -133,15 +133,15 @@
           "name": "تركيا",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/9/10/Turkey2018_9_10_18_33.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "1",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/uefa-nations-league/3025/match/114252/%d9%81%d8%b1%d9%86%d8%b3%d8%a7-%d8%aa%d8%b1%d9%83%d9%8a%d8%a7-%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a3%d9%85%d9%85-%d8%a7%d9%84%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d9%8a%d8%a9#MC_MatcheDetails"
       },
       {
         "match_id": "114253",
         "round": "الجولة السادسة",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الثاني",
         "time": "21:45",
         "channel": "beIN SPORTS 1",
         "team_a": {
@@ -152,8 +152,8 @@
           "name": "إنجلترا",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/24/England2018_7_24_14_43.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "3",
         "match_url": "https://www.yallakora.com/uefa-nations-league/3025/match/114253/%d8%a5%d8%b3%d8%a8%d8%a7%d9%86%d9%8a%d8%a7-%d8%a5%d9%86%d8%ac%d9%84%d8%aa%d8%b1%d8%a7-%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a3%d9%85%d9%85-%d8%a7%d9%84%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d9%8a%d8%a9#MC_MatcheDetails"
       }
     ]
