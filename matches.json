@@ -7,8 +7,8 @@
       {
         "match_id": "113828",
         "round": "الجولة الرابعة",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "15:00",
         "channel": "beIN SPORTS 3",
         "team_a": {
@@ -19,15 +19,15 @@
           "name": "غينيا الاستوائية",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/26/GuineaEquatorial2018_7_26_19_30.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "3",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/can-qualifiers/3028/match/113828/-%d8%b2%d9%8a%d9%85%d8%a8%d8%a7%d8%a8%d9%88%d9%8a--%d8%ba%d9%8a%d9%86%d9%8a%d8%a7-%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d9%88%d8%a7%d8%a6%d9%8a%d8%a9-%d8%aa%d8%b5%d9%81%d9%8a%d8%a7%d8%aa-%d8%a3%d9%85%d9%85-%d8%a3%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7#MC_MatcheDetails"
       },
       {
         "match_id": "113829",
         "round": "الجولة الرابعة",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "15:00",
         "channel": "beIN SPORTS 2",
         "team_a": {
@@ -38,15 +38,15 @@
           "name": "الكاميرون",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/26/Cameron2018_7_26_19_23.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "3",
         "match_url": "https://www.yallakora.com/can-qualifiers/3028/match/113829/%d9%86%d8%a7%d9%85%d9%8a%d8%a8%d9%8a%d8%a7--%d8%a7%d9%84%d9%83%d8%a7%d9%85%d9%8a%d8%b1%d9%88%d9%86-%d8%aa%d8%b5%d9%81%d9%8a%d8%a7%d8%aa-%d8%a3%d9%85%d9%85-%d8%a3%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7#MC_MatcheDetails"
       },
       {
         "match_id": "113830",
         "round": "الجولة الرابعة",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "15:00",
         "channel": "beIN SPORTS 1",
         "team_a": {
@@ -57,15 +57,15 @@
           "name": "السنغال",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/24/Senegal2018_7_24_14_48.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "2",
+        "score_b": "4",
         "match_url": "https://www.yallakora.com/can-qualifiers/3028/match/113830/%d8%a7%d9%84%d8%b3%d9%88%d8%af%d8%a7%d9%86--%d8%a7%d9%84%d8%b3%d9%86%d8%ba%d8%a7%d9%84--%d8%aa%d8%b5%d9%81%d9%8a%d8%a7%d8%aa-%d8%a3%d9%85%d9%85-%d8%a3%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7#MC_MatcheDetails"
       },
       {
         "match_id": "113831",
         "round": "الجولة الرابعة",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "17:00",
         "channel": "beIN SPORTS 4",
         "team_a": {
@@ -76,15 +76,15 @@
           "name": "غانا",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/26/Ghana2018_7_26_19_26.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "1",
         "match_url": "https://www.yallakora.com/can-qualifiers/3028/match/113831/%d8%a7%d9%84%d8%b5%d9%88%d9%85%d8%a7%d9%84-%d8%ba%d8%a7%d9%86%d8%a7-%d8%aa%d8%b5%d9%81%d9%8a%d8%a7%d8%aa-%d8%a3%d9%85%d9%85-%d8%a3%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7#MC_MatcheDetails"
       },
       {
         "match_id": "113832",
         "round": "الجولة الرابعة",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الثاني",
         "time": "18:00",
         "channel": "beIN SPORTS 3",
         "team_a": {
@@ -95,15 +95,15 @@
           "name": "بنين",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/26/Benin2018_7_26_19_21.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/can-qualifiers/3028/match/113832/%d8%a3%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7-%d8%a7%d9%84%d9%88%d8%b3%d8%b7%d9%89-%d8%a8%d9%86%d9%8a%d9%86-%d8%aa%d8%b5%d9%81%d9%8a%d8%a7%d8%aa-%d8%a3%d9%85%d9%85-%d8%a3%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7#MC_MatcheDetails"
       },
       {
         "match_id": "113833",
         "round": "الجولة الرابعة",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الثاني",
         "time": "18:00",
         "channel": "beIN SPORTS 2",
         "team_a": {
@@ -114,8 +114,8 @@
           "name": "غينيا",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/26/Guinea2018_7_26_19_31.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "2",
         "match_url": "https://www.yallakora.com/can-qualifiers/3028/match/113833/%d8%a5%d8%b1%d9%8a%d8%aa%d8%b1%d9%8a%d8%a7-%d8%ba%d9%8a%d9%86%d9%8a%d8%a7-%d8%aa%d8%b5%d9%81%d9%8a%d8%a7%d8%aa-%d8%a3%d9%85%d9%85-%d8%a3%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7#MC_MatcheDetails"
       }
     ]
@@ -128,8 +128,8 @@
       {
         "match_id": "114254",
         "round": "الجولة السادسة",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "17:00",
         "channel": "beIN SPORTS 9",
         "team_a": {
@@ -140,15 +140,15 @@
           "name": "مولدوفا",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/9/10/Moldova2018_9_10_18_31.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "1",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/uefa-nations-league/3025/match/114254/%d8%ac%d8%b2%d8%b1-%d9%81%d8%a7%d8%b1%d9%88%d9%87-%d9%85%d9%88%d9%84%d8%af%d9%88%d9%81%d8%a7-%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a3%d9%85%d9%85-%d8%a7%d9%84%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d9%8a%d8%a9#MC_MatcheDetails"
       },
       {
         "match_id": "114255",
         "round": "الجولة السادسة",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "17:00",
         "channel": "beIN SPORTS 5",
         "team_a": {
@@ -159,15 +159,15 @@
           "name": "سلوفاكيا",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/9/10/Slovakia2018_9_10_18_33.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "2",
+        "score_b": "2",
         "match_url": "https://www.yallakora.com/uefa-nations-league/3025/match/114255/%d9%83%d8%a7%d8%b2%d8%a7%d8%ae%d8%b3%d8%aa%d8%a7%d9%86-%d8%b3%d9%84%d9%88%d9%81%d8%a7%d9%83%d9%8a%d8%a7-%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a3%d9%85%d9%85-%d8%a7%d9%84%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d9%8a%d8%a9#MC_MatcheDetails"
       },
       {
         "match_id": "114256",
         "round": "الجولة السادسة",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الأول",
         "time": "19:00",
         "channel": "beIN SPORTS 8",
         "team_a": {
@@ -178,15 +178,15 @@
           "name": "بلغاريا",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/9/10/Bulgaria2018_9_10_18_31.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "1",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/uefa-nations-league/3025/match/114256/%d8%a5%d8%b3%d8%aa%d9%88%d9%86%d9%8a%d8%a7-%d8%a8%d9%84%d8%ba%d8%a7%d8%b1%d9%8a%d8%a7-%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a3%d9%85%d9%85-%d8%a7%d9%84%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d9%8a%d8%a9#MC_MatcheDetails"
       },
       {
         "match_id": "114257",
         "round": "الجولة السادسة",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الأول",
         "time": "19:00",
         "channel": "beIN SPORTS 6",
         "team_a": {
@@ -197,15 +197,15 @@
           "name": "لوكسمبرج",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/9/10/Luxemborg2018_9_10_18_26.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/uefa-nations-league/3025/match/114257/%d8%a3%d9%8a%d8%b3%d9%84%d9%86%d8%af%d8%a7-%d9%84%d9%88%d9%83%d8%b3%d9%85%d8%a8%d8%b1%d8%ac-%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a3%d9%85%d9%85-%d8%a7%d9%84%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d9%8a%d8%a9#MC_MatcheDetails"
       },
       {
         "match_id": "114258",
         "round": "الجولة السادسة",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الأول",
         "time": "19:00",
         "channel": "beIN SPORTS 7",
         "team_a": {
@@ -216,8 +216,8 @@
           "name": "ليشتنشتاين",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/9/12/Liechtenstein2018_9_12_12_41.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "1",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/uefa-nations-league/3025/match/114258/%d9%84%d9%8a%d8%aa%d9%88%d8%a7%d9%86%d9%8a%d8%a7-%d9%84%d9%8a%d8%b4%d8%aa%d9%86%d8%b4%d8%aa%d8%a7%d9%8a%d9%86-%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a3%d9%85%d9%85-%d8%a7%d9%84%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d9%8a%d8%a9#MC_MatcheDetails"
       },
       {
