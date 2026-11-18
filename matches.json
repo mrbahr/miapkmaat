@@ -7,8 +7,8 @@
       {
         "match_id": "114473",
         "round": "دور الـ 16",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الثاني",
         "time": "17:00",
         "channel": "ON Sport",
         "team_a": {
@@ -19,8 +19,8 @@
           "name": "الاتحاد السكندري",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/24/Alittihad2018_7_24_13_30.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/egypt-cup/3066/match/114473/%d8%a7%d9%84%d8%ac%d9%88%d9%86%d8%a9-%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af-%d8%a7%d9%84%d8%b3%d9%83%d9%86%d8%af%d8%b1%d9%8a-%d9%83%d8%a3%d8%b3-%d9%85%d8%b5%d8%b1#MC_MatcheDetails"
       }
     ]
@@ -33,8 +33,8 @@
       {
         "match_id": "114017",
         "round": "نصف النهائي",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "16:00",
         "channel": "ON Sport MAX",
         "team_a": {
@@ -45,8 +45,8 @@
           "name": "سموحة",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2025/11/2/Smouha_SC_logo2025_11_2_3_18.webp"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "29",
+        "score_b": "24",
         "match_url": "https://www.yallakora.com/egyptian-handball-super-cup/3069/match/114017/%d8%a7%d9%84%d8%a3%d9%87%d9%84%d9%8a-%d8%b3%d9%85%d9%88%d8%ad%d8%a9-%d9%83%d8%b1%d8%a9-%d9%8a%d8%af-%d8%a7%d9%84%d8%b3%d9%88%d8%a8%d8%b1-%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a#MC_MatcheDetails"
       },
       {
