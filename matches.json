@@ -78,8 +78,8 @@
       {
         "match_id": "114484",
         "round": "مبارة ودية",
-        "status": "LIVE",
-        "status_label": "الشوط الثاني",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "01:00",
         "channel": null,
         "team_a": {
@@ -90,7 +90,7 @@
           "name": "كوستاريكا",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/24/Costarica2018_7_24_14_37.jpg"
         },
-        "score_a": "4",
+        "score_a": "7",
         "score_b": "0",
         "match_url": "https://www.yallakora.com/friendly-matches-nations/2438/match/114484/%d8%a7%d9%84%d8%a3%d8%b1%d8%ac%d9%86%d8%aa%d9%8a%d9%86-%d9%83%d9%88%d8%b3%d8%aa%d8%a7%d8%b1%d9%8a%d9%83%d8%a7-%d9%85%d8%a8%d8%a7%d8%b1%d9%8a%d8%a7%d8%aa-%d9%88%d8%af%d9%8a%d8%a9-%d9%85%d9%86%d8%aa%d8%ae%d8%a8%d8%a7%d8%aa#MC_MatcheDetails"
       }
