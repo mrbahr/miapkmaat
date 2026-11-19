@@ -7,8 +7,8 @@
       {
         "match_id": "114498",
         "round": "الجولة الأولى",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "15:00",
         "channel": "الكأس 8",
         "team_a": {
@@ -19,15 +19,15 @@
           "name": "الإكوادور",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2026/11/14/ecuador_square_icon_640 (1)2026_11_14_16_15.webp"
         },
-        "score_a": null,
-        "score_b": null,
-        "match_url": "https://www.yallakora.com/%d9%83%d8%a3%d8%b3-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d8%aa%d8%ad%d8%aa-17-%d8%b9%d8%a7%d9%85%d8%a7/3071/match/114498/%d9%83%d8%a7%d9%84%d9%8a%d8%af%d9%88%d9%86%d9%8a%d8%a7-%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d8%a7%d9%84%d8%a5%d9%83%d9%88%d8%a7%d8%af%d9%88%d8%b1-%d9%83%d8%a3%d8%b3-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d8%aa%d8%ad%d8%aa-17-%d8%b9%d8%a7%d9%85%d8%a7#MC_MatcheDetails"
+        "score_a": "0",
+        "score_b": "1",
+        "match_url": "https://www.yallakora.com/fifa-u-17-world-cup/3071/match/114498/%d9%83%d8%a7%d9%84%d9%8a%d8%af%d9%88%d9%86%d9%8a%d8%a7-%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d8%a7%d9%84%d8%a5%d9%83%d9%88%d8%a7%d8%af%d9%88%d8%b1-%d9%83%d8%a3%d8%b3-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d8%aa%d8%ad%d8%aa-17-%d8%b9%d8%a7%d9%85%d8%a7#MC_MatcheDetails"
       },
       {
         "match_id": "114499",
         "round": "الجولة الأولى",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "15:00",
         "channel": "الكأس 1",
         "team_a": {
@@ -38,15 +38,15 @@
           "name": "هايتي",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2025/10/27/haiti_square_icon_6402025_10_27_0_53.webp"
         },
-        "score_a": null,
-        "score_b": null,
-        "match_url": "https://www.yallakora.com/%d9%83%d8%a3%d8%b3-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d8%aa%d8%ad%d8%aa-17-%d8%b9%d8%a7%d9%85%d8%a7/3071/match/114499/%d9%81%d8%b1%d9%86%d8%b3%d8%a7-%d9%87%d8%a7%d9%8a%d8%aa%d9%8a-%d9%83%d8%a3%d8%b3-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d8%aa%d8%ad%d8%aa-17-%d8%b9%d8%a7%d9%85%d8%a7#MC_MatcheDetails"
+        "score_a": "3",
+        "score_b": "1",
+        "match_url": "https://www.yallakora.com/fifa-u-17-world-cup/3071/match/114499/%d9%81%d8%b1%d9%86%d8%b3%d8%a7-%d9%87%d8%a7%d9%8a%d8%aa%d9%8a-%d9%83%d8%a3%d8%b3-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d8%aa%d8%ad%d8%aa-17-%d8%b9%d8%a7%d9%85%d8%a7#MC_MatcheDetails"
       },
       {
         "match_id": "114500",
         "round": "الجولة الأولى",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "مباشر",
         "time": "15:30",
         "channel": "الكأس 7",
         "team_a": {
@@ -57,15 +57,15 @@
           "name": "أوغندا",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2025/3/13/uganda_square_icon_6402025_3_13_21_13.webp"
         },
-        "score_a": null,
-        "score_b": null,
-        "match_url": "https://www.yallakora.com/%d9%83%d8%a3%d8%b3-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d8%aa%d8%ad%d8%aa-17-%d8%b9%d8%a7%d9%85%d8%a7/3071/match/114500/%d9%83%d9%88%d8%b1%d9%8a%d8%a7-%d8%a7%d9%84%d8%ac%d9%86%d9%88%d8%a8%d9%8a%d8%a9-%d8%a3%d9%88%d8%ba%d9%86%d8%af%d8%a7-%d9%83%d8%a3%d8%b3-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d8%aa%d8%ad%d8%aa-17-%d8%b9%d8%a7%d9%85%d8%a7#MC_MatcheDetails"
+        "score_a": "3",
+        "score_b": "0",
+        "match_url": "https://www.yallakora.com/fifa-u-17-world-cup/3071/match/114500/%d9%83%d9%88%d8%b1%d9%8a%d8%a7-%d8%a7%d9%84%d8%ac%d9%86%d9%88%d8%a8%d9%8a%d8%a9-%d8%a3%d9%88%d8%ba%d9%86%d8%af%d8%a7-%d9%83%d8%a3%d8%b3-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d8%aa%d8%ad%d8%aa-17-%d8%b9%d8%a7%d9%85%d8%a7#MC_MatcheDetails"
       },
       {
         "match_id": "114501",
         "round": "الجولة الأولى",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "16:00",
         "channel": "الكأس 3",
         "team_a": {
@@ -76,15 +76,15 @@
           "name": "أوروجواي",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2026/11/12/uruguay_square_icon_640 (1)2026_11_12_17_32.webp"
         },
-        "score_a": null,
-        "score_b": null,
-        "match_url": "https://www.yallakora.com/%d9%83%d8%a3%d8%b3-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d8%aa%d8%ad%d8%aa-17-%d8%b9%d8%a7%d9%85%d8%a7/3071/match/114501/%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9-%d8%a3%d9%88%d8%b1%d9%88%d8%ac%d9%88%d8%a7%d9%8a-%d9%83%d8%a3%d8%b3-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d8%aa%d8%ad%d8%aa-17-%d8%b9%d8%a7%d9%85%d8%a7#MC_MatcheDetails"
+        "score_a": "2",
+        "score_b": "3",
+        "match_url": "https://www.yallakora.com/fifa-u-17-world-cup/3071/match/114501/%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9-%d8%a3%d9%88%d8%b1%d9%88%d8%ac%d9%88%d8%a7%d9%8a-%d9%83%d8%a3%d8%b3-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d8%aa%d8%ad%d8%aa-17-%d8%b9%d8%a7%d9%85%d8%a7#MC_MatcheDetails"
       },
       {
         "match_id": "114502",
         "round": "الجولة الأولى",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "17:00",
         "channel": "الكأس 9",
         "team_a": {
@@ -95,15 +95,15 @@
           "name": "الدنمارك",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2026/11/14/denmark_square_icon_640 (1)2026_11_14_18_46.webp"
         },
-        "score_a": null,
-        "score_b": null,
-        "match_url": "https://www.yallakora.com/%d9%83%d8%a3%d8%b3-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d8%aa%d8%ad%d8%aa-17-%d8%b9%d8%a7%d9%85%d8%a7/3071/match/114502/%d9%85%d9%88%d8%b2%d9%85%d8%a8%d9%8a%d9%82-%d8%a7%d9%84%d8%af%d9%86%d9%85%d8%a7%d8%b1%d9%83-%d9%83%d8%a3%d8%b3-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d8%aa%d8%ad%d8%aa-17-%d8%b9%d8%a7%d9%85%d8%a7#MC_MatcheDetails"
+        "score_a": "4",
+        "score_b": "0",
+        "match_url": "https://www.yallakora.com/fifa-u-17-world-cup/3071/match/114502/%d9%85%d9%88%d8%b2%d9%85%d8%a8%d9%8a%d9%82-%d8%a7%d9%84%d8%af%d9%86%d9%85%d8%a7%d8%b1%d9%83-%d9%83%d8%a3%d8%b3-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d8%aa%d8%ad%d8%aa-17-%d8%b9%d8%a7%d9%85%d8%a7#MC_MatcheDetails"
       },
       {
         "match_id": "114503",
         "round": "الجولة الأولى",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "17:30",
         "channel": "الكأس 1",
         "team_a": {
@@ -114,15 +114,15 @@
           "name": "بنما",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2025/10/29/panama_square_icon_640 (1)2025_10_29_17_55.webp"
         },
-        "score_a": null,
-        "score_b": null,
-        "match_url": "https://www.yallakora.com/%d9%83%d8%a3%d8%b3-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d8%aa%d8%ad%d8%aa-17-%d8%b9%d8%a7%d9%85%d8%a7/3071/match/114503/%d9%82%d8%b7%d8%b1-%d8%a8%d9%86%d9%85%d8%a7-%d9%83%d8%a3%d8%b3-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d8%aa%d8%ad%d8%aa-17-%d8%b9%d8%a7%d9%85%d8%a7#MC_MatcheDetails"
+        "score_a": "2",
+        "score_b": "0",
+        "match_url": "https://www.yallakora.com/fifa-u-17-world-cup/3071/match/114503/%d9%82%d8%b7%d8%b1-%d8%a8%d9%86%d9%85%d8%a7-%d9%83%d8%a3%d8%b3-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d8%aa%d8%ad%d8%aa-17-%d8%b9%d8%a7%d9%85%d8%a7#MC_MatcheDetails"
       },
       {
         "match_id": "114504",
         "round": "الجولة الأولى",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "18:00",
         "channel": "الكأس 7",
         "team_a": {
@@ -133,15 +133,15 @@
           "name": "اليونان",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2026/11/14/greece_square_icon_640 (1)2026_11_14_16_6.webp"
         },
-        "score_a": null,
-        "score_b": null,
-        "match_url": "https://www.yallakora.com/%d9%83%d8%a3%d8%b3-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d8%aa%d8%ad%d8%aa-17-%d8%b9%d8%a7%d9%85%d8%a7/3071/match/114504/%d9%85%d8%b5%d8%b1-%d8%a7%d9%84%d9%8a%d9%88%d9%86%d8%a7%d9%86-%d9%83%d8%a3%d8%b3-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d8%aa%d8%ad%d8%aa-17-%d8%b9%d8%a7%d9%85%d8%a7#MC_MatcheDetails"
+        "score_a": "1",
+        "score_b": "2",
+        "match_url": "https://www.yallakora.com/fifa-u-17-world-cup/3071/match/114504/%d9%85%d8%b5%d8%b1-%d8%a7%d9%84%d9%8a%d9%88%d9%86%d8%a7%d9%86-%d9%83%d8%a3%d8%b3-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d8%aa%d8%ad%d8%aa-17-%d8%b9%d8%a7%d9%85%d8%a7#MC_MatcheDetails"
       },
       {
         "match_id": "114505",
         "round": "الجولة الأولى",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "18:00",
         "channel": "الكأس 8",
         "team_a": {
@@ -152,9 +152,9 @@
           "name": "استراليا",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2026/11/14/australia_square_icon_640 (1)2026_11_14_16_17.webp"
         },
-        "score_a": null,
-        "score_b": null,
-        "match_url": "https://www.yallakora.com/%d9%83%d8%a3%d8%b3-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d8%aa%d8%ad%d8%aa-17-%d8%b9%d8%a7%d9%85%d8%a7/3071/match/114505/%d8%a7%d9%84%d8%a3%d8%b1%d8%ac%d9%86%d8%aa%d9%8a%d9%86-%d8%a7%d8%b3%d8%aa%d8%b1%d8%a7%d9%84%d9%8a%d8%a7-%d9%83%d8%a3%d8%b3-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d8%aa%d8%ad%d8%aa-17-%d8%b9%d8%a7%d9%85%d8%a7#MC_MatcheDetails"
+        "score_a": "0",
+        "score_b": "2",
+        "match_url": "https://www.yallakora.com/fifa-u-17-world-cup/3071/match/114505/%d8%a7%d9%84%d8%a3%d8%b1%d8%ac%d9%86%d8%aa%d9%8a%d9%86-%d8%a7%d8%b3%d8%aa%d8%b1%d8%a7%d9%84%d9%8a%d8%a7-%d9%83%d8%a3%d8%b3-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d8%aa%d8%ad%d8%aa-17-%d8%b9%d8%a7%d9%85%d8%a7#MC_MatcheDetails"
       }
     ]
   },
@@ -166,8 +166,8 @@
       {
         "match_id": "114469",
         "round": "دور الـ 16",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "17:00",
         "channel": "ON Sport",
         "team_a": {
@@ -178,15 +178,15 @@
           "name": "بترول أسيوط",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2026/8/5/381138136_829473065541495_2622633524029911606_n2026_8_5_23_33.webp"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "3",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/egypt-cup/3066/match/114469/%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a-%d8%a8%d8%aa%d8%b1%d9%88%d9%84-%d8%a3%d8%b3%d9%8a%d9%88%d8%b7-%d9%83%d8%a3%d8%b3-%d9%85%d8%b5%d8%b1#MC_MatcheDetails"
       },
       {
         "match_id": "114488",
         "round": "دور الـ 16",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "17:00",
         "channel": "ON Sport MAX",
         "team_a": {
@@ -197,15 +197,15 @@
           "name": "القناة",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/10/9/AlQanah2018_10_9_12_34.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "1",
+        "score_b": "1",
         "match_url": "https://www.yallakora.com/egypt-cup/3066/match/114488/%d8%a7%d9%84%d9%85%d9%82%d8%a7%d9%88%d9%84%d9%88%d9%86-%d8%a7%d9%84%d8%b9%d8%b1%d8%a8-%d8%a7%d9%84%d9%82%d9%86%d8%a7%d8%a9-%d9%83%d8%a3%d8%b3-%d9%85%d8%b5%d8%b1#MC_MatcheDetails"
       },
       {
         "match_id": "114470",
         "round": "دور الـ 16",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الثاني",
         "time": "20:00",
         "channel": "ON Sport MAX",
         "team_a": {
@@ -216,8 +216,8 @@
           "name": "سموحة",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/24/Smouha2018_7_24_13_32.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/egypt-cup/3066/match/114470/%d8%b2%d8%af-%d8%b3%d9%85%d9%88%d8%ad%d8%a9-%d9%83%d8%a3%d8%b3-%d9%85%d8%b5%d8%b1#MC_MatcheDetails"
       }
     ]
@@ -230,8 +230,8 @@
       {
         "match_id": "114571",
         "round": "المباراة النهائية",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "18:30",
         "channel": "ON Sport PLUS",
         "team_a": {
@@ -242,8 +242,8 @@
           "name": "الزمالك",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2025/4/18/zamalek-logo2025_4_18_0_26.webp"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "24",
+        "score_b": "23",
         "match_url": "https://www.yallakora.com/egyptian-handball-super-cup/3069/match/114571/%d8%a7%d9%84%d8%a3%d9%87%d9%84%d9%8a-%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%84%d9%83-%d9%83%d8%b1%d8%a9-%d9%8a%d8%af-%d8%a7%d9%84%d8%b3%d9%88%d8%a8%d8%b1-%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a#MC_MatcheDetails"
       }
     ]
@@ -256,8 +256,8 @@
       {
         "match_id": "113345",
         "round": "الأسبوع الثالث عشر",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "14:30",
         "channel": null,
         "team_a": {
@@ -268,17 +268,17 @@
           "name": "السكة الحديد",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2025/12/5/el-sekka-el-hadid-sc-logo-png_seeklogo-6312502025_12_5_5_50.webp"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "2",
+        "score_b": "2",
         "match_url": "https://www.yallakora.com/egyptian-second-division/3056/match/113345/%d9%84%d8%a7%d9%81%d9%8a%d9%8a%d9%86%d8%a7-%d8%a3%d9%81-%d8%b3%d9%8a-%d8%a7%d9%84%d8%b3%d9%83%d8%a9-%d8%a7%d9%84%d8%ad%d8%af%d9%8a%d8%af-%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d9%82%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a3#MC_MatcheDetails"
       },
       {
         "match_id": "113346",
         "round": "الأسبوع الثالث عشر",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "14:30",
-        "channel": null,
+        "channel": "ON Sport",
         "team_a": {
           "name": "الداخلية",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/24/Eldakhleya2018_7_24_13_32.jpg"
@@ -287,17 +287,17 @@
           "name": "الإسماعيلي",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/24/Ismaily2018_7_24_13_30.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/egyptian-second-division/3056/match/113346/%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%a5%d8%b3%d9%85%d8%a7%d8%b9%d9%8a%d9%84%d9%8a-%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d9%82%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a3#MC_MatcheDetails"
       },
       {
         "match_id": "113347",
         "round": "الأسبوع الثالث عشر",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "14:30",
-        "channel": null,
+        "channel": "ON Sport MAX",
         "team_a": {
           "name": "بلدية المحلة",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2023/9/19/12023_9_19_23_45.jpg"
@@ -306,15 +306,15 @@
           "name": "حرس الحدود",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2022/11/5/harras-el-hodoud12022_11_5_0_8.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "1",
         "match_url": "https://www.yallakora.com/egyptian-second-division/3056/match/113347/%d8%a8%d9%84%d8%af%d9%8a%d8%a9-%d8%a7%d9%84%d9%85%d8%ad%d9%84%d8%a9-%d8%ad%d8%b1%d8%b3-%d8%a7%d9%84%d8%ad%d8%af%d9%88%d8%af-%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d9%82%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a3#MC_MatcheDetails"
       },
       {
         "match_id": "113348",
         "round": "الأسبوع الثالث عشر",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "14:30",
         "channel": null,
         "team_a": {
@@ -325,15 +325,15 @@
           "name": "الانتاج الحربي",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/24/AlentagAlharby2018_7_24_13_33.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "2",
+        "score_b": "1",
         "match_url": "https://www.yallakora.com/egyptian-second-division/3056/match/113348/%d9%81%d8%a7%d8%b1%d9%83%d9%88-%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%a7%d8%ac-%d8%a7%d9%84%d8%ad%d8%b1%d8%a8%d9%8a-%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d9%82%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a3#MC_MatcheDetails"
       },
       {
         "match_id": "113349",
         "round": "الأسبوع الثالث عشر",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "14:30",
         "channel": null,
         "team_a": {
@@ -344,8 +344,8 @@
           "name": "المصرية للاتصالات",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2025/12/5/telecom-egypt club-logo12025_12_5_6_7.webp"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "1",
+        "score_b": "2",
         "match_url": "https://www.yallakora.com/egyptian-second-division/3056/match/113349/%d8%a7%d9%84%d8%aa%d8%b1%d8%b3%d8%a7%d9%86%d8%a9-%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a%d8%a9-%d9%84%d9%84%d8%a7%d8%aa%d8%b5%d8%a7%d9%84%d8%a7%d8%aa-%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d9%82%d8%b3%d9%85-%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a-%d8%a3#MC_MatcheDetails"
       }
     ]
@@ -358,8 +358,8 @@
       {
         "match_id": "113789",
         "round": "الأسبوع التاسع",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "14:45",
         "channel": null,
         "team_a": {
@@ -370,15 +370,15 @@
           "name": "حتا",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2026/8/2/logoL_1374551152026_8_2_20_26.webp"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "2",
+        "score_b": "1",
         "match_url": "https://www.yallakora.com/uael-league/3042/match/113789/%d8%a7%d9%84%d9%88%d8%b5%d9%84-%d8%ad%d8%aa%d8%a7-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a5%d9%85%d8%a7%d8%b1%d8%a7%d8%aa%d9%8a#MC_MatcheDetails"
       },
       {
         "match_id": "113790",
         "round": "الأسبوع التاسع",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "17:25",
         "channel": null,
         "team_a": {
@@ -389,8 +389,8 @@
           "name": "الظفرة",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/26/Alzafra2018_7_26_11_51.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "2",
+        "score_b": "1",
         "match_url": "https://www.yallakora.com/uael-league/3042/match/113790/%d8%a7%d9%84%d8%b9%d9%8a%d9%86-%d8%a7%d9%84%d8%b8%d9%81%d8%b1%d8%a9-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d8%a5%d9%85%d8%a7%d8%b1%d8%a7%d8%aa%d9%8a#MC_MatcheDetails"
       }
     ]
@@ -403,8 +403,8 @@
       {
         "match_id": "114077",
         "round": "الأسبوع العاشر",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "17:30",
         "channel": null,
         "team_a": {
@@ -415,8 +415,8 @@
           "name": "الشمال",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2021/9/8/AlShamal2021_9_8_10_36.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "1",
+        "score_b": "1",
         "match_url": "https://www.yallakora.com/qatar-league/3041/match/114077/%d8%a7%d9%84%d8%a3%d9%87%d9%84%d9%8a-%d8%a7%d9%84%d9%82%d8%b7%d8%b1%d9%8a-%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84-%d8%af%d9%88%d8%b1%d9%8a-%d9%86%d8%ac%d9%88%d9%85-%d9%82%d8%b7%d8%b1#MC_MatcheDetails"
       }
     ]
