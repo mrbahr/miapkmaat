@@ -97,8 +97,8 @@
       {
         "match_id": "114531",
         "round": "الجولة الثانية",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "مباشر",
         "time": "14:30",
         "channel": null,
         "team_a": {
@@ -109,15 +109,15 @@
           "name": "كرواتيا",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2025/10/27/croatia_square_icon_6402025_10_27_0_29.webp"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "4",
         "match_url": "https://www.yallakora.com/fifa-u-17-world-cup/3071/match/114531/%d8%b7%d8%a7%d8%ac%d9%8a%d9%83%d8%b3%d8%aa%d8%a7%d9%86-%d9%83%d8%b1%d9%88%d8%a7%d8%aa%d9%8a%d8%a7-%d9%83%d8%a3%d8%b3-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d8%aa%d8%ad%d8%aa-17-%d8%b9%d8%a7%d9%85%d8%a7#MC_MatcheDetails"
       },
       {
         "match_id": "114532",
         "round": "الجولة الثانية",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "14:30",
         "channel": null,
         "team_a": {
@@ -128,15 +128,15 @@
           "name": "فيجي",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2025/10/27/fiji_square_icon_6402025_10_27_0_43.webp"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "15",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/fifa-u-17-world-cup/3071/match/114532/%d8%a5%d8%b3%d8%a8%d8%a7%d9%86%d9%8a%d8%a7-%d9%81%d9%8a%d8%ac%d9%8a-%d9%83%d8%a3%d8%b3-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d8%aa%d8%ad%d8%aa-17-%d8%b9%d8%a7%d9%85%d8%a7#MC_MatcheDetails"
       },
       {
         "match_id": "114533",
         "round": "الجولة الثانية",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "مباشر",
         "time": "15:00",
         "channel": null,
         "team_a": {
@@ -147,15 +147,15 @@
           "name": "جامايكا",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2026/11/12/jamaica_square_icon_640 (1)2026_11_12_17_43.webp"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "4",
+        "score_b": "2",
         "match_url": "https://www.yallakora.com/fifa-u-17-world-cup/3071/match/114533/%d8%a3%d9%88%d8%b2%d8%a8%d9%83%d8%b3%d8%aa%d8%a7%d9%86-%d8%ac%d8%a7%d9%85%d8%a7%d9%8a%d9%83%d8%a7--%d9%83%d8%a3%d8%b3-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d8%aa%d8%ad%d8%aa-17-%d8%b9%d8%a7%d9%85%d8%a7#MC_MatcheDetails"
       },
       {
         "match_id": "114534",
         "round": "الجولة الثانية",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "مباشر",
         "time": "15:30",
         "channel": null,
         "team_a": {
@@ -166,8 +166,8 @@
           "name": "كوبا",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2026/11/12/cuba_square_icon_640 (1)2026_11_12_17_49.webp"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "5",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/fifa-u-17-world-cup/3071/match/114534/%d8%a7%d9%84%d8%b3%d9%86%d8%ba%d8%a7%d9%84-%d9%83%d9%88%d8%a8%d8%a7-%d9%83%d8%a3%d8%b3-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d8%aa%d8%ad%d8%aa-17-%d8%b9%d8%a7%d9%85%d8%a7#MC_MatcheDetails"
       },
       {
@@ -360,8 +360,8 @@
       {
         "match_id": "114436",
         "round": "الجولة الخامسة",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "الشوط الأول",
         "time": "15:45",
         "channel": "beIN SPORTS 1",
         "team_a": {
@@ -372,8 +372,8 @@
           "name": "الهلال",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2024/8/13/11142024_8_13_20_18.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "2",
         "match_url": "https://www.yallakora.com/asian-champions-league/3054/match/114436/%d9%86%d9%8a%d9%81%d8%aa%d8%b4%d9%8a-%d9%81%d8%b1%d8%ac%d8%a7%d9%86%d8%a9-%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84-%d8%af%d9%88%d8%b1%d9%8a-%d8%a3%d8%a8%d8%b7%d8%a7%d9%84-%d8%a2%d8%b3%d9%8a%d8%a7-%d9%84%d9%84%d9%86%d8%ae%d8%a8%d8%a9#MC_MatcheDetails"
       },
       {
