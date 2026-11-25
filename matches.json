@@ -71,8 +71,8 @@
       {
         "match_id": "114547",
         "round": "الجولة الثالثة",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "14:30",
         "channel": null,
         "team_a": {
@@ -83,15 +83,15 @@
           "name": "كوريا الجنوبية",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2025/10/29/korea_south_square_icon_640 (1)2025_10_29_15_59.webp"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "2",
+        "score_b": "3",
         "match_url": "https://www.yallakora.com/fifa-u-17-world-cup/3071/match/114547/%d8%a7%d9%84%d8%a5%d9%83%d9%88%d8%a7%d8%af%d9%88%d8%b1-%d9%83%d9%88%d8%b1%d9%8a%d8%a7-%d8%a7%d9%84%d8%ac%d9%86%d9%88%d8%a8%d9%8a%d8%a9-%d9%83%d8%a3%d8%b3-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d8%aa%d8%ad%d8%aa-17-%d8%b9%d8%a7%d9%85%d8%a7#MC_MatcheDetails"
       },
       {
         "match_id": "114548",
         "round": "الجولة الثالثة",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "14:30",
         "channel": null,
         "team_a": {
@@ -102,15 +102,15 @@
           "name": "كاليدونيا الجديدة",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2025/10/25/new_caledonia_square_icon_6402025_10_25_1_57.webp"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "6",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/fifa-u-17-world-cup/3071/match/114548/%d8%a3%d9%88%d8%ba%d9%86%d8%af%d8%a7-%d9%83%d8%a7%d9%84%d9%8a%d8%af%d9%88%d9%86%d9%8a%d8%a7-%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d9%83%d8%a3%d8%b3-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d8%aa%d8%ad%d8%aa-17-%d8%b9%d8%a7%d9%85%d8%a7#MC_MatcheDetails"
       },
       {
         "match_id": "114549",
         "round": "الجولة الثالثة",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "مباشر",
         "time": "15:30",
         "channel": null,
         "team_a": {
@@ -121,15 +121,15 @@
           "name": "فرنسا",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2025/10/29/france_square_icon_640 (2)2025_10_29_20_9.webp"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "3",
         "match_url": "https://www.yallakora.com/fifa-u-17-world-cup/3071/match/114549/%d8%a3%d9%88%d8%b1%d9%88%d8%ac%d9%88%d8%a7%d9%8a-%d9%81%d8%b1%d9%86%d8%b3%d8%a7-%d9%83%d8%a3%d8%b3-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d8%aa%d8%ad%d8%aa-17-%d8%b9%d8%a7%d9%85%d8%a7#MC_MatcheDetails"
       },
       {
         "match_id": "114550",
         "round": "الجولة الثالثة",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "مباشر",
         "time": "15:30",
         "channel": null,
         "team_a": {
@@ -140,17 +140,17 @@
           "name": "السعودية",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2025/11/9/saudi_arabia_square_icon_2562025_11_9_22_10.webp"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "1",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/fifa-u-17-world-cup/3071/match/114550/%d9%87%d8%a7%d9%8a%d8%aa%d9%8a-%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9-%d9%83%d8%a3%d8%b3-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d8%aa%d8%ad%d8%aa-17-%d8%b9%d8%a7%d9%85%d8%a7#MC_MatcheDetails"
       },
       {
         "match_id": "114551",
         "round": "الجولة الثالثة",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "مباشر",
         "time": "16:30",
-        "channel": null,
+        "channel": "الكأس 1",
         "team_a": {
           "name": "اليونان",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2026/11/14/greece_square_icon_640 (1)2026_11_14_16_6.webp"
@@ -159,17 +159,17 @@
           "name": "قطر",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2025/10/22/qatar_square_icon_6402025_10_22_16_6.webp"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "1",
         "match_url": "https://www.yallakora.com/fifa-u-17-world-cup/3071/match/114551/%d8%a7%d9%84%d9%8a%d9%88%d9%86%d8%a7%d9%86-%d9%82%d8%b7%d8%b1-%d9%83%d8%a3%d8%b3-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d8%aa%d8%ad%d8%aa-17-%d8%b9%d8%a7%d9%85%d8%a7#MC_MatcheDetails"
       },
       {
         "match_id": "114552",
         "round": "الجولة الثالثة",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "LIVE",
+        "status_label": "مباشر",
         "time": "16:30",
-        "channel": null,
+        "channel": "الكأس 7",
         "team_a": {
           "name": "بنما",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2025/10/29/panama_square_icon_640 (1)2025_10_29_17_55.webp"
@@ -178,8 +178,8 @@
           "name": "مصر",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2026/5/28/1 (2)2026_5_28_0_2.webp"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "0",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/fifa-u-17-world-cup/3071/match/114552/%d8%a8%d9%86%d9%85%d8%a7-%d9%85%d8%b5%d8%b1-%d9%83%d8%a3%d8%b3-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d8%aa%d8%ad%d8%aa-17-%d8%b9%d8%a7%d9%85%d8%a7#MC_MatcheDetails"
       },
       {
@@ -188,7 +188,7 @@
         "status": "SCHEDULED",
         "status_label": "لم تبدأ",
         "time": "17:30",
-        "channel": null,
+        "channel": "الكأس 8",
         "team_a": {
           "name": "الدنمارك",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2026/11/14/denmark_square_icon_640 (1)2026_11_14_18_46.webp"
@@ -207,7 +207,7 @@
         "status": "SCHEDULED",
         "status_label": "لم تبدأ",
         "time": "17:30",
-        "channel": null,
+        "channel": "الكأس 9",
         "team_a": {
           "name": "استراليا",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2026/11/14/australia_square_icon_640 (1)2026_11_14_16_17.webp"
@@ -408,8 +408,8 @@
       {
         "match_id": "114450",
         "round": "الجولة الخامسة",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "12:00",
         "channel": null,
         "team_a": {
@@ -420,15 +420,15 @@
           "name": "تاي بورت",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2021/7/15/ThaiPort2021_7_15_13_2.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "2",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/asian-champions-league/3054/match/114450/%d8%ac%d8%a7%d9%85%d8%a8%d8%a7-%d8%a3%d9%88%d8%b3%d8%a7%d9%83%d8%a7-%d8%aa%d8%a7%d9%8a-%d8%a8%d9%88%d8%b1%d8%aa-%d8%af%d9%88%d8%b1%d9%8a-%d8%a3%d8%a8%d8%b7%d8%a7%d9%84-%d8%a2%d8%b3%d9%8a%d8%a7-%d9%84%d9%84%d9%86%d8%ae%d8%a8%d8%a9#MC_MatcheDetails"
       },
       {
         "match_id": "114451",
         "round": "الجولة الخامسة",
-        "status": "SCHEDULED",
-        "status_label": "لم تبدأ",
+        "status": "FINISHED",
+        "status_label": "انتهت",
         "time": "12:00",
         "channel": "beIN SPORTS 3",
         "team_a": {
@@ -439,8 +439,8 @@
           "name": "تشونبك هيونداي",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/26/JeonbukHyundai2018_7_26_13_58.jpg"
         },
-        "score_a": null,
-        "score_b": null,
+        "score_a": "3",
+        "score_b": "0",
         "match_url": "https://www.yallakora.com/asian-champions-league/3054/match/114451/%d9%83%d8%a7%d8%b4%d9%8a%d9%85%d8%a7-%d8%a7%d9%86%d8%aa%d9%84%d8%b1%d8%b2-%d8%aa%d8%b4%d9%88%d9%86%d8%a8%d9%83-%d9%87%d9%8a%d9%88%d9%86%d8%af%d8%a7%d9%8a-%d8%af%d9%88%d8%b1%d9%8a-%d8%a3%d8%a8%d8%b7%d8%a7%d9%84-%d8%a2%d8%b3%d9%8a%d8%a7-%d9%84%d9%84%d9%86%d8%ae%d8%a8%d8%a9#MC_MatcheDetails"
       }
     ]
