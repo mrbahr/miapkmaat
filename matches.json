@@ -105,7 +105,7 @@
         "status": "SCHEDULED",
         "status_label": "لم تبدأ",
         "time": "17:00",
-        "channel": null,
+        "channel": "الكأس 7",
         "team_a": {
           "name": "الصين",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2026/11/12/china_square_icon_640 (1)2026_11_12_18_21.webp"
@@ -124,7 +124,7 @@
         "status": "SCHEDULED",
         "status_label": "لم تبدأ",
         "time": "18:00",
-        "channel": null,
+        "channel": "الكأس 6",
         "team_a": {
           "name": "طاجيكستان",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2025/10/29/tajikistan_square_icon_6402025_10_29_17_9.webp"
@@ -143,7 +143,7 @@
         "status": "SCHEDULED",
         "status_label": "لم تبدأ",
         "time": "18:00",
-        "channel": null,
+        "channel": "الكأس 10",
         "team_a": {
           "name": "كرواتيا",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2025/10/27/croatia_square_icon_6402025_10_27_0_29.webp"
@@ -188,7 +188,7 @@
         "status": "SCHEDULED",
         "status_label": "لم تبدأ",
         "time": "14:30",
-        "channel": null,
+        "channel": "ON Sport",
         "team_a": {
           "name": "الانتاج الحربي",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/24/AlentagAlharby2018_7_24_13_33.jpg"
@@ -207,7 +207,7 @@
         "status": "SCHEDULED",
         "status_label": "لم تبدأ",
         "time": "14:30",
-        "channel": null,
+        "channel": "ON Sport MAX",
         "team_a": {
           "name": "السكة الحديد",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2025/12/5/el-sekka-el-hadid-sc-logo-png_seeklogo-6312502025_12_5_5_50.webp"
