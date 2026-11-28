@@ -477,7 +477,7 @@
         "status": "SCHEDULED",
         "status_label": "لم تبدأ",
         "time": "16:00",
-        "channel": null,
+        "channel": "Starz Play App",
         "team_a": {
           "name": "فروزينوني",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/29/Frosinone2018_7_29_15_23.jpg"
@@ -496,7 +496,7 @@
         "status": "SCHEDULED",
         "status_label": "لم تبدأ",
         "time": "19:00",
-        "channel": null,
+        "channel": "Starz Play App",
         "team_a": {
           "name": "تورينو",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2018/7/29/Torino2018_7_29_15_6.jpg"
@@ -515,7 +515,7 @@
         "status": "SCHEDULED",
         "status_label": "لم تبدأ",
         "time": "21:45",
-        "channel": null,
+        "channel": "Starz Play App",
         "team_a": {
           "name": "إنتر ميلان",
           "logo": "https://mediayk.gemini.media/img/yallakora/iosteams/120/2021/9/5/InterMilan2021_9_5_16_40.jpg"
